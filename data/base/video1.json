@@ -1,0 +1,317 @@
+{
+   "type": "list",
+   "headline": "Template",
+   "template": {
+      "type": "separate",
+      "layout": "0,0,2,4",
+      "color": "msx-glass",
+      "title": "Title"
+   },
+   "items": [
+      {
+         "title": "Moana",
+         "titleFooter": "8.2",
+         "imageFiller": "cover",
+         "image": "http://msx.benzac.de/img/bg1.jpg",
+         "playerLabel": "Moana",
+         "action": "video:https://www.dropbox.com/s/0xzuqcd6v4cdct6/Dolittle.2020.mp4?raw=1"
+      },
+      {
+         "title": "Item 2"
+      },
+      {
+         "title": "Item 3"
+      },
+      {
+         "title": "Item 4"
+      },
+      {
+         "title": "Item 5"
+      },
+      {
+         "title": "Item 6"
+      },
+      {
+         "title": "Item 7"
+      },
+      {
+         "title": "Item 8"
+      },
+      {
+         "title": "Item 9"
+      },
+      {
+         "title": "Item 10"
+      },
+      {
+         "title": "Item 11"
+      },
+      {
+         "title": "Item 12"
+      },
+      {
+         "title": "Item 13"
+      },
+      {
+         "title": "Item 14"
+      },
+      {
+         "title": "Item 15"
+      },
+      {
+         "title": "Item 16"
+      },
+      {
+         "title": "Item 17"
+      },
+      {
+         "title": "Item 18"
+      },
+      {
+         "title": "Item 19"
+      },
+      {
+         "title": "Item 20"
+      },
+      {
+         "title": "Item 21"
+      },
+      {
+         "title": "Item 22"
+      },
+      {
+         "title": "Item 23"
+      },
+      {
+         "title": "Item 24"
+      },
+      {
+         "title": "Item 25"
+      },
+      {
+         "title": "Item 26"
+      },
+      {
+         "title": "Item 27"
+      },
+      {
+         "title": "Item 28"
+      },
+      {
+         "title": "Item 29"
+      },
+      {
+         "title": "Item 30"
+      },
+      {
+         "title": "Item 31"
+      },
+      {
+         "title": "Item 32"
+      },
+      {
+         "title": "Item 33"
+      },
+      {
+         "title": "Item 34"
+      },
+      {
+         "title": "Item 35"
+      },
+      {
+         "title": "Item 36"
+      },
+      {
+         "title": "Item 37"
+      },
+      {
+         "title": "Item 38"
+      },
+      {
+         "title": "Item 39"
+      },
+      {
+         "title": "Item 40"
+      },
+      {
+         "title": "Item 41"
+      },
+      {
+         "title": "Item 42"
+      },
+      {
+         "title": "Item 43"
+      },
+      {
+         "title": "Item 44"
+      },
+      {
+         "title": "Item 45"
+      },
+      {
+         "title": "Item 46"
+      },
+      {
+         "title": "Item 47"
+      },
+      {
+         "title": "Item 48"
+      },
+      {
+         "title": "Item 49"
+      },
+      {
+         "title": "Item 50"
+      },
+      {
+         "title": "Item 51"
+      },
+      {
+         "title": "Item 52"
+      },
+      {
+         "title": "Item 53"
+      },
+      {
+         "title": "Item 54"
+      },
+      {
+         "title": "Item 55"
+      },
+      {
+         "title": "Item 56"
+      },
+      {
+         "title": "Item 57"
+      },
+      {
+         "title": "Item 58"
+      },
+      {
+         "title": "Item 59"
+      },
+      {
+         "title": "Item 60"
+      },
+      {
+         "title": "Item 61"
+      },
+      {
+         "title": "Item 62"
+      },
+      {
+         "title": "Item 63"
+      },
+      {
+         "title": "Item 64"
+      },
+      {
+         "title": "Item 65"
+      },
+      {
+         "title": "Item 66"
+      },
+      {
+         "title": "Item 67"
+      },
+      {
+         "title": "Item 68"
+      },
+      {
+         "title": "Item 69"
+      },
+      {
+         "title": "Item 70"
+      },
+      {
+         "title": "Item 71"
+      },
+      {
+         "title": "Item 72"
+      },
+      {
+         "title": "Item 73"
+      },
+      {
+         "title": "Item 74"
+      },
+      {
+         "title": "Item 75"
+      },
+      {
+         "title": "Item 76"
+      },
+      {
+         "title": "Item 77"
+      },
+      {
+         "title": "Item 78"
+      },
+      {
+         "title": "Item 79"
+      },
+      {
+         "title": "Item 80"
+      },
+      {
+         "title": "Item 81"
+      },
+      {
+         "title": "Item 82"
+      },
+      {
+         "title": "Item 83"
+      },
+      {
+         "title": "Item 84"
+      },
+      {
+         "title": "Item 85"
+      },
+      {
+         "title": "Item 86"
+      },
+      {
+         "title": "Item 87"
+      },
+      {
+         "title": "Item 88"
+      },
+      {
+         "title": "Item 89"
+      },
+      {
+         "title": "Item 90"
+      },
+      {
+         "title": "Item 91"
+      },
+      {
+         "title": "Item 92"
+      },
+      {
+         "title": "Item 93"
+      },
+      {
+         "title": "Item 94"
+      },
+      {
+         "title": "Item 95"
+      },
+      {
+         "title": "Item 96"
+      },
+      {
+         "title": "Item 97"
+      },
+      {
+         "title": "Item 98"
+      },
+      {
+         "title": "Item 99"
+      },
+      {
+         "title": "Item 100"
+      }
+   ]
+}
