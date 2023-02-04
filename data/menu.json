@@ -1,5 +1,5 @@
 {
-    "headline": "GitHub Pages Example",
+    "headline": "UTainies",
     "menu": [
         {
             "icon": "info",
@@ -12,7 +12,7 @@
         },
         {
             "icon": "movie",
-            "label": "Videos",
+            "label": "Movies",
             "data": "https://sastamaa.github.io/msx/data/base/videos.json"
         },
         {
