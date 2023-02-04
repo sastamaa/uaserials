@@ -3,14 +3,14 @@
     "headline": "Videos",
     "template": {
         "type": "separate",
-        "layout": "0,0,2,4",
-        "icon": "msx-white-soft:movie",
-        "color": "msx-glass"
+        "layout": "0,0,2,4"
     },
     "items": [
         {
             "title": "Shotgun Wedding",
             "playerLabel": "Video 1",
+            "icon": "msx-white-soft:movie",
+            "color": "msx-glass",
             "action": "video:https://www.sw.vidce.net/d/kWyO0YmNS-OFkHzp4trHzA/1675769664/2018/2015/tt9686790.mp4"
         },
         {
