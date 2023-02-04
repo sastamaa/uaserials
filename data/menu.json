@@ -13,7 +13,7 @@
         {
             "icon": "movie",
             "label": "Movies",
-            "data": "https://sastamaa.github.io/msx/data/base/videos.json"
+            "data": "https://sastamaa.github.io/msx/data/base/video1.json"
         },
         {
             "icon": "music-note",
