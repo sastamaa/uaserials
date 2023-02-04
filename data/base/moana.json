@@ -1,13 +1,13 @@
 {
    "type": "pages",
-   "headline": "Moana",
+   "headline": "Dolittle",
    "pages": [
       {
          "items": [
             {
                "type": "image",
                "layout": "0,0,4,6",
-               "image": "http://msx.benzac.de/img/test.jpg",
+               "image": "https://image.tmdb.org/t/p/w780/uoplwswBDy7gsOyrbGuKyPFoPCs.jpg",
                "imageFiller": "height-left"
             },
             {
@@ -20,7 +20,9 @@
             {
                "type": "button",
                "layout": "6,5,2,1",
-               "label": "Trailer"
+               "label": "Trailer",
+               "playerLabel": "Dolittle",
+               "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=24cB03MGH3c"
             },
             {
                "type": "default",
