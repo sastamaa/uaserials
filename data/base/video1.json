@@ -15,7 +15,8 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w780/uoplwswBDy7gsOyrbGuKyPFoPCs.jpg",
          "playerLabel": "Dolittle",
-         "data": "https://sastamaa.github.io/msx/data/base/moana.json"
+         "action": "data:https://sastamaa.github.io/msx/data/base/moana.json"
+
 
       },
       {
