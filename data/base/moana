@@ -1,0 +1,38 @@
+{
+   "type": "pages",
+   "headline": "Moana",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "teaser",
+               "layout": "0,0,4,6",
+               "image": "http://msx.benzac.de/img/test.jpg",
+               "imageFiller": "height-left"
+            },
+            {
+               "type": "button",
+               "layout": "4,5,1,1",
+               "label": "4,5"
+            },
+            {
+               "type": "button",
+               "layout": "5,5,1,1",
+               "label": "5,5"
+            },
+            {
+               "type": "button",
+               "layout": "6,5,1,1",
+               "label": "6,5"
+            },
+            {
+               "type": "default",
+               "layout": "4,0,8,5",
+               "color": "msx-glass",
+               "title": "{txt:msx-green:Title}",
+               "titleFooter": "{ico:msx-yellow:star}{ico:msx-white-soft:star}{ico:msx-white-soft:star}{ico:msx-white-soft:star}{ico:msx-white-soft:star}"
+            }
+         ]
+      }
+   ]
+}
