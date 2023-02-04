@@ -9,11 +9,13 @@
    },
    "items": [
       {
-         "title": "Moana",
+         "title": "Dolittle",
+         "badge": "{col:msx-white}8.2",
+         "badgeColor": "msx-blue",
          "titleFooter": "8.2",
          "imageFiller": "cover",
-         "image": "http://msx.benzac.de/img/bg1.jpg",
-         "playerLabel": "Moana",
+         "image": "https://image.tmdb.org/t/p/w780/uoplwswBDy7gsOyrbGuKyPFoPCs.jpg",
+         "playerLabel": "Dolittle",
          "action": "video:https://www.dropbox.com/s/0xzuqcd6v4cdct6/Dolittle.2020.mp4?raw=1"
       },
       {
