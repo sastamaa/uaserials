@@ -12,18 +12,13 @@
             },
             {
                "type": "button",
-               "layout": "4,5,1,1",
-               "label": "4,5"
+               "layout": "4,5,2,1",
+               "label": "Watch"
             },
             {
                "type": "button",
-               "layout": "5,5,1,1",
-               "label": "5,5"
-            },
-            {
-               "type": "button",
-               "layout": "6,5,1,1",
-               "label": "6,5"
+               "layout": "6,5,2,1",
+               "label": "Trailer"
             },
             {
                "type": "default",
