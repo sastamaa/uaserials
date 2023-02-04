@@ -15,7 +15,8 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w780/uoplwswBDy7gsOyrbGuKyPFoPCs.jpg",
          "playerLabel": "Dolittle",
-         "action": "video:https://www.dropbox.com/s/0xzuqcd6v4cdct6/Dolittle.2020.mp4?raw=1"
+         "data": "https://sastamaa.github.io/msx/data/base/moana.json"
+
       },
       {
          "title": "Item 2"
