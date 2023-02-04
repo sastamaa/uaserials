@@ -5,7 +5,7 @@
       {
          "items": [
             {
-               "type": "teaser",
+               "type": "image",
                "layout": "0,0,4,6",
                "image": "http://msx.benzac.de/img/test.jpg",
                "imageFiller": "height-left"
@@ -13,7 +13,9 @@
             {
                "type": "button",
                "layout": "4,5,2,1",
-               "label": "Watch"
+               "label": "Watch",
+               "playerLabel": "Dolittle",
+               "action": "video:https://www.dropbox.com/s/0xzuqcd6v4cdct6/Dolittle.2020.mp4?raw=1"
             },
             {
                "type": "button",
