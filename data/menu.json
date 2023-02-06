@@ -19,14 +19,14 @@
          "data": "https://sastamaa.github.io/msx/data/base/movies/list.json"
           },
       {
-         "icon": "movie",
+         "icon": "subscriptions",
          "label": "Series",
-         "data": "https://sastamaa.github.io/msx/data/base/movies/list.json"
+         "data": "https://sastamaa.github.io/msx/data/base/series/list.json"
           },
       {
-         "icon": "movie",
+         "icon": "sentiment-satisfied-alt",
          "label": "Kids",
-         "data": "https://sastamaa.github.io/msx/data/base/movies/list.json"
+         "data": "https://sastamaa.github.io/msx/data/base/kids/list.json"
       }
    ]
 }
