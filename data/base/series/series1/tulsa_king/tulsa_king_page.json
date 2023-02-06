@@ -6,6 +6,7 @@
          "items": [
             {
                "type": "image",
+               "badge": "S1 E9 (9)",
                "layout": "0,0,4,6",
                "image": "https://image.tmdb.org/t/p/w780/fwTv3RPRAIy0maOMns5eYRRwnDk.jpg",
                "imageFiller": "height-left"
