@@ -4,22 +4,6 @@
       {
          "label": "Season 1",
          "data": "http://sastamaa.github.io/msx/data/base/series/series1/tulsa_king/season_1.json"
-      },
-      {
-         "label": "Season 2",
-         "data": "http://msx.benzac.de/info/data/guide/audios.json"
-      },
-      {
-         "label": "Season 3",
-         "data": "http://msx.benzac.de/info/data/guide/images.json"
-      },
-      {
-         "label": "Season 4",
-         "data": "http://msx.benzac.de/info/data/guide/links.json"
-      },
-      {
-         "label": "Season 5",
-         "data": "http://msx.benzac.de/info/data/guide/mixed.json"
       }
    ]
 }
