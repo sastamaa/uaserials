@@ -1,0 +1,37 @@
+{
+   "type": "pages",
+   "headline": "Γάμος μετ' εμποδίων",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "image",
+               "layout": "0,0,4,6",
+               "image": "https://image.tmdb.org/t/p/w780/t79ozwWnwekO0ADIzsFP1E5SkvR.jpg",
+               "imageFiller": "height-left"
+            },
+            {
+               "type": "button",
+               "layout": "4,5,2,1",
+               "label": "Play",
+               "playerLabel": "Shotgun Wedding",
+               "action": "video:https://www.sw.vidce.net/d/h8hybVc9mLpuADnU6Y8xxQ/1676292515/2018/2015/tt9686790.mp4"
+            },
+            {
+               "type": "button",
+               "layout": "6,5,2,1",
+               "label": "Trailer",
+               "playerLabel": "Shotgun Wedding (Trailer)",
+               "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=o7YMMoiBwFc"
+            },
+            {
+               "type": "default",
+               "layout": "4,0,8,5",
+               "badge": "Δραση | Ρομαντικη | Κωμωδια",
+               "color": "msx-glass",
+               "titleFooter": "Η Darcy και ο Tom συγκεντρώνουν τις αξιαγάπητες αλλά πολύ παρεμβατικές οικογένειες του σε ένα απόλυτα εξωτικό προορισμό για τον γάμο τους. Μόνο που η σχέση των μελλόνυμφων γεμίζει σύννεφα και σαν να μην ήταν αυτό αρκετό ξαφνικά γίνονται όλοι θύματα μιας παράξενης ομηρείας. Η φράση «μέχρι να μας χωρίσει ο θάνατος αποκτά μια τελείως διαφορετική ερμηνεία καθώς η Darcy και ο Tom παλεύουν να σώσουν τους αγαπημένους τους, εκτός κι’ αν προλάβουν να σκοτώσουν ο ένας τον άλλο πρώτα!.{br}{br}{txt:msx-white:Director:}{tb}Jason Moore{br}{txt:msx-white:Actors:}{tb}Jennifer Lopez, Josh Duhamel, Sônia Braga, Jennifer Coolidge, Lenny Kravitz, Cheech Marin.{br}{br}{br}"
+            }
+         ]
+      }
+   ]
+}
