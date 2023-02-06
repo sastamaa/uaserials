@@ -15,8 +15,18 @@
       },
       {
          "icon": "movie",
+         "label": "Movies",
+         "data": "https://sastamaa.github.io/msx/data/base/movies/list.json"
+          },
+      {
+         "icon": "movie",
+         "label": "Series",
+         "data": "https://sastamaa.github.io/msx/data/base/movies/list.json"
+          },
+      {
+         "icon": "movie",
          "label": "Kids",
-         "data": "https://sastamaa.github.io/msx/data/base/video1.json"
+         "data": "https://sastamaa.github.io/msx/data/base/movies/list.json"
       }
    ]
 }
