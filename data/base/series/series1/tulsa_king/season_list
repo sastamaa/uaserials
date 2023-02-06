@@ -3,7 +3,7 @@
    "menu": [
       {
          "label": "Season 1",
-         "data": "http://msx.benzac.de/info/data/guide/videos.json"
+         "data": "http://sastamaa.github.io/msx/data/base/series/series1/tulsa_king/season_1.json"
       },
       {
          "label": "Season 2",
