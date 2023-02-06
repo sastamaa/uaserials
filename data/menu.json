@@ -2,27 +2,20 @@
    "headline": "UTainies",
    "style": "overlay",
    "transparent": 2,
-   "ready": {
-      "action": "execute:service:video:data:http://msx.benzac.de/services/background.php",
-      "data": {
-         "url": "http://msx.benzac.de/media/atmos1.mp4",
-         "label": "Atmospheric Background 1",
-         "transparent": true
-      }
-   },
+   "background": "http://msx.benzac.de/media/wallpaper1.jpg",
    "menu": [
       {
-         "icon": "info",
-         "label": "Welcome",
+         "icon": "search",
+         "label": "Search",
          "data": "https://benzac-de.github.io/msx/data/welcome.json"
       },
       {
          "type": "separator",
-         "label": "Base"
+         "label": "Category"
       },
       {
          "icon": "movie",
-         "label": "Movies",
+         "label": "Kids",
          "data": "https://sastamaa.github.io/msx/data/base/video1.json"
       }
    ]
