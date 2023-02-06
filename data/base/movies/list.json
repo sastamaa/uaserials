@@ -9,12 +9,13 @@
    },
    "items": [
       {
-         "title": "Dolittle",
-         "badge": "{col:msx-white}8.2",
+         "title": "Shotgun Wedding",
+         "titleFooter": "2022",
+         "badge": "{col:msx-white}5.5",
          "badgeColor": "msx-blue",
          "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w780/uoplwswBDy7gsOyrbGuKyPFoPCs.jpg",
-          "action": "content:https://sastamaa.github.io/msx/data/base/movies/movies1/dolittle.json"
+         "image": "https://image.tmdb.org/t/p/w780/t79ozwWnwekO0ADIzsFP1E5SkvR.jpg",
+          "action": "content:https://sastamaa.github.io/msx/data/base/movies/movies1/shotgunwedding.json"
 
 
       },
