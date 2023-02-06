@@ -5,11 +5,6 @@
    "background": "http://msx.benzac.de/media/wallpaper1.jpg",
    "menu": [
       {
-         "icon": "search",
-         "label": "Search",
-         "data": "https://benzac-de.github.io/msx/data/welcome.json"
-      },
-      {
          "type": "separator",
          "label": "Category"
       },
