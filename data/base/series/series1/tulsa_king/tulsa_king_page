@@ -1,0 +1,36 @@
+{
+   "type": "pages",
+   "headline": "Tulsa King (2022)",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "image",
+               "layout": "0,0,4,6",
+               "image": "https://image.tmdb.org/t/p/w780/fwTv3RPRAIy0maOMns5eYRRwnDk.jpg",
+               "imageFiller": "height-left"
+            },
+            {
+               "type": "button",
+               "layout": "4,5,2,1",
+               "label": "Play",
+               "action": "menu:http://sastamaa.github.io/msx/data/base/series/series1/tulsa_king/season_list.json"
+            },
+            {
+               "type": "button",
+               "layout": "6,5,2,1",
+               "label": "Trailer",
+               "playerLabel": "Tulsa King (Trailer)",
+               "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=aaQSScwZPbA"
+            },
+            {
+               "type": "default",
+               "layout": "4,0,8,5",
+               "badge": "Αστυνομικη, Δραμα",
+               "color": "msx-glass",
+               "titleFooter": "Αμέσως μετα την αποφυλάκιση του και ύστερα από κάθειρξη 25 χρόνων ο μαφιόζος Ντουάϊτ “Ο Στρατηγός” Μανφρέντι (Stallone), πάει στην οικογένεια για την οποία μπήκε φυλακή. Σχεδόν άμεσα, το αφεντικό του τον στέλνει στη Τάλσα της Οκλαχόμα, εκεί όπου θα πρέπει να φτιάξει νέα συμμορία με σκοπό τη δημιουργία μιας νέας εγκληματικής αυτοκρατορίας. Αν και ο έμπειρος Μανφρέντι γνωρίζει πως η μαφιόζικη οικογένεια του δε σκέφτεται μόνο το δικό του καλό, κι έτσι σιγά-σιγά αλλά σταθερά φτιάχνει μια νέα συμμορία που αποτελείται από αταίριαστους χαρακτήρες, που θα τον βοηθήσουν να εκπληρώσει την επιθυμία του αφεντικού του, σε ένα μέρος που για τον ίδιο μοιάζει να είναι σε έναν διαφορετικό πλανήτη.{br}{txt:msx-white:Director:}{tb}Taylor Sheridan{br}{txt:msx-white:Actors:}{tb}Sylvester Stallone, Andrea Savage, Martin Starr, Jay Will, Max Casella, Domenick Lombardozzi, Vincent Piazza, A.C. Peterson, Garrett Hedlund, Dana Delany, Annabella Sciorra{br}{br}"
+            }
+         ]
+      }
+   ]
+}
