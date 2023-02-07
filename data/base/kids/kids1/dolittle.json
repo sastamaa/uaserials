@@ -1,13 +1,14 @@
 {
    "type": "pages",
    "headline": "Ντούλιτλ (2020)",
+   "background": "https://www.themoviedb.org/t/p/original/fLU5WnLCkeBSOneGamSntrPKZhE.jpg",
    "pages": [
       {
          "items": [
             {
                "type": "image",
                "layout": "0,0,4,6",
-               "image": "https://image.tmdb.org/t/p/w780/uoplwswBDy7gsOyrbGuKyPFoPCs.jpg",
+               "image": "https://image.tmdb.org/t/p/w780/2O3ewrmiR9a7oCd1jHxXn1pPJX8.jpg",
                "imageFiller": "height-left"
             },
             {
@@ -21,13 +22,13 @@
                "type": "button",
                "layout": "6,5,2,1",
                "label": "Trailer",
-               "playerLabel": "Dolittle",
+               "playerLabel": "Dolittle - Trailer",
                "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=24cB03MGH3c"
             },
             {
                "type": "default",
                "layout": "4,0,8,5",
-               "badge": "Οικογενειακη | Φαντασιας | Περιπετεια",
+               "badge": "Mεταγλωτισμενο",
                "color": "msx-glass",
                "titleFooter": "Επτά χρόνια μετά το χαμό της συζύγου του, ο εκκεντρικός Δόκτωρ Ντούλιτλ, ξακουστός γιατρός και κτηνίατρος της Βασίλισσας Βικτώρια, έχει απομονωθεί στην κατοικία του, με μοναδική συντροφιά τα εξωτικά του ζώα. Όταν όμως η νεαρή βασίλισσα αρρωσταίνει σοβαρά, ο αυτοεξόριστος Ντούλιτλ αναγκάζεται να αναχωρήσει για μια επικών διαστάσεων περιπέτεια ώστε να αναζητήσει το αντίδοτο σε ένα μυθικό νησί.{br}{br}{br}{txt:msx-white:Director:}{tb}Stephen Gaghan{br}{txt:msx-white:Screenplay:}{tb}Stephen Gaghan, Dan Gregor, Doug Mand{br}{txt:msx-white:Actors:}{tb}Robert Downey Jr, Antonio Banderas, Michael Sheen, Harry Collett, Emma Thompson, Rami Malek, John Cena, Kumail Nanjiani, Octavia Spencer, Tom Holland, Ralph Fiennes, Selena Gomez, Marion Cotillard{br}{br}{br}"
             }
