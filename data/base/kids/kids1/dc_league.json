@@ -1,13 +1,14 @@
 {
    "type": "pages",
    "headline": "Η DC λεγεώνα από τα σούπερ-κατοικίδια (2022)",
+   "background": "https://www.themoviedb.org/t/p/original/eEq3oYf089ID15iu4fpLUCOFoRF.jpg",
    "pages": [
       {
          "items": [
             {
                "type": "image",
                "layout": "0,0,4,6",
-               "image": "https://image.tmdb.org/t/p/w780/r7XifzvtezNt31ypvsmb6Oqxw49.jpg",
+               "image": "https://image.tmdb.org/t/p/w780/pVOuhLYmcbcqHliiaIB6uafs2yT.jpg",
                "imageFiller": "height-left"
             },
             {
