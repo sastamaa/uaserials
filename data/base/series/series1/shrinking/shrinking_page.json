@@ -1,0 +1,37 @@
+{
+   "type": "pages",
+   "headline": "Shrinking (2023)",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "image",
+               "badge": "S1 E3 (10)",
+               "layout": "0,0,4,6",
+               "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/by1ouUR2TvEnnRmn01Y1co5lfiW.jpg",
+               "imageFiller": "height-left"
+            },
+            {
+               "type": "button",
+               "layout": "4,5,2,1",
+               "label": "Play",
+               "action": "menu:http://sastamaa.github.io/msx/data/base/series/series1/shrinking/season_list.json"
+            },
+            {
+               "type": "button",
+               "layout": "6,5,2,1",
+               "label": "Trailer",
+               "playerLabel": "Shrinking (Trailer)",
+               "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=YjHfjQDWl1A"
+            },
+            {
+               "type": "default",
+               "layout": "4,0,8,5",
+               "badge": "Comedy | Drama",
+               "color": "msx-glass",
+               "titleFooter": "Το Apple TV+ κυκλοφόρησε ένα νέο trailer από το “Shrinking”, την τηλεοπτική κωμική. Η σειρά ακολουθεί τον Dr. Phil (Jason Segel), έναν θεραπευτή που θρηνεί και που αποφασίζει να σπάσει τους κανόνες, λέγοντας στους πελάτες του αυτό ακριβώς που σκέφτεται. Αγνοώντας την εκπαίδευση του και τη δεοντολογία, θα δει τον εαυτό να πραγματοποιεί μεγάλες αλλαγές στις ζωές των ανθρώπων, συμπεριλαμβανομένης και της δικής του.{br}{br}{br}{txt:msx-white:Director:}{tb}Brett Goldstein, Bill Lawrence, Jason Segel{br}{txt:msx-white:Actors:}{tb}Jason Segel, Jessica Williams, Harrison Ford, Luke Tennie, Michael Urie, Christa Miller, Lukita Maxwell{br}{br}{br}{br}{br}"
+            }
+         ]
+      }
+   ]
+}
