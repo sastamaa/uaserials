@@ -1,0 +1,37 @@
+{
+   "type": "pages",
+   "headline": "Η DC λεγεώνα από τα σούπερ-κατοικίδια (2022)",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "image",
+               "layout": "0,0,4,6",
+               "image": "https://image.tmdb.org/t/p/w780/r7XifzvtezNt31ypvsmb6Oqxw49.jpg",
+               "imageFiller": "height-left"
+            },
+            {
+               "type": "button",
+               "layout": "4,5,2,1",
+               "label": "Play",
+               "playerLabel": "DC League of Super-Pets",
+               "action": "video:https://www.sw.vidce.net/d/A-lwJLNmFYtsZDmgljHa0w/1676407179/video/2015/tt8912936GR.mp4"
+            },
+            {
+               "type": "button",
+               "layout": "6,5,2,1",
+               "label": "Trailer",
+               "playerLabel": "DC League of Super-Pets - Trailer",
+               "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=yIY2-OdIz-4"
+            },
+            {
+               "type": "default",
+               "layout": "4,0,8,5",
+               "badge": "Mεταγλωτισμενο",
+               "color": "msx-glass",
+               "titleFooter": "Ο Κρύπτο, ο Σούπερ-Σκύλος και ο Σούπερμαν είναι αχώριστοι φίλοι, μοιράζονται τις ίδιες υπερδυνάμεις και μάχονται πλάι-πλάι το έγκλημα στο Metropolis. Ωστόσο, ο Κρύπτο θα πρέπει να σταθεί στις δικές του δυνάμεις για μια αποστολή διάσωσης, όταν το θύμα απαγωγής είναι ο ίδιος ο Σούπερμαν.{br}{br}{br}{txt:msx-white:Director:}{tb}Jared Stern{br}{txt:msx-white:Screenplay:}{tb}Stephen Gaghan, Dan Gregor, Doug Mand{br}{txt:msx-white:Actors:}{tb}Dwayne Johnson, Kevin Hart, John Krasinski, Keanu Reeves{br}{br}{br}{br}{br}{br}{br}"
+            }
+         ]
+      }
+   ]
+}
