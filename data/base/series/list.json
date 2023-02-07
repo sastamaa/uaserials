@@ -27,7 +27,13 @@
           "action": "content:https://sastamaa.github.io/msx/data/base/series/series1/shrinking/shrinking_page.json"
       },
       {
-         "title": "Item 3"
+         "title": "Severance",
+         "titleFooter": "2022",
+         "badge": "{col:msx-white}8.7",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w780/a5kkO4uyH5ETN6Dk0wPlZwQPUGO.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/series1/severance/severance_page.json"
       },
       {
          "title": "Item 4"
