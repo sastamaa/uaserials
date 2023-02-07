@@ -18,7 +18,7 @@
           "action": "content:https://sastamaa.github.io/msx/data/base/series/series1/tulsa_king/tulsa_king_page.json"
       },
       {
-         "title": "Shrinking"
+         "title": "Shrinking",
          "titleFooter": "2023",
          "badge": "{col:msx-white}7.7",
          "badgeColor": "msx-blue",
