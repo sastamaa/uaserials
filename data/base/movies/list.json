@@ -16,11 +16,15 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w780/t79ozwWnwekO0ADIzsFP1E5SkvR.jpg",
           "action": "content:https://sastamaa.github.io/msx/data/base/movies/movies1/shotgunwedding.json"
-
-
       },
       {
-         "title": "Item 2"
+         "title": "The Body"
+         "titleFooter": "2012",
+         "badge": "{col:msx-white}7.6",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bgQmVnRYXRiehk3kReDOBwMrpk5.jpg",
+          "action": "content:https://sastamaa.github.io/msx/data/base/movies/movies1/thebody.json"
       },
       {
          "title": "Item 3"
