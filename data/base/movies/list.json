@@ -27,7 +27,13 @@
           "action": "content:https://sastamaa.github.io/msx/data/base/movies/movies1/thebody.json"
       },
       {
-         "title": "Item 3"
+         "title": "Triangle of Sadness",
+         "titleFooter": "2022",
+         "badge": "{col:msx-white}7.5",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/k9eLozCgCed5FGTSdHu0bBElAV8.jpg",
+          "action": "content:https://sastamaa.github.io/msx/data/base/movies/movies1/triangle_of_sadness.json"
       },
       {
          "title": "Item 4"
