@@ -1,0 +1,38 @@
+{
+   "type": "pages",
+   "headline": "Διαχωρισμός (2022)",
+   "background": "https://www.themoviedb.org/t/p/original/8hQA04JLNolV9xfvMkaYg3Hg08w.jpg",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "image",
+               "badge": "S1 E9 (9)",
+               "layout": "0,0,4,6",
+               "image": "https://image.tmdb.org/t/p/w780/a5kkO4uyH5ETN6Dk0wPlZwQPUGO.jpg",
+               "imageFiller": "height-left"
+            },
+            {
+               "type": "button",
+               "layout": "4,5,2,1",
+               "label": "Play",
+               "action": "menu:http://sastamaa.github.io/msx/data/base/series/series1/severance/season_list.json"
+            },
+            {
+               "type": "button",
+               "layout": "6,5,2,1",
+               "label": "Trailer",
+               "playerLabel": "Severance (Trailer)",
+               "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=xEQP4VVuyrY"
+            },
+            {
+               "type": "default",
+               "layout": "4,0,8,5",
+               "badge": "Drama | Mystery | Sci-Fi",
+               "color": "msx-glass",
+               "titleFooter": "Ο Mark Scout (Adam Scott) είναι επικεφαλής μιας ομάδας στην Lumon Industries, μια εταιρεία όπου οι υπάλληλοι της έχουν υποστεί μια χειρουργική επέμβαση, που διαχωρίζει τις αναμνήσεις της δουλειάς από αυτές της προσωπικής τους ζωής. Αυτό το τολμηρό πείραμα που έχει σαν στόχο την ισορροπία της δουλειάς-ζωής, θα προκαλέσει ερωτηματικά όταν ο Mark θα βρεθεί στο επίκεντρο ενός μυστηρίου, που θα τον αναγκάσει να αντιμετωπίσει την αληθινή φύση της δουλειάς του και του εαυτού του.{br}{br}{txt:msx-white:Director:}{tb}Dan Erickson{br}{txt:msx-white:Actors:}{tb}Adam Scott, Zach Cherry, Britt Lower{br}{br}{br}{br}{br}"
+            }
+         ]
+      }
+   ]
+}
