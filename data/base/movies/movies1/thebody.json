@@ -1,0 +1,38 @@
+{
+   "type": "pages",
+   "headline": "Το Σώμα (2012)",
+   "background": "https://www.themoviedb.org/t/p/original/z3gZRm7ZnWVyKpZHJ4vho7wRZW3.jpg",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "image",
+               "layout": "0,0,4,6",
+               "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bgQmVnRYXRiehk3kReDOBwMrpk5.jpg",
+               "imageFiller": "height-left"
+            },
+            {
+               "type": "button",
+               "layout": "4,5,2,1",
+               "label": "Play",
+               "playerLabel": "The Body",
+               "action": "video:https://www.nd.vidce.net/d/SN_x46Wdu1uRASYw0dj3bQ/1676373989/video/2015/tt1937149.mp4"
+            },
+            {
+               "type": "button",
+               "layout": "6,5,2,1",
+               "label": "Trailer",
+               "playerLabel": "The Body (Trailer)",
+               "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=1Oas1mIRJZE"
+            },
+            {
+               "type": "default",
+               "layout": "4,0,8,5",
+               "badge": "Crime | Drama | Mystery",
+               "color": "msx-glass",
+               "titleFooter": "Το σώμα μιας γυναίκας εξαφανίζεται από το νεκροτομείο κάτω από ανεξήγητες συνθήκες. Μέσα σε μια νύχτα, ένας αστυνομικός επιθεωρητής πρέπει να διερευνήσει τη μυστηριώδη απώλεια με τη βοήθεια του χήρου συζύγου.{br}{br}{br}{txt:msx-white:Director:}{tb}Jason Moore{br}{txt:msx-white:Actors:}{tb}Jennifer Lopez, Josh Duhamel, Sônia Braga, Jennifer Coolidge, Lenny Kravitz, Cheech Marin.{br}{br}{br}{br}{br}{br}{br}"
+            }
+         ]
+      }
+   ]
+}
