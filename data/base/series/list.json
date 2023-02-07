@@ -10,6 +10,7 @@
    "items": [
       {
          "title": "Tulsa King",
+         "titleFooter": "2022",
          "badge": "{col:msx-white}8.2",
          "badgeColor": "msx-blue",
          "imageFiller": "cover",
@@ -17,7 +18,13 @@
           "action": "content:https://sastamaa.github.io/msx/data/base/series/series1/tulsa_king/tulsa_king_page.json"
       },
       {
-         "title": "Item 2"
+         "title": "Shrinking"
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}7.7",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/by1ouUR2TvEnnRmn01Y1co5lfiW.jpg",
+          "action": "content:https://sastamaa.github.io/msx/data/base/series/series1/shrinking/shrinking_page.json"
       },
       {
          "title": "Item 3"
