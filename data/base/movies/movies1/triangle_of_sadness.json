@@ -1,0 +1,38 @@
+{
+   "type": "pages",
+   "headline": "Το Τρίγωνο της Θλίψης (2022)",
+   "background": "https://www.themoviedb.org/t/p/original/6RhLu6bSEpLDndfx723XdBMyspu.jpg",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "image",
+               "layout": "0,0,4,6",
+               "image": "https://image.tmdb.org/t/p/w780/k9eLozCgCed5FGTSdHu0bBElAV8.jpg",
+               "imageFiller": "height-left"
+            },
+            {
+               "type": "button",
+               "layout": "4,5,2,1",
+               "label": "Play",
+               "playerLabel": "Triangle of Sadness",
+               "action": "video:https://www.sw.vidce.net/d/PXNEAKm-nakWdr6ywokIBA/1676376206/2018/2015/tt7322224.mp4"
+            },
+            {
+               "type": "button",
+               "layout": "6,5,2,1",
+               "label": "Trailer",
+               "playerLabel": "Triangle of Sadness (Trailer)",
+               "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=ibZEcffZ0Ws"
+            },
+            {
+               "type": "default",
+               "layout": "4,0,8,5",
+               "badge": "Comedy | Drama",
+               "color": "msx-glass",
+               "titleFooter": "Τα μοντέλα Καρλ και Γιάγια προσκαλούνται σε μια πολυτελή κρουαζιέρα με μια σειρά από πάμπλουτους επιβάτες. Στην αρχή, όλα φαίνονται ιδανικά, αλλά η κρουαζιέρα τελειώνει καταστροφικά και η ομάδα βρίσκεται αποκλεισμένη σε ένα ερημονήσι.{br}{br}{br}{txt:msx-white:Director:}{tb}Ruben Östlund{br}{txt:msx-white:Actors:}{tb}Thobias Thorwid, Harris Dickinson, Charlbi Dean{br}{br}{br}{br}{br}{br}{br}"
+            }
+         ]
+      }
+   ]
+}
