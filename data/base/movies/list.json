@@ -18,7 +18,7 @@
           "action": "content:https://sastamaa.github.io/msx/data/base/movies/movies1/shotgunwedding.json"
       },
       {
-         "title": "The Body"
+         "title": "The Body",
          "titleFooter": "2012",
          "badge": "{col:msx-white}7.6",
          "badgeColor": "msx-blue",
