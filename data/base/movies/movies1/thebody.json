@@ -8,7 +8,7 @@
             {
                "type": "image",
                "layout": "0,0,4,6",
-               "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bgQmVnRYXRiehk3kReDOBwMrpk5.jpg",
+               "image": "https://image.tmdb.org/t/p/w780/bgQmVnRYXRiehk3kReDOBwMrpk5.jpg",
                "imageFiller": "height-left"
             },
             {
