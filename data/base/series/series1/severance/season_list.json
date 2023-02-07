@@ -1,0 +1,9 @@
+{
+   "headline": "Severance",
+   "menu": [
+      {
+         "label": "Season 1",
+         "data": "http://sastamaa.github.io/msx/data/base/series/series1/severance/season_1.json"
+      }
+   ]
+}
