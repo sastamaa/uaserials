@@ -1,0 +1,38 @@
+{
+   "type": "pages",
+   "headline": "The Undoing (2020)",
+   "background": "https://www.themoviedb.org/t/p/original/ftfk65f8HQl7ADpXuJb6rDhoe1Z.jpg",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "image",
+               "badge": "S1 E6 (6)",
+               "layout": "0,0,4,6",
+               "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3tDbJxobPN3EI2bBebL6zmusmw5.jpg",
+               "imageFiller": "height-left"
+            },
+            {
+               "type": "button",
+               "layout": "4,5,2,1",
+               "label": "Play",
+               "action": "menu:http://sastamaa.github.io/msx/data/base/series/series1/the_undoing/season_list.json"
+            },
+            {
+               "type": "button",
+               "layout": "6,5,2,1",
+               "label": "Trailer",
+               "playerLabel": "The Undoing (Trailer)",
+               "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=BqeQVi1nPqs"
+            },
+            {
+               "type": "default",
+               "layout": "4,0,8,5",
+               "badge": "Drama | Thriller | Mystery",
+               "color": "msx-glass",
+               "titleFooter": "Η υπόθεση επικεντρώνεται στην οικογένεια Fraser, που ζει μια φαινομενικά τέλεια ζωή. Η Grace Fraser είναι μια επιτυχημένη ψυχαναλύτρια, ο Jonathan ένας αξιόλογος γιατρός και την ευτυχία τους συμπληρώνει ο μικρός τους γιος Henry. Ξαφνικά, ένας βίαιος θάνατος σκορπάει αβάστακτες αποκαλύψεις και καταστροφή. Η Grace πλέον θα αρχίζει να αμφισβητεί τα πάντα.{br}{br}Βασισμένη στο βιβλίο «You Should Have Known» του Jean Hanff Korelitz.{br}{br}{txt:msx-white:Director:}{tb}David E. Kelley{br}{txt:msx-white:Actors:}{tb}Nicole Kidman, Hugh Grant, Noah Jupe, Donald Sutherland{br}{br}{br}{br}{br}"
+            }
+         ]
+      }
+   ]
+}
