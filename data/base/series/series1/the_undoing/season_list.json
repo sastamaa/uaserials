@@ -1,0 +1,10 @@
+{
+   "headline": "he Undoing",
+   "background": "https://www.themoviedb.org/t/p/original/ftfk65f8HQl7ADpXuJb6rDhoe1Z.jpg",
+   "menu": [
+      {
+         "label": "Season 1",
+         "data": "http://sastamaa.github.io/msx/data/base/series/series1/the_undoing/season_1.json"
+      }
+   ]
+}
