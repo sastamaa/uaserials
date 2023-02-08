@@ -36,7 +36,13 @@
          "action": "content:https://sastamaa.github.io/msx/data/base/series/series1/severance/severance_page.json"
       },
       {
-         "title": "Item 4"
+         "title": "Sharp Objects",
+         "titleFooter": "2018",
+         "badge": "{col:msx-white}8.1",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w780/1SGovj2qDdkJexvhFiXllj9EYfu.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/series1/sharp_objects/page.json"      
       },
       {
          "title": "Item 5"
