@@ -1,0 +1,10 @@
+{
+   "headline": "Mare of Easttown",
+   "background": "https://www.themoviedb.org/t/p/original/gxvm7iyWSpaXLQZIpThBloSsJnW.jpg",
+   "menu": [
+      {
+         "label": "Season 1",
+         "data": "http://sastamaa.github.io/msx/data/base/series/series1/mare_of_easttown/season_1.json"
+      }
+   ]
+}
