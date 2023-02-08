@@ -1,0 +1,38 @@
+{
+   "type": "pages",
+   "headline": "Αιχμηρά Αντικείμενα (2018)",
+   "background": "https://www.themoviedb.org/t/p/original/b9cCIwtT0gD42wEMMZwMdY8zfgS.jpg",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "image",
+               "badge": "S1 E8 (8)",
+               "layout": "0,0,4,6",
+               "image": "https://image.tmdb.org/t/p/w780/1SGovj2qDdkJexvhFiXllj9EYfu.jpg",
+               "imageFiller": "height-left"
+            },
+            {
+               "type": "button",
+               "layout": "4,5,2,1",
+               "label": "Play",
+               "action": "menu:http://sastamaa.github.io/msx/data/base/series/series1/sharp_objects/season_list.json"
+            },
+            {
+               "type": "button",
+               "layout": "6,5,2,1",
+               "label": "Trailer",
+               "playerLabel": "Sharp Objects (Trailer)",
+               "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=_v8Fm3O8cp0"
+            },
+            {
+               "type": "default",
+               "layout": "4,0,8,5",
+               "badge": "Mystery | Drama | Crime",
+               "color": "msx-glass",
+               "titleFooter": "Ύστερα από μια σύντομη παραμονή σε ένα ψυχιατρικό νοσοκομείο, η Camille Preaker βρίσκεται αντιμέτωπη με μια δύσκολη αποστολή: πρέπει να επιστρέψει στην γενέτειρα της για να καλύψει τις δολοφονίες δυο κοριτσιών. Εδώ και πολλά χρόνια η Camille δεν έχει μιλήσει με την νευρωτική, υποχόνδρια μητέρα της ή την ετεροθαλής αδελφή που γνωρίζει ελάχιστα: μια όμορφη 13χρονη που διαθέτει μια περίεργη επαφή με την πόλη. Τώρα, εγκατεστημένη στο παλιό της δωμάτιο στην Βικτωριανή έπαυλη της οικογένειας, η Camille βλέπει τον εαυτό της να ταυτίζεται υπερβολικά με τα νεαρά θύματα. Καθηλωμένη από τους δικούς της δαίμονες, θα πρέπει να ξεδιπλώσει το ψυχολογικό παζλ του δικού της παρελθόντος αν θέλει να καλύψει την ιστορία και να επιβιώσει από την επιστροφή της στο σπίτι.{br}{br}{txt:msx-white:Director:}{tb}Marti Noxon{br}{txt:msx-white:Actors:}{tb}Amy Adams, Patricia Clarkson, Chris Messina, Eliza Scanlen, Matt Craven, Henry Czerny, Miguel Sandoval{br}"
+            }
+         ]
+      }
+   ]
+}
