@@ -1,0 +1,38 @@
+{
+   "type": "pages",
+   "headline": "Mare of Easttown (2021)",
+   "background": "https://www.themoviedb.org/t/p/original/gxvm7iyWSpaXLQZIpThBloSsJnW.jpg",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "image",
+               "badge": "S1 E7 (7)",
+               "layout": "0,0,4,6",
+               "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/78aK4Msbr22A5PGa6PZV0pAvdwf.jpg",
+               "imageFiller": "height-left"
+            },
+            {
+               "type": "button",
+               "layout": "4,5,2,1",
+               "label": "Play",
+               "action": "menu:http://sastamaa.github.io/msx/data/base/series/series1/mare_of_easttown/season_list.json"
+            },
+            {
+               "type": "button",
+               "layout": "6,5,2,1",
+               "label": "Trailer",
+               "playerLabel": "Mare of Easttown (Trailer)",
+               "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=kRM8jasuOdI"
+            },
+            {
+               "type": "default",
+               "layout": "4,0,8,5",
+               "badge": "Mystery | Drama | Crime",
+               "color": "msx-glass",
+               "titleFooter": "Η Ντετεκτιβ Μαιρη Σιαν κατοπιν πιεσης που δεχεται η αστυνομια ανοιγει παλι τον φακελο υποθεσης που αφορα μια εξαφανισμενη κοπελα.{br}{br}{txt:msx-white:Director:}{tb}Brad Ingelsby{br}{txt:msx-white:Actors:}{tb}Kate Winslet, Julianne Nicholson, Jean Smart, Angourie Rice{br}{br}{br}{br}{br}{br}{br}{br}{br}{br}"
+            }
+         ]
+      }
+   ]
+}
