@@ -1,0 +1,38 @@
+{
+    "type": "pages",
+    "headline": "Μικρές φωτιές παντού (2020)",
+    "background": "https://www.themoviedb.org/t/p/original/tjPVwNdFqNrbclaXdZYeCpPD2Xi.jpg",
+    "pages": [
+       {
+          "items": [
+             {
+                "type": "image",
+                "badge": "S1 E8 (8)",
+                "layout": "0,0,4,6",
+                "image": "https://www.themoviedb.org/t/p/original/7EQQMl0mp8L0hMxAUZNfoCh1Tkb.jpg",
+                "imageFiller": "height-left"
+             },
+             {
+                "type": "button",
+                "layout": "4,5,2,1",
+                "label": "Play",
+                "action": "menu:http://sastamaa.github.io/msx/data/base/series/series1/little_fires_everywhere/season_list.json"
+             },
+             {
+                "type": "button",
+                "layout": "6,5,2,1",
+                "label": "Trailer",
+                "playerLabel": "Little Fires Everywhere (Trailer)",
+                "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=yszutwLyJss"
+             },
+             {
+                "type": "default",
+                "layout": "4,0,8,5",
+                "badge": "Mystery | Drama",
+                "color": "msx-glass",
+                "titleFooter": "Μικρές Φωτιές Παντού, την τηλεοπτική μεταφορά του best-selling βιβλίου της Celeste Ng.Η σειρά ακολουθεί την αλληλένδετες μοίρες της φαινομενικά τέλειας οικογένειας των Richardson, καθώς και μιας αινιγματικής μητέρας και κόρης που ανατρέπουν τις ζωές τους. Η ιστορία εξερευνά το βάρος των μυστικών, την φύση της τέχνης και του χαρακτήρα, την σφοδρή έλξη της μητρότητας και τον κίνδυνο του να πιστεύεις πως ακολουθώντας τους κανόνες θα αποτρέψεις την καταστροφή.”{br}{br}{txt:msx-white:Director:}{tb}Liz Tigelaar{br}{txt:msx-white:Actors:}{tb}Reese Witherspoon, Kerry Washington, Megan Stott, Lexi Underwood, Joshua Jackson, Rosemarie DeWitt{br}{br}{br}{br}{br}"
+             }
+          ]
+       }
+    ]
+ }

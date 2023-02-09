@@ -1,0 +1,53 @@
+{
+    "type": "list",
+    "headline": "Season 1",
+    "template": {
+       "type": "separate",
+       "layout": "0,0,2,4",
+       "icon": "msx-white-soft:movie",
+       "color": "msx-glass"
+    },
+    "items": [
+       {
+          "title": "Episode 1",
+          "playerLabel": "Episode 1",
+          "action": "video:https://www.cdn.vidce.net/d/4BJ7FPqg1eZ290jPD8yGLw/1676572580/video/Little_Fires_Everywhere/1x01.mp4"
+       },
+       {
+          "title": "Episode 2",
+          "playerLabel": "Episode 2",
+          "action": "video:https://www.cdn.vidce.net/d/4BJ7FPqg1eZ290jPD8yGLw/1676572580/video/Little_Fires_Everywhere/1x02.mp4"
+       },
+       {
+          "title": "Episode 3",
+          "playerLabel": "Episode 3",
+          "action": "video:https://www.cdn.vidce.net/d/4BJ7FPqg1eZ290jPD8yGLw/1676572580/video/Little_Fires_Everywhere/1x03.mp4"
+       },
+       {
+          "title": "Episode 4",
+          "playerLabel": "Episode 4",
+          "action": "video:https://www.cdn.vidce.net/d/4BJ7FPqg1eZ290jPD8yGLw/1676572580/video/Little_Fires_Everywhere/1x04.mp4"
+       },
+       {
+          "title": "Episode 5",
+          "playerLabel": "Episode 5",
+          "action": "video:https://www.cdn.vidce.net/d/4BJ7FPqg1eZ290jPD8yGLw/1676572580/video/Little_Fires_Everywhere/1x05.mp4"
+       },
+       {
+          "title": "Episode 6",
+          "playerLabel": "Episode 6",
+          "action": "video:https://www.cdn.vidce.net/d/4BJ7FPqg1eZ290jPD8yGLw/1676572580/video/Little_Fires_Everywhere/1x06.mp4"
+       },
+       {
+          "title": "Episode 7",
+          "playerLabel": "Episode 7",
+          "action": "video:https://www.cdn.vidce.net/d/4BJ7FPqg1eZ290jPD8yGLw/1676572580/video/Little_Fires_Everywhere/1x07.mp4"
+        },
+        {
+           "title": "Episode 8",
+           "playerLabel": "Episode 8",
+           "action": "video:https://www.cdn.vidce.net/d/4BJ7FPqg1eZ290jPD8yGLw/1676572580/video/Little_Fires_Everywhere/1x08.mp4"
+       }
+    ]
+ }
+ 
