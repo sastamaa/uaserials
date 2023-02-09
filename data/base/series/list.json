@@ -78,7 +78,7 @@
          "badgeColor": "msx-blue",
          "imageFiller": "cover",
          "image": "https://www.themoviedb.org/t/p/original/77g1S4HFtvjbvaCqxLsqOSsp2cL.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/series/series1/the fall/page.json"
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/series1/the_fall/page.json"
       }
    ]
 }
