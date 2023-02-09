@@ -61,6 +61,15 @@
          "imageFiller": "cover",
          "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/78aK4Msbr22A5PGa6PZV0pAvdwf.jpg",
          "action": "content:https://sastamaa.github.io/msx/data/base/series/series1/mare_of_easttown/page.json"
+      },
+      {
+         "title": "Little Fires Everywhere",
+         "titleFooter": "2020",
+         "badge": "{col:msx-white}7.7",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://www.themoviedb.org/t/p/original/7EQQMl0mp8L0hMxAUZNfoCh1Tkb.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/series1/little_fires_everywhere/page.json"
       }
    ]
 }
