@@ -1,0 +1,10 @@
+{
+    "headline": "Bad Sisters",
+    "background": "https://www.themoviedb.org/t/p/original/aAVRi7XqkJZE6uUEn2Enbhj8rPx.jpg",
+    "menu": [
+       {
+          "label": "Season 1",
+          "data": "http://sastamaa.github.io/msx/data/base/series/series1/bad_sisters/season_1.json"
+       }
+    ]
+ }

@@ -1,0 +1,38 @@
+{
+    "type": "pages",
+    "headline": "Κακές Αδελφές (2022)",
+    "background": "https://www.themoviedb.org/t/p/original/aAVRi7XqkJZE6uUEn2Enbhj8rPx.jpg",
+    "pages": [
+       {
+          "items": [
+             {
+                "type": "image",
+                "badge": "S1 E10 (10)",
+                "layout": "0,0,4,6",
+                "image": "https://www.themoviedb.org/t/p/original/pZhZYIvlHwgnpQpm2DGbv7UWL9W.jpg",
+                "imageFiller": "height-left"
+             },
+             {
+                "type": "button",
+                "layout": "4,5,2,1",
+                "label": "Play",
+                "action": "menu:http://sastamaa.github.io/msx/data/base/series/series1/bad_sisters/season_list.json"
+             },
+             {
+                "type": "button",
+                "layout": "6,5,2,1",
+                "label": "Trailer",
+                "playerLabel": "Bad Sisters (Trailer)",
+                "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=IZUrhfCl0Xc"
+             },
+             {
+                "type": "default",
+                "layout": "4,0,8,5",
+                "badge": "Comedy | Drama | Crime",
+                "color": "msx-glass",
+                "titleFooter": "Η σειρά εστιάζει στις αδελφές Garvey, που έμειναν ορφανές σε μικρή ηλικία και ορκίστηκαν να προσέχουν η μια την άλλη, ακόμη και όταν τα πράγματα γίνουν λίγο δολοφονικά.”{br}{br}{txt:msx-white:Director:}{tb}Sharon Horgan{br}{txt:msx-white:Actors:}{tb}Sharon Horgan, Anne-Marie Duff, Eva Birthistle, Sarah Greene, Eve Hewson, Claes Bang, Brian Gleeson, Daryl McCormack{br}{br}{br}{br}{br}{br}{br}{br}"
+             }
+          ]
+       }
+    ]
+ }
