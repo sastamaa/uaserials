@@ -70,6 +70,15 @@
          "imageFiller": "cover",
          "image": "https://www.themoviedb.org/t/p/original/7EQQMl0mp8L0hMxAUZNfoCh1Tkb.jpg",
          "action": "content:https://sastamaa.github.io/msx/data/base/series/series1/little_fires_everywhere/page.json"
+          },
+      {
+         "title": "The Fall",
+         "titleFooter": "2013",
+         "badge": "{col:msx-white}8.1",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://www.themoviedb.org/t/p/original/77g1S4HFtvjbvaCqxLsqOSsp2cL.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/series1/the fall/page.json"
       }
    ]
 }
