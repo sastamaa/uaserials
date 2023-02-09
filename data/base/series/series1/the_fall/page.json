@@ -1,0 +1,38 @@
+{
+    "type": "pages",
+    "headline": "Η ώρα της πτώσης (2013)",
+    "background": "https://www.themoviedb.org/t/p/original/ptq4slF5mzVPv7gPPb7HPVe0Daf.jpg",
+    "pages": [
+       {
+          "items": [
+             {
+                "type": "image",
+                "badge": "S3 E6 (6)",
+                "layout": "0,0,4,6",
+                "image": "https://www.themoviedb.org/t/p/original/77g1S4HFtvjbvaCqxLsqOSsp2cL.jpg",
+                "imageFiller": "height-left"
+             },
+             {
+                "type": "button",
+                "layout": "4,5,2,1",
+                "label": "Play",
+                "action": "menu:http://sastamaa.github.io/msx/data/base/series/series1/the_fall/season_list.json"
+             },
+             {
+                "type": "button",
+                "layout": "6,5,2,1",
+                "label": "Trailer",
+                "playerLabel": "The fall (Trailer)",
+                "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=dyFrBC1rAcg"
+             },
+             {
+                "type": "default",
+                "layout": "4,0,8,5",
+                "badge": "Drama | Crime",
+                "color": "msx-glass",
+                "titleFooter": "Η ντετέκτιβ Στέλλα Γκίμπσον, προκειμένου να αξιολογήσει την πρόοδο μίας πολύπλοκης έρευνας για δολοφονία, δέχεται την απόσπαση της στην Αστυνομική Υπηρεσία της Βόρειας Ιρλανδίας. Πολύ γρήγορα αντιλαμβάνεται ότι αντιμετωπίζει έναν κατά συρροή δολοφόνο, πρέπει να συνεργαστεί στενά με την τοπική αστυνομία προκειμένου να εντοπίσουν και να παγιδεύσουν τον ένοχο, ο οποίος επιτίθεται σε νεαρές γυναίκες στην πόλη του Μπελφαστ.”{br}{br}{txt:msx-white:Director:}{tb}Allan Cubitt{br}{txt:msx-white:Actors:}{tb}Gillian Anderson, Jamie Dornan, Niamh McGrady, John Lynch, Bronagh Waugh, Aisling Franciosi, Stuart Graham{br}{br}{br}{br}{br}"
+             }
+          ]
+       }
+    ]
+ }

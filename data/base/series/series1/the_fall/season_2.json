@@ -1,0 +1,43 @@
+{
+    "type": "list",
+    "headline": "Season 2",
+    "template": {
+       "type": "separate",
+       "layout": "0,0,2,4",
+       "icon": "msx-white-soft:movie",
+       "color": "msx-glass"
+    },
+    "items": [
+       {
+          "title": "Episode 1",
+          "playerLabel": "Episode 1",
+          "action": "video:https://www.vidce.net/d/AVDV1pGr0mt1VLpzAqxaMw/1676574419/video/The_Fall/2x01.mp4"
+       },
+       {
+          "title": "Episode 2",
+          "playerLabel": "Episode 2",
+          "action": "video:https://www.vidce.net/d/AVDV1pGr0mt1VLpzAqxaMw/1676574419/video/The_Fall/2x02.mp4"
+       },
+       {
+          "title": "Episode 3",
+          "playerLabel": "Episode 3",
+          "action": "video:https://www.vidce.net/d/AVDV1pGr0mt1VLpzAqxaMw/1676574419/video/The_Fall/2x03.mp4"
+       },
+       {
+          "title": "Episode 4",
+          "playerLabel": "Episode 4",
+          "action": "video:https://www.vidce.net/d/AVDV1pGr0mt1VLpzAqxaMw/1676574419/video/The_Fall/2x04.mp4"
+       },
+       {
+          "title": "Episode 5",
+          "playerLabel": "Episode 5",
+          "action": "video:https://www.vidce.net/d/AVDV1pGr0mt1VLpzAqxaMw/1676574419/video/The_Fall/2x05.mp4"
+       },
+       {
+          "title": "Episode 6",
+          "playerLabel": "Episode 6",
+          "action": "video:https://www.vidce.net/d/AVDV1pGr0mt1VLpzAqxaMw/1676574419/video/The_Fall/2x06.mp4"
+       }
+    ]
+ }
+ 

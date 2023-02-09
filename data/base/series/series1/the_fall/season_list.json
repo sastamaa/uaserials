@@ -1,0 +1,18 @@
+{
+    "headline": "The Fall",
+    "background": "https://www.themoviedb.org/t/p/original/ptq4slF5mzVPv7gPPb7HPVe0Daf.jpg",
+    "menu": [
+       {
+          "label": "Season 1",
+          "data": "http://sastamaa.github.io/msx/data/base/series/series1/the_fall/season_1.json"
+       },
+       {
+          "label": "Season 2",
+          "data": "http://sastamaa.github.io/msx/data/base/series/series1/the_fall//season_2.json"
+       },
+       {
+          "label": "Season 3",
+          "data": "http://sastamaa.github.io/msx/data/base/series/series1/the_fall//season_3.json"
+       }
+    ]
+ }
