@@ -15,7 +15,7 @@
          "badgeColor": "msx-blue",
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/t79ozwWnwekO0ADIzsFP1E5SkvR.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/movies/movies1/shotgunwedding.json"
+         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2022/shotgunwedding.json"
       },
       {
          "title": "The Body",
@@ -24,7 +24,7 @@
          "badgeColor": "msx-blue",
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/bgQmVnRYXRiehk3kReDOBwMrpk5.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/movies/movies1/thebody.json"
+         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2012/thebody.json"
       },
       {
          "title": "Triangle of Sadness",
@@ -33,7 +33,7 @@
          "badgeColor": "msx-blue",
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/k9eLozCgCed5FGTSdHu0bBElAV8.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/movies/movies1/triangle_of_sadness.json"
+         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2022/triangle_of_sadness.json"
       },
       {
          "title": "The Story of My Wife",
@@ -42,7 +42,7 @@
          "badgeColor": "msx-blue",
          "imageFiller": "cover",
          "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b8tKXJ8wCqRl1Tn1gr6P6zBL2K9.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/movies/movies1/the_story_of_my_wife.json"
+         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2021/the_story_of_my_wife.json"
       },
       {
          "title": "Item 5"
