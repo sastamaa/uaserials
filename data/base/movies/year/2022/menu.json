@@ -1,0 +1,38 @@
+{
+    "type": "pages",
+    "headline": "Το Μενού (2022)",
+    "background": "https://www.themoviedb.org/t/p/original/mSyQoValhBsJdq3JNGXJww2Q5yL.jpg",
+    "pages": [
+       {
+          "items": [
+             {
+                "type": "image",
+                "layout": "0,0,4,6",
+                "image": "https://image.tmdb.org/t/p/w780/tdFJMontiW5ASEW4mT0faMyJQRN.jpg",
+                "imageFiller": "height-left"
+             },
+             {
+                "type": "button",
+                "layout": "4,5,2,1",
+                "label": "Play",
+                "playerLabel": "The Menu",
+                "action": "video:https://www.sw.vidce.net/d/275W4g-6Pd7_v0XPLbZpCA/1676828299/2018/2015/tt9764362.mp4"
+             },
+             {
+                "type": "button",
+                "layout": "6,5,2,1",
+                "label": "Trailer",
+                "playerLabel": "The Menu (Trailer)",
+                "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=4L6kGtKbhPc"
+             },
+             {
+                "type": "default",
+                "layout": "4,0,8,5",
+                "badge": "Comedy | Thriller | Horror",
+                "color": "msx-glass",
+                "titleFooter": "Ένα νεαρό ζευγάρι (Anya Taylor-Joy και Nicholas Hoult), ταξιδεύει σε ένα απομακρυσμένο νησί του Βορειοδυτικού Ειρηνικού για να δειπνήσει σε ένα πριβέ εστιατόριο, όπου ο μοναχικός, παγκοσμίως καταξιωμένος, Σεφ Julian Slowik (Ralph Fiennes) έχει ετοιμάσει ένα πλουσιοπάροχο μενού γευσιγνωσίας για εκλεκτούς πελάτες. Όλοι οι συνδαιτυμόνες θα βιώσουν άγρια και βίαια σκηνικά, καθώς εμφανίζονται ολοένα και πιο απρόσμενα πιάτα. Το κίνητρο του Σεφ Slowik πίσω από το περίτεχνο μενού είναι ο καταλύτης για ένα συγκλονιστικό φινάλε.{br}{br}{br}{txt:msx-white:Director:}{tb}Mark Mylod{br}{txt:msx-white:Actors:}{tb}Ralph Fiennes, Anya Taylor-Joy, Nicholas Hoult{br}{br}{br}{br}"
+             }
+          ]
+       }
+    ]
+ }

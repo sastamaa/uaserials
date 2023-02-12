@@ -54,7 +54,13 @@
          "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2023/plane.json"
       },
       {
-         "title": "Item 6"
+         "title": "The Menu",
+         "titleFooter": "2022",
+         "badge": "{col:msx-white}7.2",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/tdFJMontiW5ASEW4mT0faMyJQRN.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2022/menu.json"
       }
    ]
 }
