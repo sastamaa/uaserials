@@ -16,7 +16,7 @@
          "tag": "MET.",
          "tagColor": "msx-red",
          "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w780/2O3ewrmiR9a7oCd1jHxXn1pPJX8.jpg",
+         "image": "https://image.tmdb.org/t/p/w500/2O3ewrmiR9a7oCd1jHxXn1pPJX8.jpg",
          "action": "content:https://sastamaa.github.io/msx/data/base/kids/kids1/dolittle.json"
       },
       {
@@ -27,7 +27,7 @@
          "tag": "MET.",
          "tagColor": "msx-red",
          "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w780/pVOuhLYmcbcqHliiaIB6uafs2yT.jpg",
+         "image": "https://image.tmdb.org/t/p/w500/pVOuhLYmcbcqHliiaIB6uafs2yT.jpg",
          "action": "content:https://sastamaa.github.io/msx/data/base/kids/kids1/dc_league.json"
       },
       {
@@ -38,7 +38,7 @@
          "tag": "MET.",
          "tagColor": "msx-red",
          "imageFiller": "cover",
-         "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jOJSTAtMgpGUxXY9dWkfHrEgGgo.jpg",
+         "image": "https://image.tmdb.org/t/p/w500/jOJSTAtMgpGUxXY9dWkfHrEgGgo.jpg",
          "action": "content:https://sastamaa.github.io/msx/data/base/kids/kids1/minions_the_rise_of_gru.json"
       },
       {
