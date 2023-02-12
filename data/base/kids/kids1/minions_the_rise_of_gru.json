@@ -1,0 +1,38 @@
+{
+    "type": "pages",
+    "headline": "Minions 2: Η άνοδος του Γκρου (2022)",
+    "background": "https://www.themoviedb.org/t/p/original/qTkJ6kbTeSjqfHCFCmWnfWZJOtm.jpg",
+    "pages": [
+       {
+          "items": [
+             {
+                "type": "image",
+                "layout": "0,0,4,6",
+                "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jOJSTAtMgpGUxXY9dWkfHrEgGgo.jpg",
+                "imageFiller": "height-left"
+             },
+             {
+                "type": "button",
+                "layout": "4,5,2,1",
+                "label": "Play",
+                "playerLabel": "Minions: The Rise of Gru",
+                "action": "video:https://www.sw.vidce.net/d/wjKIRcQXp42k08DFqi1DEQ/1676803324/video/2015/tt5113044GR.mp4"
+             },
+             {
+                "type": "button",
+                "layout": "6,5,2,1",
+                "label": "Trailer",
+                "playerLabel": "Minions: The Rise of Gru (Trailer)",
+                "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=RtRoIfIbkEk"
+             },
+             {
+                "type": "default",
+                "layout": "4,0,8,5",
+                "badge": "Mεταγλωτισμενο",
+                "color": "msx-glass",
+                "titleFooter": "Βρισκόμαστε στην καρδιά της δεκαετίας του '70, όπου όλοι έχουν λουλούδια στα μαλλιά και χρωματιστά παντελόνια και ο μικρός Γκρου μεγαλώνει στα προάστεια. Ως φανατικός οπαδός μια ομάδας σούπερ κακών με το όνομα «Vicious 6», ο Γκρου θέλει να γίνει αρκετά κακός ώστε μια μέρα να μπορέσει να γίνει μέλος της ομάδας τους. Ευτυχώς, στην προσπάθειά του να σπείρει το χάος, τον βοηθούν οι μικροί του ακόλουθοι, τα λατρεμένα Μίνιονς. Όλοι μαζί, ο Κέβιν, ο Στιούαρτ, ο Μπομπ και ο Όττο, ένα νέο μίνιον με «σιδεράκια» στα δόντια και με την απεριόριστη επιθυμία να είναι αρεστός σε όλους, αναπτύσσουν τις ικανότητές τους καθώς ετοιμάζονται να πειραματιστούν με τα πρώτα τους όπλα και να πραγματοποιήσουν τις πρώτες τους μυστικές αποστολές.{br}{br}{txt:msx-white:Director:}{tb}Kyle Balda{br}{txt:msx-white:Actors:}{tb}Pierre Coffin, Steve Carell, Russell Brand, Alan Arkin, Taraji P. Henson{br}{br}"
+             }
+          ]
+       }
+    ]
+ }
