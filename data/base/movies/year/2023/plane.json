@@ -1,0 +1,39 @@
+{
+    "type": "pages",
+    "headline": "Εκτός ελέγχου (2023)",
+    "background": "https://www.themoviedb.org/t/p/original/biX1kATZxFskWajql2hfEo8GqTd.jpg",
+    "pages": [
+       {
+          "items": [
+             {
+                "type": "image",
+                "layout": "0,0,4,6",
+                "image": "https://image.tmdb.org/t/p/w780/3Ti1YLH3Jpd1Bxjo2sqmaN4xn9n.jpg",
+                "imageFiller": "height-left"
+             },
+             {
+                "type": "button",
+                "layout": "4,5,2,1",
+                "label": "Play",
+                "playerLabel": "Plane",
+                "action": "video:https://www.sw.vidce.net/d/9iUw99w_aPUsNPhuKmm9qQ/1676828033/2018/2015/tt5884796.mp4"
+             },
+             {
+                "type": "button",
+                "layout": "6,5,2,1",
+                "label": "Trailer",
+                "playerLabel": "Plane (Trailer)",
+                "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=juUG_LGhclA"
+             },
+             {
+                "type": "default",
+                "layout": "4,0,8,5",
+                "badge": "Action | Adventure | Thriller",
+                "color": "msx-glass",
+                "titleFooter": "Ένας πιλότος θα βρεθεί στη δίνη μιας εμπόλεμης ζώνης όταν εξαιτίας μιας καταιγίδας θα κάνει αναγκαστική προσγείωση στο επιβατηγό αεροσκάφος του.{br}{br}{br}{txt:msx-white:Director:}{tb}Jean-François Richet{br}{txt:msx-white:Actors:}{tb}Gerard Butler, Mike Colter, Yoson An, Tony Goldwyn, Daniella Pineda, Paul Ben-Victor, Remi Adeleke, Joey Slotnick, Evan Dane Taylor, Claro de los Reyes, Kelly Gale, Haleigh Hekking, Lilly Krug, Oliver Trevena, Tara Westwood{br}{br}{br}{br}{br}{br}{br}"
+             }
+          ]
+       }
+    ]
+ }
+ 

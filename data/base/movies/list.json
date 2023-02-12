@@ -45,7 +45,13 @@
          "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2021/the_story_of_my_wife.json"
       },
       {
-         "title": "Item 5"
+         "title": "Plane",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}6.6",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/3Ti1YLH3Jpd1Bxjo2sqmaN4xn9n.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2023/plane.json"
       },
       {
          "title": "Item 6"
