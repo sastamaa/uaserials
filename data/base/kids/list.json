@@ -9,25 +9,37 @@
    },
    "items": [
       {
-         "title": "Dolittle",         
+         "title": "Dolittle",
          "titleFooter": "2020",
          "badge": "{col:msx-white}5.6",
          "badgeColor": "msx-blue",
+         "tag": "MET.",
+         "tagColor": "msx-red",
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w780/2O3ewrmiR9a7oCd1jHxXn1pPJX8.jpg",
-          "action": "content:https://sastamaa.github.io/msx/data/base/kids/kids1/dolittle.json"
+         "action": "content:https://sastamaa.github.io/msx/data/base/kids/kids1/dolittle.json"
       },
       {
-         "title": "DC League of Super-Pets",         
+         "title": "DC League of Super-Pets",
          "titleFooter": "2022",
          "badge": "{col:msx-white}7.2",
          "badgeColor": "msx-blue",
+         "tag": "MET.",
+         "tagColor": "msx-red",
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w780/pVOuhLYmcbcqHliiaIB6uafs2yT.jpg",
-          "action": "content:https://sastamaa.github.io/msx/data/base/kids/kids1/dc_league.json"      
+         "action": "content:https://sastamaa.github.io/msx/data/base/kids/kids1/dc_league.json"
       },
       {
-         "title": "Item 3"
+         "title": "Minions: The Rise of Gru",
+         "titleFooter": "2022",
+         "badge": "{col:msx-white}6.6",
+         "badgeColor": "msx-blue",
+         "tag": "MET.",
+         "tagColor": "msx-red",
+         "imageFiller": "cover",
+         "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jOJSTAtMgpGUxXY9dWkfHrEgGgo.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/kids/kids1/minions_the_rise_of_gru.json"
       },
       {
          "title": "Item 4"
