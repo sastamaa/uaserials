@@ -11,8 +11,6 @@
       {
          "title": "Tulsa King",
          "titleFooter": "2022",
-         "badge": "{col:msx-white}8.2",
-         "badgeColor": "msx-blue",
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w780/fwTv3RPRAIy0maOMns5eYRRwnDk.jpg",
          "action": "content:https://sastamaa.github.io/msx/data/base/series/series1/tulsa_king/tulsa_king_page.json"
@@ -20,8 +18,6 @@
       {
          "title": "Shrinking",
          "titleFooter": "2023",
-         "badge": "{col:msx-white}7.7",
-         "badgeColor": "msx-blue",
          "imageFiller": "cover",
          "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/by1ouUR2TvEnnRmn01Y1co5lfiW.jpg",
          "action": "content:https://sastamaa.github.io/msx/data/base/series/series1/shrinking/shrinking_page.json"
@@ -29,8 +25,6 @@
       {
          "title": "Severance",
          "titleFooter": "2022",
-         "badge": "{col:msx-white}8.7",
-         "badgeColor": "msx-blue",
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w780/a5kkO4uyH5ETN6Dk0wPlZwQPUGO.jpg",
          "action": "content:https://sastamaa.github.io/msx/data/base/series/series1/severance/severance_page.json"
@@ -38,8 +32,6 @@
       {
          "title": "Sharp Objects",
          "titleFooter": "2018",
-         "badge": "{col:msx-white}8.1",
-         "badgeColor": "msx-blue",
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w780/1SGovj2qDdkJexvhFiXllj9EYfu.jpg",
          "action": "content:https://sastamaa.github.io/msx/data/base/series/series1/sharp_objects/page.json"
@@ -47,8 +39,6 @@
       {
          "title": "The Undoing",
          "titleFooter": "2020",
-         "badge": "{col:msx-white}7.4",
-         "badgeColor": "msx-blue",
          "imageFiller": "cover",
          "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mZk4RXjXLJxRAoQR8mfNDYtv7u1.jpg",
          "action": "content:https://sastamaa.github.io/msx/data/base/series/series1/the_undoing/page.json"
@@ -56,8 +46,6 @@
       {
          "title": "Mare of Easttown",
          "titleFooter": "2021",
-         "badge": "{col:msx-white}8.4",
-         "badgeColor": "msx-blue",
          "imageFiller": "cover",
          "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/78aK4Msbr22A5PGa6PZV0pAvdwf.jpg",
          "action": "content:https://sastamaa.github.io/msx/data/base/series/series1/mare_of_easttown/page.json"
@@ -65,17 +53,13 @@
       {
          "title": "Little Fires Everywhere",
          "titleFooter": "2020",
-         "badge": "{col:msx-white}7.7",
-         "badgeColor": "msx-blue",
          "imageFiller": "cover",
          "image": "https://www.themoviedb.org/t/p/original/7EQQMl0mp8L0hMxAUZNfoCh1Tkb.jpg",
          "action": "content:https://sastamaa.github.io/msx/data/base/series/series1/little_fires_everywhere/page.json"
-          },
+      },
       {
          "title": "The Fall",
          "titleFooter": "2013",
-         "badge": "{col:msx-white}8.1",
-         "badgeColor": "msx-blue",
          "imageFiller": "cover",
          "image": "https://www.themoviedb.org/t/p/original/77g1S4HFtvjbvaCqxLsqOSsp2cL.jpg",
          "action": "content:https://sastamaa.github.io/msx/data/base/series/series1/the_fall/page.json"
@@ -83,12 +67,9 @@
       {
          "title": "Bad Sisters",
          "titleFooter": "2022",
-         "badge": "{col:msx-white}8.3",
-         "badgeColor": "msx-blue",
          "imageFiller": "cover",
          "image": "https://www.themoviedb.org/t/p/original/pZhZYIvlHwgnpQpm2DGbv7UWL9W.jpg",
          "action": "content:https://sastamaa.github.io/msx/data/base/series/series1/bad_sisters/page.json"
-
       }
    ]
 }
