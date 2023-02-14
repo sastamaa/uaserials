@@ -6,7 +6,7 @@
       {
          "items": [
             {
-               "type": "image",
+               "type": "space",
                "layout": "0,0,4,6",
                "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b8tKXJ8wCqRl1Tn1gr6P6zBL2K9.jpg",
                "imageFiller": "height-left"
@@ -26,7 +26,7 @@
                "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=yU5pQlBDu4g"
             },
             {
-               "type": "default",
+               "type": "space",
                "layout": "4,0,8,5",
                "badge": "Drama | Romance",
                "color": "msx-glass",
