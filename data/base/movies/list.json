@@ -11,8 +11,6 @@
       {
          "title": "Shotgun Wedding",
          "titleFooter": "2022",
-         "badge": "{col:msx-white}5.5",
-         "badgeColor": "msx-blue",
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/t79ozwWnwekO0ADIzsFP1E5SkvR.jpg",
          "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2022/shotgunwedding.json"
@@ -20,8 +18,6 @@
       {
          "title": "The Body",
          "titleFooter": "2012",
-         "badge": "{col:msx-white}7.6",
-         "badgeColor": "msx-blue",
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/bgQmVnRYXRiehk3kReDOBwMrpk5.jpg",
          "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2012/thebody.json"
@@ -29,8 +25,6 @@
       {
          "title": "Triangle of Sadness",
          "titleFooter": "2022",
-         "badge": "{col:msx-white}7.5",
-         "badgeColor": "msx-blue",
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/k9eLozCgCed5FGTSdHu0bBElAV8.jpg",
          "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2022/triangle_of_sadness.json"
@@ -38,8 +32,6 @@
       {
          "title": "The Story of My Wife",
          "titleFooter": "2021",
-         "badge": "{col:msx-white}6.2",
-         "badgeColor": "msx-blue",
          "imageFiller": "cover",
          "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b8tKXJ8wCqRl1Tn1gr6P6zBL2K9.jpg",
          "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2021/the_story_of_my_wife.json"
@@ -47,8 +39,6 @@
       {
          "title": "Plane",
          "titleFooter": "2023",
-         "badge": "{col:msx-white}6.6",
-         "badgeColor": "msx-blue",
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/3Ti1YLH3Jpd1Bxjo2sqmaN4xn9n.jpg",
          "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2023/plane.json"
@@ -56,8 +46,6 @@
       {
          "title": "The Menu",
          "titleFooter": "2022",
-         "badge": "{col:msx-white}7.2",
-         "badgeColor": "msx-blue",
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/tdFJMontiW5ASEW4mT0faMyJQRN.jpg",
          "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2022/menu.json"
