@@ -5,7 +5,7 @@
       {
          "items": [
             {
-               "type": "image",
+               "type": "space",
                "layout": "0,0,4,6",
                "image": "https://image.tmdb.org/t/p/w780/t79ozwWnwekO0ADIzsFP1E5SkvR.jpg",
                "imageFiller": "height-left"
@@ -25,7 +25,7 @@
                "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=o7YMMoiBwFc"
             },
             {
-               "type": "default",
+               "type": "space",
                "layout": "4,0,8,5",
                "badge": "Δραση | Ρομαντικη | Κωμωδια",
                "color": "msx-glass",
