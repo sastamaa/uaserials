@@ -14,7 +14,7 @@
          "action": "player:show"
       },
       "properties": {
-         "resume:key": "url",
+         "resume:key": "url"
       }
    },
    "items": [
