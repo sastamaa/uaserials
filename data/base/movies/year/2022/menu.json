@@ -6,7 +6,7 @@
        {
           "items": [
              {
-                "type": "image",
+                "type": "space",
                 "layout": "0,0,4,6",
                 "image": "https://image.tmdb.org/t/p/w780/tdFJMontiW5ASEW4mT0faMyJQRN.jpg",
                 "imageFiller": "height-left"
@@ -26,7 +26,7 @@
                 "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=4L6kGtKbhPc"
              },
              {
-                "type": "default",
+                "type": "space",
                 "layout": "4,0,8,5",
                 "badge": "Comedy | Thriller | Horror",
                 "color": "msx-glass",
