@@ -7,7 +7,7 @@
       "icon": "msx-white-soft:movie",
       "color": "msx-glass",
       "titleFooter": "",
-      "progress": -1,
+      "progress": 0,
       "live": {
          "type": "playback",
          "titleFooter": "{progress:time:hh:mm:ss}",
@@ -21,7 +21,7 @@
       {
          "title": "Episode 1",
          "playerLabel": "Episode 1",
-         "action": "video:https://www.cdn.vidce.net/d/stGD0PE0w_8T97InRvhxXA/1676583207/video/Bad_Sisters/1x01.mp4"
+         "action": "video:https://www.dropbox.com/s/0xzuqcd6v4cdct6/Dolittle.2020.mp4?raw=1"
       },
       {
          "title": "Episode 2",
