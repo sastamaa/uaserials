@@ -1,0 +1,37 @@
+{
+   "type": "pages",
+   "headline": "Test",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "space",
+               "layout": "0,0,4,6",
+               "image": "https://image.tmdb.org/t/p/w780/3Ti1YLH3Jpd1Bxjo2sqmaN4xn9n.jpg",
+               "imageFiller": "height-left"
+            },
+            {
+               "type": "button",
+               "layout": "4,5,2,1",
+               "label": "Play",
+               "playerLabel": "Plane",
+               "action": "video:https://dood.yt/d/k3f0ta3n661ud8f4ha9fv906agc4gk6z"
+            },
+            {
+               "type": "button",
+               "layout": "6,5,2,1",
+               "label": "Trailer",
+               "playerLabel": "Plane (Trailer)",
+               "action": "video:https://dood.yt/e/jj7jfnt3wr82vpnsitx8ymafgsbuvme4"
+            },
+            {
+               "type": "space",
+               "layout": "4,0,8,5",
+               "badge": "Action | Adventure | Thriller",
+               "color": "msx-glass",
+               "titleFooter": "Ένας πιλότος θα βρεθεί στη δίνη μιας εμπόλεμης ζώνης όταν εξαιτίας μιας καταιγίδας θα κάνει αναγκαστική προσγείωση στο επιβατηγό αεροσκάφος του.{br}{br}{br}{txt:msx-white:Director:}{tb}Jean-François Richet{br}{txt:msx-white:Actors:}{tb}Gerard Butler, Mike Colter, Yoson An, Tony Goldwyn, Daniella Pineda, Paul Ben-Victor, Remi Adeleke, Joey Slotnick, Evan Dane Taylor, Claro de los Reyes, Kelly Gale, Haleigh Hekking, Lilly Krug, Oliver Trevena, Tara Westwood{br}{br}{br}{br}{br}{br}{br}"
+            }
+         ]
+      }
+   ]
+}
