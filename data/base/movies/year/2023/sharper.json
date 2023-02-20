@@ -1,0 +1,37 @@
+{
+   "type": "pages",
+   "headline": "Sharper (2023)",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "space",
+               "layout": "0,0,4,6",
+               "image": "https://image.tmdb.org/t/p/w780/gXgq1IMqda15GCz1wqRGAUX4LRh.jpg",
+               "imageFiller": "height-left"
+            },
+            {
+               "type": "button",
+               "layout": "4,5,2,1",
+               "label": "Play",
+               "playerLabel": "Sharper",
+               "action": "video:https://www.sw.vidce.net/d/FAfgzIwTywhCaw0xlRBd3g/1677517574/2018/2015/tt12573454.mp4"
+            },
+            {
+               "type": "button",
+               "layout": "6,5,2,1",
+               "label": "Trailer",
+               "playerLabel": "Sharper (Trailer)",
+               "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=NNVDf6UfS68"
+            },
+            {
+               "type": "space",
+               "layout": "4,0,8,5",
+               "badge": "Drama | Crime | Thriller",
+               "color": "msx-glass",
+               "titleFooter": "Η ταινία διαδραματίζεται στη Νέα Υόρκη και ακολουθεί μια μικρή, πλούσια οικογένεια που διαλύεται σταδιακά από μυστικά, ψέματα και κλοπή. Η Julianne Moore πρωταγωνιστεί σε αυτή τη δραματική ταινία που αναδεικνύει τις σκοτεινές πτυχές των οικογενειακών δεσμών. Κατάλληλη για όσους αναζητούν ταινίες για οικογένειες που εξερευνούν την αλήθεια και τις συνέπειες των πράξεων τους.{br}{br}{br}{txt:msx-white:Director:}{tb}Benjamin Caron{br}{txt:msx-white:Actors:}{tb}Julianne Moore, Sebastian Stan, Justice Smith, Briana Middleton, John Lithgow, Darren Goldstein, Phillip Johnson Richardson, Kerry Flanagan, David Pittu, Quincy Dunn-Baker, Lucy Taylor{br}{br}{br}{br}"
+            }
+         ]
+      }
+   ]
+}
