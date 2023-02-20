@@ -1,0 +1,37 @@
+{
+   "type": "pages",
+   "headline": "The Old Way(2023)",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "space",
+               "layout": "0,0,4,6",
+               "image": "https://image.tmdb.org/t/p/w780/8HCCYAIocXxMKn7J9yQfDX1vBM5.jpg",
+               "imageFiller": "height-left"
+            },
+            {
+               "type": "button",
+               "layout": "4,5,2,1",
+               "label": "Play",
+               "playerLabel": "The Old Way",
+               "action": "video:https://www.sw.vidce.net/d/t_nFDrIH-38G826fLjRP0g/1677517806/2018/2015/tt8593824.mp4"
+            },
+            {
+               "type": "button",
+               "layout": "6,5,2,1",
+               "label": "Trailer",
+               "playerLabel": "The Old Way(Trailer)",
+               "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=dlIFZBddEak"
+            },
+            {
+               "type": "space",
+               "layout": "4,0,8,5",
+               "badge": "Drama | Crime | Thriller",
+               "color": "msx-glass",
+               "titleFooter": "Στο The Old Way, ο Colton Briggs (Cage), ένας πρώην ψυχρός πιστολέρο και νυν οικογενειάρχης θα αναγκαστεί να επιστρέψει στον παλιό του εαυτό, για να προστατέψει τους ανθρώπους που αγαπά. Στο πλευρό του θα είναι η κόρη του, που είναι μόλις 12 χρονών, σε μια περιπέτεια γεμάτη δράση και με αγωνιώδη κορύφωση.{br}{br}{br}{txt:msx-white:Director:}{tb}Brett Donowho{br}{txt:msx-white:Actors:}{tb}Nicolas Cage, Ryan Kiera Armstrong, Noah Le Gros, Clint Howard, Shiloh Fernandez, Abraham Benrubi, Nick Searcy, Kerry Knuppe, Dean Armstrong, Skyler Stone, Corby Griesenbeck, Eddie Spears, Katelyn Bauer, Craig Branham, Brett Donowho, Adam Lazarre-White, Beau Linnell, Jeff Medley, Joe Pepper{br}{br}{br}{br}"
+            }
+         ]
+      }
+   ]
+}
