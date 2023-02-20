@@ -9,6 +9,27 @@
    },
    "items": [
       {
+           "title": "The Old Way",
+         "titleFooter": "2023",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/8HCCYAIocXxMKn7J9yQfDX1vBM5.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2023/the_old_way.json"
+      },
+      {
+          "title": "Sharper",
+         "titleFooter": "2023",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/gXgq1IMqda15GCz1wqRGAUX4LRh.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2023/sharper.json"
+      },
+      {
+         "title": "On the Edge",
+         "titleFooter": "2022",
+         "imageFiller": "cover",
+         "image": "https://pics.filmaffinity.com/On_The_Edge-268703901-large.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2022/on_the_edge.json"
+      },
+      {
          "title": "Shotgun Wedding",
          "titleFooter": "2022",
          "imageFiller": "cover",
