@@ -1,0 +1,37 @@
+{
+   "type": "pages",
+   "headline": "Στα Ακρα (2022)",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "space",
+               "layout": "0,0,4,6",
+               "image": "https://pics.filmaffinity.com/On_The_Edge-268703901-large.jpg",
+               "imageFiller": "height-left"
+            },
+            {
+               "type": "button",
+               "layout": "4,5,2,1",
+               "label": "Play",
+               "playerLabel": "The Old Way",
+               "action": "video:https://www.sw.vidce.net/d/JVoij4Fd3xN1CKVkJfsBCQ/1677518137/2018/2015/tt12819094.mp4"
+            },
+            {
+               "type": "button",
+               "layout": "6,5,2,1",
+               "label": "Trailer",
+               "playerLabel": "Στα Ακρα (Trailer)",
+               "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=0coBUYe2HIw"
+            },
+            {
+               "type": "space",
+               "layout": "4,0,8,5",
+               "badge": "Drama | Crime | Thriller",
+               "color": "msx-glass",
+               "titleFooter": "Ένας ισπανός οδηγός του υπογείου σιδηροδρόμου στις Βρυξέλλες, βιώνει μια νύχτα την απόλυτη φρίκη. Βλέπει ένα νεαρό να ετοιμάζεται να πέσει στις ράγες, μπροστά από το συρμό που οδηγεί ο ίδιος, και βλέποντας το πρόσωπό του προλαβαίνει να αντιληφθεί πως είναι ο γιος του, με τον οποίο είχαν χαθεί εδώ και χρόνια… Όταν ο πατέρας μαθαίνει πως ο γιος του είχε εμπλακεί σε μια αιματηρή ληστεία αποφασίζει να πάρει το νόμο στα χέρια του, και να ακολουθήσει τη ματωμένη γραμμή των ιχνών που άφησε πίσω του το παιδί του, για να φτάσει στους εγκέφαλους της ληστείας, τους οποίους θεωρεί υπευθύνους για την κατάληξη του.{br}{br}{txt:msx-white:Director:}{tb}Giordano Gederlini{br}{txt:msx-white:Actors:}{tb}Antonio de la Torre, Marine Vacth, Olivier Gourmet, Fabrice Adde, Nessbeal, Tibo Vandenborre, Alexandre Bouyer, Marie Papillon, Noé Englebert, Lila Jonas, Hugo Quero{br}{br}"
+            }
+         ]
+      }
+   ]
+}
