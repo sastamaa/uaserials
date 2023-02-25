@@ -9,6 +9,13 @@
    },
    "items": [
       {
+         "title": "Die Hart: The Movie",
+         "titleFooter": "2023",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/1EnBjTJ5utgT1OXYBZ8YwByRCzP.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2023/die_hart.json"
+      },
+      {
          "title": "Deep Water",
          "titleFooter": "2022",
          "imageFiller": "cover",
