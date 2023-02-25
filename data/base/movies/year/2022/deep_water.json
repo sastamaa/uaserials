@@ -1,0 +1,37 @@
+{
+    "type": "pages",
+    "headline": "Deep Water (2022)",
+    "pages": [
+       {
+          "items": [
+             {
+                "type": "space",
+                "layout": "0,0,4,6",
+                "image": "https://image.tmdb.org/t/p/w780/vAIdAnOVnyiQtDcWy07n03GCoqT.jpg",
+                "imageFiller": "height-left"
+             },
+             {
+                "type": "button",
+                "layout": "4,5,2,1",
+                "label": "Play",
+                "playerLabel": "Deep Water",
+                "action": "video:https://www.sw.vidce.net/d/JqRc9eRDftqus7Fy-MDtlA/1677959005/2018/2015/tt2180339.mp4"
+             },
+             {
+                "type": "button",
+                "layout": "6,5,2,1",
+                "label": "Trailer",
+                "playerLabel": "Deep Water (Trailer)",
+                "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=h0zqe_As_qo"
+             },
+             {
+                "type": "space",
+                "layout": "4,0,8,5",
+                "badge": "Drama | Mystery | Thriller",
+                "color": "msx-glass",
+                "titleFooter": "Ο Vic και η Melinda Van Allen είναι ένα ζευγάρι στη μικρή πόλη Little Wesley. Ο τυπικός πλέον γάμος τους συντηρείται μόνο με μια επισφαλή συμφωνία σύμφωνα με την οποία, για να αποφύγουν τις δυσάρεστες συνέπειες του διαζυγίου, η Μελίντα επιτρέπεται να έχει οποιονδήποτε αριθμό εραστών, εφόσον δεν εγκαταλείπει την οικογένειά της.{br}{br}{br}{txt:msx-white:Director:}{tb}Adrian Lyne{br}{txt:msx-white:Actors:}{tb}Ben Affleck, Ana de Armas, Tracy Letts{br}{br}{br}{br}{br}{br}{br}"
+             }
+          ]
+       }
+    ]
+ }
