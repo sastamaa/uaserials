@@ -1,0 +1,37 @@
+{
+   "type": "pages",
+   "headline": "Die Hart: The Movie (2023)",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "space",
+               "layout": "0,0,4,6",
+               "image": "https://image.tmdb.org/t/p/w780/1EnBjTJ5utgT1OXYBZ8YwByRCzP.jpg",
+               "imageFiller": "height-left"
+            },
+            {
+               "type": "button",
+               "layout": "4,5,2,1",
+               "label": "Play",
+               "playerLabel": "Die Hart: The Movie",
+               "action": "video:https://www.sw.vidce.net/d/fPbgFDuvChVDGjVt6JR4ig/1677960082/2018/2015/tt26198528.mp4"
+            },
+            {
+               "type": "button",
+               "layout": "6,5,2,1",
+               "label": "Trailer",
+               "playerLabel": "Die Hart: The Movie (Trailer)",
+               "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=TKCseQ-b6GM"
+            },
+            {
+               "type": "space",
+               "layout": "4,0,8,5",
+               "badge": "Action | Comedy | Thriller",
+               "color": "msx-glass",
+               "titleFooter": "Στην ταινία ο Kevin Hart είναι ένας ηθοποιός, στον οποίο ένας διάσημος σκηνοθέτης του προσφέρει να γίνει η ευχή του πραγματικότητα, δηλαδή να γίνει ο απόλυτος πρωταγωνιστής. Ωστόσο μόνο εύκολα δεν είναι τα πράγματα, αφού θα πρέπει να εκπαιδευτεί στη καλύτερη σχολή για ήρωες ταινιών δράσης, υπεύθυνος της οποίας θα είναι ο John Travolta.{br}{br}{br}{txt:msx-white:Director:}{tb}Eric Appel{br}{txt:msx-white:Actors:}{tb}Kevin Hart, Nathalie Emmanuel, John Travolta, Jean Reno, Josh Hartnett, Kenneth Trujillo, Joshua Lamboy, Brandon Quinn, Milana Vayntrub, Stephan Jones, Jason Jones{br}{br}{br}{br}{br}"
+            }
+         ]
+      }
+   ]
+}
