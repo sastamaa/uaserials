@@ -1,0 +1,37 @@
+{
+   "type": "pages",
+   "headline": "Η φάλαινα (2022)",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "space",
+               "layout": "0,0,4,6",
+               "image": "https://image.tmdb.org/t/p/w780/j3mILZTNuMbR1WdPr7m1IcpvBvX.jpg",
+               "imageFiller": "height-left"
+            },
+            {
+               "type": "button",
+               "layout": "4,5,2,1",
+               "label": "Play",
+               "playerLabel": "The Whale",
+               "action": "video:https://www.sw.vidce.net/d/PpTzKe6NLxLq5M5E5QnfrQ/1677961463/2018/2015/tt13833688.mp4"
+            },
+            {
+               "type": "button",
+               "layout": "6,5,2,1",
+               "label": "Trailer",
+               "playerLabel": "The Whale (Trailer)",
+               "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=QgmWCoPhz_s"
+            },
+            {
+               "type": "space",
+               "layout": "4,0,8,5",
+               "badge": "Drama",
+               "color": "msx-glass",
+               "titleFooter": "Ένας ερημίτης καθηγητής αγγλικών που πάσχει από σοβαρή παχυσαρκία, προσπαθεί να συνδεθεί ξανά με την αποξενωμένη κόρη του, σε μία τελευταία απόπειρα να εξιλεωθεί.{br}{br}{br}{txt:msx-white:Director:}{tb}Darren Aronofsky{br}{txt:msx-white:Actors:}{tb}Brendan Fraser, Sadie Sink, Hong Chau, Ty Simpkins, Samantha Morton, Sathya Sridharan, Jacey Sink{br}{br}{br}{br}{br}{br}{br}{br}"
+            }
+         ]
+      }
+   ]
+}
