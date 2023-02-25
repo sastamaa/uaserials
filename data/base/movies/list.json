@@ -9,6 +9,13 @@
    },
    "items": [
       {
+         "title": "The Whale",
+         "titleFooter": "2022",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/j3mILZTNuMbR1WdPr7m1IcpvBvX.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2022/the_whale.json"
+      },
+      {
          "title": "Die Hart: The Movie",
          "titleFooter": "2023",
          "imageFiller": "cover",
