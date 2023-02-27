@@ -9,6 +9,13 @@
    },
    "items": [
       {
+         "title": "Confidential Assignment 2: International",
+         "titleFooter": "2022",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/f83PSljERDkW4rYOErnMCMiGcSG.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2022/confidential_assignment_2.json"
+      },
+      {
          "title": "The Whale",
          "titleFooter": "2022",
          "imageFiller": "cover",
