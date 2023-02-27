@@ -1,0 +1,37 @@
+{
+   "type": "pages",
+   "headline": "Confidential Assignment 2: International (2022)",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "space",
+               "layout": "0,0,4,6",
+               "image": "https://image.tmdb.org/t/p/w780/f83PSljERDkW4rYOErnMCMiGcSG.jpg",
+               "imageFiller": "height-left"
+            },
+            {
+               "type": "button",
+               "layout": "4,5,2,1",
+               "label": "Play",
+               "playerLabel": "Confidential Assignment 2",
+               "action": "video:https://www.sw.vidce.net/d/pTsZPhomON6Pi-nJgUgJVw/1678122999/2018/2015/tt21867370.mp4"
+            },
+            {
+               "type": "button",
+               "layout": "6,5,2,1",
+               "label": "Trailer",
+               "playerLabel": "Confidential Assignment 2 (Trailer)",
+               "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=Fxt999QKxH0"
+            },
+            {
+               "type": "space",
+               "layout": "4,0,8,5",
+               "badge": "Comedy | Action | Thriller",
+               "color": "msx-glass",
+               "titleFooter": "Ο βορειοκορεάτης ντετέκτιβ Ιμ Τσολ Ριονγκ στέλνεται στη Νότια Κορέα για μια νέα αποστολή. Στόχος του είναι ο αρχηγός της βορειοκορεατικής εγκληματικής οργάνωσης Τσανγκ Μιονγκ Τζουν. Στη Νότια Κορέα συνεργάζεται ξανά με τον ντετέκτιβ Κανγκ Τσιν Τε, ο οποίος εξαιτίας ενός λάθους που έκανε, εργάζεται τώρα στο Τμήμα Ηλεκτρονικού Εγκλήματος. Στο κυνηγητό που ακολουθεί σημαντικό ρόλο παίζει και ο πράκτορας Τζακ του FBI.{br}{br}{br}{txt:msx-white:Director:}{tb}Seok-hoon Lee{br}{txt:msx-white:Actors:}{tb}Hyun Bin, Yoo Hae-jin, Yoona, Daniel Henney, Jin Sun-kyu, Jang Young-nam, Lee Hae-yeong, Park Hoon, Im Sung-jae.{br}{br}{br}{br}{br}"
+            }
+         ]
+      }
+   ]
+}
