@@ -1,0 +1,37 @@
+{
+    "type": "pages",
+    "headline": "Πάση θυσία (2016)",
+    "pages": [
+       {
+          "items": [
+             {
+                "type": "space",
+                "layout": "0,0,4,6",
+                "image": "https://image.tmdb.org/t/p/w780/BPo1yD6SbX1cscfJ7qVwli1Lw8.jpg",
+                "imageFiller": "height-left"
+             },
+             {
+                "type": "button",
+                "layout": "4,5,2,1",
+                "label": "Play",
+                "playerLabel": "Hell or High Water",
+                "action": "video:https://www.nd.vidce.net/d/EwW_TYZsuJcuc8HHNoKwKA/1678211814/video/2015/tt2582782.mp4"
+             },
+             {
+                "type": "button",
+                "layout": "6,5,2,1",
+                "label": "Trailer",
+                "playerLabel": "Hell or High Water (Trailer)",
+                "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=IcOVEekeE7M"
+             },
+             {
+                "type": "space",
+                "layout": "4,0,8,5",
+                "badge": "Crime | Drama | Thriller",
+                "color": "msx-glass",
+                "titleFooter": "Ένας χωρισμένος πατέρας και ο πρώην κατάδικος αδερφός του οργανώνουν μια ληστεία σε τράπεζα προκειμένου να σώσουν την φάρμα της οικογένειάς τους στο Δυτικό Τέξας. Παρόλο που το σχέδιό τους προχωράει ομαλά, δύο αστυνομικοί που τους παρακολουθούν, είναι αποφασισμένοι να τους συλλάβουν.{br}{br}{br}{txt:msx-white:Director:}{tb}David Mackenzie{br}{txt:msx-white:Actors:}{tb}Gerard Butler, Mike Colter, Yoson An, Tony Goldwyn, Daniella Pineda, Paul Ben-Victor, Remi Adeleke, Joey Slotnick, Evan Dane Taylor, Claro de los Reyes, Kelly Gale, Haleigh Hekking, Lilly Krug, Oliver Trevena, Tara Westwood{br}{br}{br}{br}{br}"
+             }
+          ]
+       }
+    ]
+ }
