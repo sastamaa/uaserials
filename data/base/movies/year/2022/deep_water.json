@@ -15,22 +15,7 @@
                "layout": "4,5,2,1",
                "label": "Play",
                "playerLabel": "Deep Water",
-               "action": "video:https://www.sw.vidce.net/d/JqRc9eRDftqus7Fy-MDtlA/1677959005/2018/2015/tt2180339.mp4",
-               "progress": -1,
-               "live": {
-                  "type": "playback",
-                  "running": {
-                     "titleFooter": "{col:msx-white}{ico:play-circle} {progress:time:hh:mm:ss}"
-                  },
-                  "action": "player:show"
-               },
-               "properties": {
-                  "control:type": "extended",
-                  "control:reuse": "retain",
-                  "label:extension": "{sp}{sp}{ico:msx-white:access-time} {now:time:hh:mm}",
-                  "resume:key": "url",
-                  "trigger:complete": "[player:auto:next|resume:position:none]"
-               }
+               "action": "video:https://www.sw.vidce.net/d/JqRc9eRDftqus7Fy-MDtlA/1677959005/2018/2015/tt2180339.mp4"
             },
             {
                "type": "button",
