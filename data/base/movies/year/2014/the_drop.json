@@ -1,0 +1,38 @@
+{
+    "type": "pages",
+    "headline": "Η συγκάλυψη (2014)",
+    "pages": [
+       {
+          "items": [
+             {
+                "type": "space",
+                "layout": "0,0,4,6",
+                "image": "https://image.tmdb.org/t/p/w780/pkOsCxsRmQZ0wWlYse5u6xDGfgW.jpg",
+                "imageFiller": "height-left"
+             },
+             {
+                "type": "button",
+                "layout": "4,5,2,1",
+                "label": "Play",
+                "playerLabel": "The Drop",
+                "action": "video:https://www.nd.vidce.net/d/Vs0Cessl2mWICEdGcmGu1Q/1678270914/video/2015/tt1600196.mp4"
+             },
+             {
+                "type": "button",
+                "layout": "6,5,2,1",
+                "label": "Trailer",
+                "playerLabel": "The Drop (Trailer)",
+                "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=NkSjdIH7578"
+             },
+             {
+                "type": "space",
+                "layout": "4,0,8,5",
+                "badge": "Crime | Drama | Thriller",
+                "color": "msx-glass",
+                "titleFooter": "Ο Μπομπ Σαγκινόφσκι είναι ένας μοναχικός μπάρμαν που βρίσκεται άθελα του μπλεγμένος στον νεοϋορκέζικο υπόκοσμο του Μπρούκλιν. Ακολουθώντας τις οδηγίες του καταπιεστικού ιδιοκτήτη του μπαρ και ξαδέλφου του, Μαρβ, ο Μπομπ θα βρεθεί μπλεγμένος σε μια ασυνήθιστη περίπτωση ληστείας, προκαλώντας την προσοχή της αστυνομίας η οποία ερευνά το παρελθόν της γειτονιάς του. Εκεί όπου φίλοι, οικογένεια και εχθροί δουλεύουν όλοι μαζί και προσπαθούν να επιβιώσουν με κάθε κόστος.{br}{br}{br}{txt:msx-white:Director:}{tb}Michaël R. Roskam{br}{txt:msx-white:Actors:}{tb}Tom Hardy, Noomi Rapace, James Gandolfini, Matthias Schoenaerts, John Ortiz, Ann Dowd{br}{br}{br}{br}"
+             }
+          ]
+       }
+    ]
+ }
+ 

@@ -1,0 +1,38 @@
+{
+    "type": "pages",
+    "headline": "Δίδυμοι θρύλοι (2015)",
+    "pages": [
+       {
+          "items": [
+             {
+                "type": "space",
+                "layout": "0,0,4,6",
+                "image": "https://image.tmdb.org/t/p/w780/mvGXyLDGZVAE69IjHvzEzq6X34u.jpg",
+                "imageFiller": "height-left"
+             },
+             {
+                "type": "button",
+                "layout": "4,5,2,1",
+                "label": "Play",
+                "playerLabel": "Legend",
+                "action": "video:https://www.nd.vidce.net/d/R6z21aHWAtIyB3ir-7o1mQ/1678270324/video/2015/tt3569230.mp4"
+             },
+             {
+                "type": "button",
+                "layout": "6,5,2,1",
+                "label": "Trailer",
+                "playerLabel": "Legend (Trailer)",
+                "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=04i4eeq1Ytg"
+             },
+             {
+                "type": "space",
+                "layout": "4,0,8,5",
+                "badge": "Biography | Crime | Drama",
+                "color": "msx-glass",
+                "titleFooter": "Η ιστορία των πιο διάσημων μαφιόζων της Βρετανίας, του Ρέτζι και του Ρόνι Κρέι, που μεσουράνησαν στο Λονδίνο της δεκαετίας του ’60. Ο Ρόνι μόλις αποφυλακίστηκε και τα δύο αδέρφια βρίσκονται αντιμέτωπα με τον Τσάρλι Ρίτσαρντσον και τη συμμορία του για να εδραιώσουν την κυριαρχία τους. Ο κόσμος τους αντιμετωπίζει ως εξέχουσες προσωπικότητες, κινούνται στα σαλόνια των ανώτερων κοινωνικών τάξεων, ενώ η επιρροή τους φτάνει μέχρι τα ανώτερα κλιμάκια του Βρετανικού κατεστημένου. Τίποτα δεν τους σταματά.{br}{br}{br}{txt:msx-white:Director:}{tb}Brian Helgeland{br}{txt:msx-white:Actors:}{tb}Tom Hardy, Emily Browning, Christopher Eccleston, David Thewlis, Taron Egerton{br}{br}{br}"
+             }
+          ]
+       }
+    ]
+ }
+ 

@@ -1,0 +1,38 @@
+{
+    "type": "pages",
+    "headline": "Το κορίτσι με το τατουάζ (2011)",
+    "pages": [
+       {
+          "items": [
+             {
+                "type": "space",
+                "layout": "0,0,4,6",
+                "image": "https://image.tmdb.org/t/p/w780/zqDopwg7XQ4IfFX2dRlQCT1SwMG.jpg",
+                "imageFiller": "height-left"
+             },
+             {
+                "type": "button",
+                "layout": "4,5,2,1",
+                "label": "Play",
+                "playerLabel": "The Girl with the Dragon Tattoo",
+                "action": "video:https://www.nd.vidce.net/d/NN1VYAa44pia6Yh1iTYkhQ/1678268974/video/2015/tt1568346.mp4"
+             },
+             {
+                "type": "button",
+                "layout": "6,5,2,1",
+                "label": "Trailer",
+                "playerLabel": "The Girl with the Dragon Tattoo (Trailer)",
+                "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=jf5S7vHl9LM"
+             },
+             {
+                "type": "space",
+                "layout": "4,0,8,5",
+                "badge": "Crime | Drama | Mystery",
+                "color": "msx-glass",
+                "titleFooter": "Ο Μίκαελ Μπλόμκβιστ, ένας μεγαλόσχημος δημοσιογράφος με βεβαρημένο παρελθόν, αναλαμβάνει για λογαριασμό ενός ηλικιωμένου βιομήχανου να εξιχνιάσει την υπόθεση εξαφάνισης της 16χρονης ανιψιάς του, η οποία χρονολογείται πριν από 40 περίπου χρόνια. Κι ενώ στην πορεία αρχίζει να ανακαλύπτει πως η ιστορία της οικογένειάς τους είναι «σπαρμένη» με μια πληθώρα ανομολόγητων μυστικών, η Λίσμπεθ Σάλαντερ, μια εκκεντρική hacker με punk attitude και συχνά προβλήματα με το νόμο, αποφασίζει να του προσφέρει μια αναπάντεχη χείρα βοηθείας.{br}{br}{br}{txt:msx-white:Director:}{tb}David Fincher{br}{txt:msx-white:Actors:}{tb}Daniel Craig, Rooney Mara, Christopher Plummer, Stellan Skarsgård{br}{br}{br}{br}"
+             }
+          ]
+       }
+    ]
+ }
+ 

@@ -1,0 +1,38 @@
+{
+    "type": "pages",
+    "headline": "Νυχτερινός ανταποκριτής (2014)",
+    "pages": [
+       {
+          "items": [
+             {
+                "type": "space",
+                "layout": "0,0,4,6",
+                "image": "https://image.tmdb.org/t/p/w780/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
+                "imageFiller": "height-left"
+             },
+             {
+                "type": "button",
+                "layout": "4,5,2,1",
+                "label": "Play",
+                "playerLabel": "Nightcrawler",
+                "action": "video:https://www.nd.vidce.net/d/e45a-1VVv-zmvcpp123avA/1678269866/video/2015/tt2872718.mp4"
+             },
+             {
+                "type": "button",
+                "layout": "6,5,2,1",
+                "label": "Trailer",
+                "playerLabel": "Nightcrawler (Trailer)",
+                "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=a4cVjK4sHUo"
+             },
+             {
+                "type": "space",
+                "layout": "4,0,8,5",
+                "badge": "Crime | Drama | Thriller",
+                "color": "msx-glass",
+                "titleFooter": "Στην καρδιά του Λος Άντζελες, ένας νεαρός, ο Λου Μπλουμ, στην απελπισία του για δουλειά, καταλήγει στον ταχύρυθμο κόσμο της τοπικής δημοσιογραφίας. Βρίσκει μια ομάδα ελεύθερων επαγγελματιών με μια κάμερα, που τραβάνε ατυχήματα, φόνους και ό,τι πιο θεαματικό και μακάβριο μπορεί να βρεθεί. Κάθε σειρήνα περιπολικού είναι και μια πιθανή «δουλειά» και τα πτώματα αντιστοιχούν σε χρήμα. Κοντά στη Νίνα, μια έμπειρη γυναίκα σε τέτοιου είδους δουλειές, ο Λου πασχίζει για το πιο δυνατό ρεπορτάζ, ώστε να γίνει κι αυτός αστέρι του είδους.{br}{br}{br}{txt:msx-white:Director:}{tb}Dan Gilroy{br}{txt:msx-white:Actors:}{tb}Jake Gyllenhaal, Rene Russo, Riz Ahmed, Bill Paxton, Kevin Rahm{br}{br}{br}{br}"
+             }
+          ]
+       }
+    ]
+ }
+ 

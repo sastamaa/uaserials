@@ -1,0 +1,38 @@
+{
+    "type": "pages",
+    "headline": "Χωρίς ίχνη (2007)",
+    "pages": [
+       {
+          "items": [
+             {
+                "type": "space",
+                "layout": "0,0,4,6",
+                "image": "https://image.tmdb.org/t/p/w780/rm3Dl8DWYGO3UQ3w2kju62L9rkn.jpg",
+                "imageFiller": "height-left"
+             },
+             {
+                "type": "button",
+                "layout": "4,5,2,1",
+                "label": "Play",
+                "playerLabel": "Gone Baby Gone",
+                "action": "video:https://www.nd.vidce.net/d/k6ITse7a8yEqYbaJmljQqA/1678269257/video/2015/tt0452623.mp4"
+             },
+             {
+                "type": "button",
+                "layout": "6,5,2,1",
+                "label": "Trailer",
+                "playerLabel": "Gone Baby Gone (Trailer)",
+                "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=JyT0_wfQR2Y"
+             },
+             {
+                "type": "space",
+                "layout": "4,0,8,5",
+                "badge": "Crime | Drama | Mystery",
+                "color": "msx-glass",
+                "titleFooter": "Δύο ντετέκτιβ προσπαθούν να ξεδιαλύνουν το μυστήριο της εξαφάνισης ενός τετράχρονου κοριτσιού. Η αναζήτηση της αλήθειας θα αποδειχθεί εξαιρετικά δύσκολη και θα βάλει σε κίνδυνο την ηρεμία τους, την σχέση τους ακομη και την ίδια τους την ζωή.{br}{br}{br}{txt:msx-white:Director:}{tb}Ben Affleck{br}{txt:msx-white:Actors:}{tb}Casey Affleck, Michelle Monaghan, Morgan Freeman, Ed Harris {br}{br}{br}{br}{br}{br}{br}{br}"
+             }
+          ]
+       }
+    ]
+ }
+ 

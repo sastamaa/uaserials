@@ -1,0 +1,38 @@
+{
+    "type": "pages",
+    "headline": "Σε λάθος χρόνο (2013)",
+    "pages": [
+       {
+          "items": [
+             {
+                "type": "space",
+                "layout": "0,0,4,6",
+                "image": "https://image.tmdb.org/t/p/w780/jSUNbEpv91fN4aphthyD2Ezk97y.jpg",
+                "imageFiller": "height-left"
+             },
+             {
+                "type": "button",
+                "layout": "4,5,2,1",
+                "label": "Play",
+                "playerLabel": "Locke",
+                "action": "video:https://www.nd.vidce.net/d/r29-s3qx_cuJKLj-_dFGpA/1678270626/video/2015/tt2692904srt.mp4"
+             },
+             {
+                "type": "button",
+                "layout": "6,5,2,1",
+                "label": "Trailer",
+                "playerLabel": "Locke (Trailer)",
+                "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=EBoGbJwm8eQ"
+             },
+             {
+                "type": "space",
+                "layout": "4,0,8,5",
+                "badge": "Drama | Thriller",
+                "color": "msx-glass",
+                "titleFooter": "Ο Άιβαν Λοκ είναι ένας απλός άνθρωπος, παντρεμένος με δύο παιδιά κι επιβλέπων μηχανικός σε κατασκευαστική εταιρία. Ένα βράδυ, κάτι που έκανε λίγους μήνες νωρίτερα θα γυρίσει να τον στοιχειώσει, και θα αναγκαστεί να πάρει αποφάσεις που θα αλλάξουν τη ζωή του και των ανθρώπων που αγαπά, για πάντα. Ταυτόχρονα απειλείται κι ένα έργο που έχει αναλάβει. Στην προσπάθεια του να κάνει το σωστό και να μην επαναλάβει τα λάθη του πατέρα του θα ρισκάρει τα πάντα: τη δουλειά του, τη φήμη του, την οικογένεια του, τη ζωή που πάλεψε τόσο σκληρά να χτίσει.{br}{br}{br}{txt:msx-white:Director:}{tb}Steven Knight{br}{txt:msx-white:Actors:}{tb}Tom Hardy, Ruth Wilson, Andrew Scott, Olivia Colman, Tom Holland, Ben Daniels{br}{br}{br}"
+             }
+          ]
+       }
+    ]
+ }
+ 
