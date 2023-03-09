@@ -9,6 +9,20 @@
    },
    "items": [
       {
+         "title": "The Locksmith",
+         "titleFooter": "2023",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/kNQ9Z3TQ5vU5fvwuHqZvLooFcCI.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2023/the_locksmith.json"
+      },
+      {
+         "title": "Somebody I Used to Know",
+         "titleFooter": "2023",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/ovHxxphDgjyEpYriDoGoIHfrdZL.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2023/somebody_used_to_know.json"
+      },
+      {
          "title": "The Drop",
          "titleFooter": "2014",
          "imageFiller": "cover",
@@ -16,7 +30,6 @@
          "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2014/the_drop.json"
       },
       {
-
          "title": "Locke",
          "titleFooter": "2013",
          "imageFiller": "cover",
