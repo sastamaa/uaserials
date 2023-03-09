@@ -9,6 +9,13 @@
    },
    "items": [
       {
+         "title": "The Offering",
+         "titleFooter": "2022",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/tbaTFgGIaTL1Uhd0SMob6Dhi5cK.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2022/the_offering.json"
+      },
+      {
            "title": "Magic Mike: O Τελευταίος Του Χορός",
          "titleFooter": "2023",
          "imageFiller": "cover",
