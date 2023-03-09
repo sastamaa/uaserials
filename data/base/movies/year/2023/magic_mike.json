@@ -1,0 +1,37 @@
+{
+   "type": "pages",
+   "headline": "Magic Mike: O Τελευταίος Του Χορός (2023)",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "space",
+               "layout": "0,0,4,6",
+               "image": "https://image.tmdb.org/t/p/w780/lPSrsPrEKswtWL3F5xpgvnWmrBH.jpg",
+               "imageFiller": "height-left"
+            },
+            {
+               "type": "button",
+               "layout": "4,5,2,1",
+               "label": "Play",
+               "playerLabel": "Magic Mike: O Τελευταίος Του Χορός",
+               "action": "video:https://www.sw.vidce.net/d/6cDsFisjxwsif91MK0g2og/1678964187/2018/2015/tt16280138.mp4"
+            },
+            {
+               "type": "button",
+               "layout": "6,5,2,1",
+               "label": "Trailer",
+               "playerLabel": "Magic Mike: O Τελευταίος Του Χορός (Trailer)",
+               "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=MIKJHwvHjUU"
+            },
+            {
+               "type": "space",
+               "layout": "4,0,8,5",
+               "badge": "Action | Adventure | Thriller",
+               "color": "msx-glass",
+               "titleFooter": "Ο Μάικ Λέιν ανεβαίνει και πάλι στη σκηνή μετά από μακρόχρονη απουσία εξαιτίας μίας καταστροφικής εμπορικής συμφωνίας που τον άφησε άφραγκο και τον ανάγκασε να αναλάβει χρέη μπάρμαν στη Φλόριντα. Με την ελπίδα ότι βρίσκεται μπροστά σε μία χρυσή ευκαιρία, ο Μάικ κατευθύνεται στο Λονδίνο με μία πλούσια γυναίκα της κοσμικής κοινωνίας, η οποία τον παρασύρει με μία πρόταση που δεν μπορεί να αρνηθεί… κρατώντας τα κίνητρα της μυστικά.{br}{br}{br}{txt:msx-white:Director:}{tb}Steven Soderbergh{br}{txt:msx-white:Actors:}{tb} Channing Tatum, Salma Hayek, Ayub Khan-Din, Jemelia George, Juliette Motamed, Vicki Pepperdine, Caitlin Gerard, Christopher Bencomo{br}{br}{br}{br}{br}"
+            }
+         ]
+      }
+   ]
+}
