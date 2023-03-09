@@ -9,6 +9,13 @@
    },
    "items": [
       {
+          "title": "Little Dixie",
+         "titleFooter": "2023",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/cmWTZj9zzT9KFt3XyL0gssL7Ig8.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2023/little_dixie.json"
+      },
+      {
          "title": "The Locksmith",
          "titleFooter": "2023",
          "imageFiller": "cover",
