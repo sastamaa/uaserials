@@ -9,6 +9,13 @@
    },
    "items": [
       {
+           "title": "Magic Mike: O Τελευταίος Του Χορός",
+         "titleFooter": "2023",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/lPSrsPrEKswtWL3F5xpgvnWmrBH.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2023/magic_mike.json"
+      },
+      {
           "title": "Little Dixie",
          "titleFooter": "2023",
          "imageFiller": "cover",
