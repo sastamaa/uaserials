@@ -1,0 +1,38 @@
+{
+    "type": "pages",
+    "headline": "Μια Νύχτα στο Μουσείο: Ο Καμουνρά Επιστρέφει (2022)",
+    "pages": [
+       {
+          "items": [
+             {
+                "type": "space",
+                "layout": "0,0,4,6",
+                "image": "https://image.tmdb.org/t/p/w780/mkRQn520JQD07BNP03NK3iKCaPD.jpg",
+                "imageFiller": "height-left"
+             },
+             {
+                "type": "button",
+                "layout": "4,5,2,1",
+                "label": "Play",
+                "playerLabel": "Night at the Museum: Kahmunrah Rises Again",
+                "action": "video:https://www.sw.vidce.net/d/xQBnfShEj_e0iSzTr9VI2A/1678273988/2018/2015/tt13623880.mp4"
+             },
+             {
+                "type": "button",
+                "layout": "6,5,2,1",
+                "label": "Trailer",
+                "playerLabel": "Night at the Museum: Kahmunrah Rises Again - Trailer",
+                "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=4WdSQFdMYZg"
+             },
+             {
+                "type": "space",
+                "layout": "4,0,8,5",
+                "badge": "Με υποτιτλους",
+                "color": "msx-glass",
+                "titleFooter": "Μια ολοκαίνουργια περιπέτεια κινουμένων σχεδίων βασισμένη στη δημοφιλή σειρά ταινιών. Η καλοκαιρινή εργασία του Νικ Ντέιλι ως νυχτοφύλακας στο Αμερικάνικο Μουσείο Φυσικής Ιστορίας είναι μια δύσκολη δουλειά για έναν μαθητή γυμνασίου. Ευτυχώς, ακολουθεί τα βήματα του πατέρα του και είναι εξοικειωμένος με το αρχαίο δισκίο του μουσείου που ζωντανεύει τα πάντα όταν δύσει ο ήλιος.{br}{br}{br}{txt:msx-white:Director:}{tb}Matt Danner{br}{txt:msx-white:Screenplay:}{tb}William Schifrin{br}{txt:msx-white:Actors:}{tb}Joshua Bassett, Thomas Lennon, Joseph Kamal, Akmal Saleh{br}{br}{br}{br}{br}"
+             }
+          ]
+       }
+    ]
+ }
+ 

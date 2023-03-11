@@ -1,0 +1,38 @@
+{
+    "type": "pages",
+    "headline": "Παράξενος κόσμος (2022)",
+    "pages": [
+       {
+          "items": [
+             {
+                "type": "space",
+                "layout": "0,0,4,6",
+                "image": "https://image.tmdb.org/t/p/w780/2s7f5991JUNgRGnedSeKB0LEK7c.jpg",
+                "imageFiller": "height-left"
+             },
+             {
+                "type": "button",
+                "layout": "4,5,2,1",
+                "label": "Play",
+                "playerLabel": "Strange World",
+                "action": "video:https://www.sw.vidce.net/d/Bk0EforVVNVwGUQwPB1PvA/1678273780/video/2015/tt10298840GR.mp4"
+             },
+             {
+                "type": "button",
+                "layout": "6,5,2,1",
+                "label": "Trailer",
+                "playerLabel": "Strange World - Trailer",
+                "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=St-BlrY9IHY"
+             },
+             {
+                "type": "space",
+                "layout": "4,0,8,5",
+                "badge": "Mεταγλωτισμενο",
+                "color": "msx-glass",
+                "titleFooter": "Η πρωτότυπη αυτή περιπέτεια δράσης μας οδηγεί σε μια αχαρτογράφητη και επικίνδυνη χώρα όπου φανταστικά πλάσματα περιμένουν τους θρυλικούς Κλέιντ, μια οικογένεια εξερευνητών, των οποίων οι μεταξύ τους διαφορές απειλούν να τινάξουν στον αέρα την τελευταία – και μέχρι σήμερα – πιο σημαντική τους αποστολή.{br}{br}{br}{txt:msx-white:Director:}{tb}Don Hall{br}{txt:msx-white:Screenplay:}{tb}Qui Nguyen{br}{txt:msx-white:Actors:}{tb}Jake Gyllenhaal, Dennis Quaid, Jaboukie Young-White, Gabrielle Union, Lucy Liu{br}{br}{br}{br}{br}"
+             }
+          ]
+       }
+    ]
+ }
+ 

@@ -1,0 +1,38 @@
+{
+    "type": "pages",
+    "headline": "Ο Παπουτσωμένος Γάτος: Η τελευταία επιθυμία (2022)",
+    "pages": [
+       {
+          "items": [
+             {
+                "type": "space",
+                "layout": "0,0,4,6",
+                "image": "https://image.tmdb.org/t/p/w780/r7WgPcXNIfomdQyOYazNFbJjxbS.jpg",
+                "imageFiller": "height-left"
+             },
+             {
+                "type": "button",
+                "layout": "4,5,2,1",
+                "label": "Play",
+                "playerLabel": "Puss in Boots: The Last Wish",
+                "action": "video:https://www.sw.vidce.net/d/MrgjqfkmJ9tLLxOQ0mBqUQ/1678273109/2018/2015/tt3915174.mp4"
+             },
+             {
+                "type": "button",
+                "layout": "6,5,2,1",
+                "label": "Trailer",
+                "playerLabel": "Puss in Boots: The Last Wish - Trailer",
+                "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=u-DgkxY9EQs"
+             },
+             {
+                "type": "space",
+                "layout": "4,0,8,5",
+                "badge": "Με υποτιτλους",
+                "color": "msx-glass",
+                "titleFooter": "Η ξακουστή αγριόγατα επιστρέφει, πιο… απελπισμένη από ποτέ, καθώς το πάθος της για περιπέτειες την έχει φέρει στα όρια της μακροζωίας της. Ο ατρόμητος γάτος μαθαίνει ότι έχει «κάψει» τις 8 από τις 9 ζωές του και ξεκινάει μια αναζήτηση για το μύθο της «τελευταίας ευχής» που θα του επιτρέψει να ανακτήσει τις χαμένες ζωές του.{br}{br}{br}{txt:msx-white:Director:}{tb}Joel Crawford{br}{txt:msx-white:Screenplay:}{tb}Tommy Swerdlow{br}{txt:msx-white:Actors:}{tb}Antonio Banderas, Salma Hayek, Harvey Guillén, Wagner Moura{br}{br}{br}{br}{br}{br}"
+             }
+          ]
+       }
+    ]
+ }
+ 

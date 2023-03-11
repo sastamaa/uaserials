@@ -1,0 +1,38 @@
+{
+    "type": "pages",
+    "headline": "Αλαντίν (1992)",
+    "pages": [
+       {
+          "items": [
+             {
+                "type": "space",
+                "layout": "0,0,4,6",
+                "image": "https://image.tmdb.org/t/p/w780/fhyun1mja3WwQsYr1a3x1x9BttP.jpg",
+                "imageFiller": "height-left"
+             },
+             {
+                "type": "button",
+                "layout": "4,5,2,1",
+                "label": "Play",
+                "playerLabel": "Aladdin",
+                "action": "video:https://www.nd.vidce.net/d/G07HgtYZHVprP6bAZJQoCw/1678271880/video/2015/tt0103639.mp4"
+             },
+             {
+                "type": "button",
+                "layout": "6,5,2,1",
+                "label": "Trailer",
+                "playerLabel": "Aladdin - Trailer",
+                "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=eTjHiQKJUDY"
+             },
+             {
+                "type": "space",
+                "layout": "4,0,8,5",
+                "badge": "Mεταγλωτισμενο",
+                "color": "msx-glass",
+                "titleFooter": "Στα βάθη της μαγευτικής πόλης της Ασίας ένας αλητάκος με το όνομα Αλαντίν και η πονηρή μαϊμού του, ο Αμπού, παλεύουν να σώσουν την πριγκίπισσα Γιασμίν. Η ζωή του Αλαντίν αλλάζει όταν εντελώς τυχαία τρίβει ένα παλιό λυχνάρι απ’ όπου ελευθερώνεται ένα γλυκύτατο Τζίνι, το οποίο υπακούοντας τις εντολές του νέου αφεντικού, τον μετατρέπει σε πρίγκιπα. Αλλά ο Τζαφάρ και ο δολοπλόκος παπαγάλος του, ο Ιάγος, θέλουν να κλέψουν το λυχνάρι και τις δυνάμεις που αυτό κρύβει. Ο Αλαντίν τώρα για να μπορέσει να τους νικήσει και να κερδίσει την καρδιά της Γιασμίν, πρέπει να αποδείξει ότι είναι πρίγκιπας εκεί που μετράει περισσότερο στην καρδιά!{br}{br}{br}{txt:msx-white:Director:}{tb}Ron Clements{br}{txt:msx-white:Screenplay:}{tb}Ted Elliott{br}{txt:msx-white:Actors:}{tb}Scott Weinger, Robin Williams, Linda Larkin, Jonathan Freeman{br}{br}"
+             }
+          ]
+       }
+    ]
+ }
+ 

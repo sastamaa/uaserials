@@ -1,0 +1,38 @@
+{
+    "type": "pages",
+    "headline": "Ο Ρατατούης (2007)",
+    "pages": [
+       {
+          "items": [
+             {
+                "type": "space",
+                "layout": "0,0,4,6",
+                "image": "https://image.tmdb.org/t/p/w780/qtsZeDpSzB9mlXRkE3h2KyRrdUs.jpg",
+                "imageFiller": "height-left"
+             },
+             {
+                "type": "button",
+                "layout": "4,5,2,1",
+                "label": "Play",
+                "playerLabel": "Ratatouille",
+                "action": "video:https://www.nd.vidce.net/d/MEIEnRBkp21O-Y027DG5ug/1678272344/video/2015/tt0382932GR.mp4"
+             },
+             {
+                "type": "button",
+                "layout": "6,5,2,1",
+                "label": "Trailer",
+                "playerLabel": "Ratatouille - Trailer",
+                "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=XfK3pdKqNBc"
+             },
+             {
+                "type": "space",
+                "layout": "4,0,8,5",
+                "badge": "Mεταγλωτισμενο",
+                "color": "msx-glass",
+                "titleFooter": "Ένας μικρός αρουραίος που συχνάζει στην κουζίνα ενός διάσημου εστιατορίου στο Παρίσι, θέλει να γίνει σεφ. Ο μικρός Ρεμί θα κάνει τα πάντα για να αποδείξει τις μαγειρικές του ικανότητες, παρά τις αντιδράσεις των γονιών του.{br}{br}{br}{txt:msx-white:Director:}{tb}Brad Bird{br}{txt:msx-white:Screenplay:}{tb}Brad Bird{br}{txt:msx-white:Actors:}{tb}Patton Oswalt, Ian Holm, Lou Romano, Brian Dennehy{br}{br}{br}{br}{br}{br}"
+             }
+          ]
+       }
+    ]
+ }
+ 
