@@ -1,0 +1,37 @@
+{
+   "type": "pages",
+   "headline": "The Offering (2022)",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "space",
+               "layout": "0,0,4,6",
+               "image": "https://image.tmdb.org/t/p/w780/tbaTFgGIaTL1Uhd0SMob6Dhi5cK.jpg",
+               "imageFiller": "height-left"
+            },
+            {
+               "type": "button",
+               "layout": "4,5,2,1",
+               "label": "Play",
+               "playerLabel": "The Offering",
+               "action": "video:https://www.sw.vidce.net/d/7BYUM3jhQdwXFZHy3h5MMA/1678964804/2018/2015/tt13103732.mp4"
+            },
+            {
+               "type": "button",
+               "layout": "6,5,2,1",
+               "label": "Trailer",
+               "playerLabel": "The Offering (Trailer)",
+               "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=OnffkM8OVWk"
+            },
+            {
+               "type": "space",
+               "layout": "4,0,8,5",
+               "badge": "Horror",
+               "color": "msx-glass",
+               "titleFooter": "Στον απόηχο της εξαφάνισης μιας νεαρής Εβραϊκής κοπέλας, ο γιος ενός Χασιδικού διευθυντή κηδειών επιστρέφει σπίτι με την έγκυο σύζυγό του με την ελπίδα να συμφιλιωθεί με τον πατέρα του. Δεν γνωρίζουν ότι ακριβώς από κάτω τους στο οικογενειακό νεκροτομείο, ένα αρχαίο κακό με απαίσια σχέδια για το αγέννητο παιδί κρύβεται μέσα σε ένα μυστηριώδες πτώμα.{br}{br}{br}{txt:msx-white:Director:}{tb}Oliver Park{br}{txt:msx-white:Actors:}{tb}Nick Blood, Emm Wiseman, Paul Kaye, Allan Corduner, Daniel Ben Zenou, Sofia Weldon, Anton Trendafilov, Meglena Karalambova{br}{br}{br}{br}{br}{br}"
+            }
+         ]
+      }
+   ]
+}

@@ -1,0 +1,37 @@
+{
+   "type": "pages",
+   "headline": "Sayen (2023)",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "space",
+               "layout": "0,0,4,6",
+               "image": "https://image.tmdb.org/t/p/w780/qh9ld9M1UPqibos2CRMWbZFPqZy.jpg",
+               "imageFiller": "height-left"
+            },
+            {
+               "type": "button",
+               "layout": "4,5,2,1",
+               "label": "Play",
+               "playerLabel": "Sayen",
+               "action": "video:https://www.sw.vidce.net/d/KinaatKIIVS-avXk2VEyYQ/1678965166/2018/2015/tt19869024.mp4"
+            },
+            {
+               "type": "button",
+               "layout": "6,5,2,1",
+               "label": "Trailer",
+               "playerLabel": "Sayen (Trailer)",
+               "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=wZWJelkL_zU"
+            },
+            {
+               "type": "space",
+               "layout": "4,0,8,5",
+               "badge": "Action | Thriller",
+               "color": "msx-glass",
+               "titleFooter": "Η Σάιεν κυνηγάει τους άντρες που δολοφόνησαν τη γιαγιά της. Χρησιμοποιώντας την εκπαίδευσή και τις γνώσεις της πάνω τη φύση, είναι σε θέση να έχει το πάνω χέρι, μαθαίνοντας για μια συνωμοσία από μια εταιρεία που απειλεί τα πατρογονικά εδάφη του λαού της.{br}{br}{br}{txt:msx-white:Director:}{tb}Alexander Witt{br}{txt:msx-white:Actors:}{tb} Rallén Montenegro, Arón Piper, Enrique Arce, Roberto García Ruiz, Loreto Aravena, Alejandro Trejo, Eduardo Paxeco, Camilo Arancibia{br}{br}{br}{br}{br}{br}{br}"
+            }
+         ]
+      }
+   ]
+}

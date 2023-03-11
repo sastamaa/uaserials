@@ -9,6 +9,48 @@
    },
    "items": [
       {
+          "title": "Sayen",
+         "titleFooter": "2023",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/qh9ld9M1UPqibos2CRMWbZFPqZy.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2023/sayen.json"
+      },
+      {
+         "title": "The Offering",
+         "titleFooter": "2022",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/tbaTFgGIaTL1Uhd0SMob6Dhi5cK.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2022/the_offering.json"
+      },
+      {
+           "title": "Magic Mike: O Τελευταίος Του Χορός",
+         "titleFooter": "2023",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/lPSrsPrEKswtWL3F5xpgvnWmrBH.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2023/magic_mike.json"
+      },
+      {
+          "title": "Little Dixie",
+         "titleFooter": "2023",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/cmWTZj9zzT9KFt3XyL0gssL7Ig8.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2023/little_dixie.json"
+      },
+      {
+         "title": "The Locksmith",
+         "titleFooter": "2023",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/kNQ9Z3TQ5vU5fvwuHqZvLooFcCI.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2023/the_locksmith.json"
+      },
+      {
+         "title": "Somebody I Used to Know",
+         "titleFooter": "2023",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/ovHxxphDgjyEpYriDoGoIHfrdZL.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2023/somebody_used_to_know.json"
+      },
+      {
          "title": "The Drop",
          "titleFooter": "2014",
          "imageFiller": "cover",
@@ -16,7 +58,6 @@
          "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2014/the_drop.json"
       },
       {
-
          "title": "Locke",
          "titleFooter": "2013",
          "imageFiller": "cover",

@@ -1,0 +1,37 @@
+{
+   "type": "pages",
+   "headline": "Somebody I Used to Know (2023)",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "space",
+               "layout": "0,0,4,6",
+               "image": "https://image.tmdb.org/t/p/w780/ovHxxphDgjyEpYriDoGoIHfrdZL.jpg",
+               "imageFiller": "height-left"
+            },
+            {
+               "type": "button",
+               "layout": "4,5,2,1",
+               "label": "Play",
+               "playerLabel": "Somebody I Used to Know",
+               "action": "video:https://www.sw.vidce.net/d/9hW1bmHSvM628B5bHRpbrA/1678962114/2018/2015/tt15333984.mp4"
+            },
+            {
+               "type": "button",
+               "layout": "6,5,2,1",
+               "label": "Trailer",
+               "playerLabel": "Somebody I Used to Know (Trailer)",
+               "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=f497dkv3vfU"
+            },
+            {
+               "type": "space",
+               "layout": "4,0,8,5",
+               "badge": "Comedy| Romance",
+               "color": "msx-glass",
+               "titleFooter": "Σε ένα ταξίδι στη γενέτειρά της, η εργασιομανής Άλι αναπολεί τον πρώην της Σον και αρχίζει να αμφισβητεί τα πάντα για το άτομο που έχει γίνει. Τα πράγματα γίνονται πιο μπερδεμένα όταν συναντά την Cassidy, η οποία της θυμίζει το πρόσωπο που ήταν παλιά.{br}{br}{br}{txt:msx-white:Director:}{tb}Dave Franco{br}{txt:msx-white:Actors:}{tb} Alison Brie, Jay Ellis, Kiersey Clemons, Danny Pudi, Haley Joel Osment, Amy Sedaris, Julie Hagerty, Olga Merediz, Zoë Chao, Evan Jonigkeit, Ayden Mayeri, Kelvin Yu{br}{br}{br}{br}{br}{br}"
+            }
+         ]
+      }
+   ]
+}

@@ -1,0 +1,37 @@
+{
+   "type": "pages",
+   "headline": "Little Dixie (2023)",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "space",
+               "layout": "0,0,4,6",
+               "image": "https://image.tmdb.org/t/p/w780/cmWTZj9zzT9KFt3XyL0gssL7Ig8.jpg",
+               "imageFiller": "height-left"
+            },
+            {
+               "type": "button",
+               "layout": "4,5,2,1",
+               "label": "Play",
+               "playerLabel": "Little Dixie",
+               "action": "video:https://www.sw.vidce.net/d/B0EwGJ0ETpKYJdWPyXLK2A/1678963658/2018/2015/tt13614388.mp4"
+            },
+            {
+               "type": "button",
+               "layout": "6,5,2,1",
+               "label": "Trailer",
+               "playerLabel": "Little Dixie (Trailer)",
+               "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=yqCk_HSBFOQ"
+            },
+            {
+               "type": "space",
+               "layout": "4,0,8,5",
+               "badge": "Action | Crime | Thriller",
+               "color": "msx-glass",
+               "titleFooter": "Εν τω μεταξύ, ο πράκτορας των Ειδικών Δυνάμεων Doc Alexander καλείται να μεσολαβήσει σε μια εκεχειρία με το μεξικανικό καρτέλ ναρκωτικών με μυστικότητα. Όταν ο κυβερνήτης της Οκλαχόμα Ρίτσαρντ Τζεφς γιορτάζει στην τηλεόραση την εκτέλεση ενός υψηλόβαθμου μέλους του καρτέλ, ο Αρχηγός του Επιτελείου και ο γιατρός του τον ενημερώνουν για την ειρήνη που μόλις τελείωσε. Αλλά είναι πολύ αργά, καθώς ο Κούκο, ο θύλακας του καρτέλ, έχει βάλει στο στόχαστρο εκδικητικά την κόρη του Ντοκ, Ντίξι.{br}{br}{br}{txt:msx-white:Director:}{tb}John Swab{br}{txt:msx-white:Actors:}{tb} Frank Grillo, Eric Dane, Annabeth Gish, Mercedes Mason, Peter Greene, Beau Knapp, Thomas Dekker, Maurice Compte, Sufe Bradshaw{br}{br}{br}{br}"
+            }
+         ]
+      }
+   ]
+}
