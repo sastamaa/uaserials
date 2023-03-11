@@ -189,6 +189,13 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/tdFJMontiW5ASEW4mT0faMyJQRN.jpg",
          "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2022/menu.json"
+              },
+      {
+         "title": "Test",
+         "titleFooter": "2022",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/tdFJMontiW5ASEW4mT0faMyJQRN.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/test.json"
       }
    ]
 }
