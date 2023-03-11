@@ -9,6 +9,38 @@
    },
    "items": [
       {
+         "title": "Strange World",
+         "titleFooter": "2022",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/2s7f5991JUNgRGnedSeKB0LEK7c.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/kids/kids1/2022/strange_world.json"
+      },
+      {
+         "title": "Puss in Boots: The Last Wish",
+         "titleFooter": "2022",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/r7WgPcXNIfomdQyOYazNFbJjxbS.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/kids/kids1/2022/puss_in_boots.json"
+      },
+      {
+         "title": "Ratatouille",
+         "titleFooter": "2007",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/qtsZeDpSzB9mlXRkE3h2KyRrdUs.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/kids/kids1/2007/ratatouille.json"
+      },
+      {
+         "title": "Night at the Museum: Kahmunrah Rises Again",
+         "titleFooter": "2022",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/mkRQn520JQD07BNP03NK3iKCaPD.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/kids/kids1/2022/night_at_the_nuseum.json"
+      },
+      {
          "title": "Aladdin",
          "titleFooter": "1992",
          "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
@@ -16,6 +48,15 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/fhyun1mja3WwQsYr1a3x1x9BttP.jpg",
          "action": "content:https://sastamaa.github.io/msx/data/base/kids/kids1/1992/aladdin.json"
+      },
+      {
+         "title": "Dolittle",
+         "titleFooter": "2020",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/2O3ewrmiR9a7oCd1jHxXn1pPJX8.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/kids/kids1/dolittle.json"
       },
       {
          "title": "DC League of Super-Pets",
@@ -34,15 +75,6 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/jOJSTAtMgpGUxXY9dWkfHrEgGgo.jpg",
          "action": "content:https://sastamaa.github.io/msx/data/base/kids/kids1/minions_the_rise_of_gru.json"
-      },
-      {
-         "title": "Item 4"
-      },
-      {
-         "title": "Item 5"
-      },
-      {
-         "title": "Item 6"
       }
    ]
 }
