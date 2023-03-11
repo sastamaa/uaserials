@@ -9,13 +9,13 @@
    },
    "items": [
       {
-         "title": "Dolittle",
-         "titleFooter": "2020",
+         "title": "Aladdin",
+         "titleFooter": "1992",
          "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
          "badgeColor": "msx-blue",
          "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/2O3ewrmiR9a7oCd1jHxXn1pPJX8.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/kids/kids1/dolittle.json"
+         "image": "https://image.tmdb.org/t/p/w500/fhyun1mja3WwQsYr1a3x1x9BttP.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/kids/kids1/1992/aladdin.json"
       },
       {
          "title": "DC League of Super-Pets",
