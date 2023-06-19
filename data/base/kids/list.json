@@ -66,7 +66,7 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/pVOuhLYmcbcqHliiaIB6uafs2yT.jpg",
          "playerLabel": "Η DC λεγεώνα από τα σούπερ-κατοικίδια",
-         "action": "video:https://www.sw.vidce.net/d/C5hCFWcY6feWcGa9ud50IQ/1687764584/video/2015/tt8912936GR.mp4"
+         "action": "video:https://www.dropbox.com/s/7o8zrnoxyk6j7cy/%CE%97%20DC%20%CE%BB%CE%B5%CE%B3%CE%B5%CF%8E%CE%BD%CE%B1%20%CE%B1%CF%80%CF%8C%20%CF%84%CE%B1%20%CF%83%CE%BF%CF%8D%CF%80%CE%B5%CF%81-%CE%BA%CE%B1%CF%84%CE%BF%CE%B9%CE%BA%CE%AF%CE%B4%CE%B9%CE%B1%20-%20DC%20League%20of%20Super-Pets%20%282022%29%20%CF%84%CE%B1%CE%B9%CE%BD%CE%AF%CE%B1%20online%20%CE%B5%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%BF%CF%85%CF%82%20%CF%85%CF%80%CE%BF%CF%84%CE%B9%CF%84%CE%BB%CE%BF%CF%85%CF%82%20%CE%A4%CE%B1%CE%B9%CE%BD%CE%AF%CE%B5%CF%82%20%CF%84%CE%BF%CF%85%202022%20g...mp4?raw=1"
       },
       {
          "title": "Minions 2: Η άνοδος του Γκρου",
@@ -77,6 +77,16 @@
          "image": "https://image.tmdb.org/t/p/w500/jOJSTAtMgpGUxXY9dWkfHrEgGgo.jpg",
          "playerLabel": "Minions 2: Η άνοδος του Γκρου",
          "action": "video:https://www.sw.vidce.net/d/1SLtANraDd_yOGcKF_Rf9g/1687764634/video/2015/tt5113044GR.mp4"
+      },
+            {
+         "title": "Γέτι: Ο χιονάνθρωπος των Ιμαλαΐων",
+         "titleFooter": "2019",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/ufroFZ7vr8PTGPbIqzrN5x6xcGa.jpg",
+         "playerLabel": "Γέτι: Ο χιονάνθρωπος των Ιμαλαΐων",
+         "action": "video:https://www.dropbox.com/s/7qyawxuq724plns/Abominable%20%282019%29.mp4?raw=1"
       }
    ]
 }
