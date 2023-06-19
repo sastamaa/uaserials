@@ -9,13 +9,13 @@
    },
    "items": [
       {
-         "title": "Strange World",
+         "title": "Παράξενος κόσμος",
          "titleFooter": "2022",
          "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
          "badgeColor": "msx-blue",
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/2s7f5991JUNgRGnedSeKB0LEK7c.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/kids/kids1/2022/strange_world.json"
+         "action": "video:https://www.sw.vidce.net/d/Cshwy2-23kiRYbJHPHrXzw/1687763835/video/2015/tt10298840GR.mp4"
       },
       {
          "title": "Puss in Boots: The Last Wish",
