@@ -15,39 +15,38 @@
          "badgeColor": "msx-blue",
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/2s7f5991JUNgRGnedSeKB0LEK7c.jpg",
+         "playerLabel": "Παράξενος κόσμος",
          "action": "video:https://www.sw.vidce.net/d/Cshwy2-23kiRYbJHPHrXzw/1687763835/video/2015/tt10298840GR.mp4"
       },
       {
-         "title": "Puss in Boots: The Last Wish",
+         "title": "Ο Παπουτσωμένος Γάτος: Η τελευταία επιθυμία",
          "titleFooter": "2022",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/r7WgPcXNIfomdQyOYazNFbJjxbS.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/kids/kids1/2022/puss_in_boots.json"
+         "playerLabel": "Ο Παπουτσωμένος Γάτος: Η τελευταία επιθυμία",
+         "action": "video:https://www.sw.vidce.net/d/gEbTrxAMaNgjQpgTaQbDhw/1687764219/video/2015/tt3915174GR.mp4"
       },
       {
-         "title": "Ratatouille",
+         "title": "Ρατατούης",
          "titleFooter": "2007",
          "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
          "badgeColor": "msx-blue",
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/qtsZeDpSzB9mlXRkE3h2KyRrdUs.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/kids/kids1/2007/ratatouille.json"
-      },
-      {
-         "title": "Night at the Museum: Kahmunrah Rises Again",
-         "titleFooter": "2022",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/mkRQn520JQD07BNP03NK3iKCaPD.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/kids/kids1/2022/night_at_the_nuseum.json"
+         "playerLabel": "Ρατατούης",
+         "action": "video:https://www.sw.vidce.net/d/gEbTrxAMaNgjQpgTaQbDhw/1687764219/video/2015/tt3915174GR.mp4"
       },
       {
          "title": "Aladdin",
-         "titleFooter": "1992",
+         "titleFooter": "2019",
          "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
          "badgeColor": "msx-blue",
          "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/fhyun1mja3WwQsYr1a3x1x9BttP.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/kids/kids1/1992/aladdin.json"
+         "image": "https://image.tmdb.org/t/p/w500/ru8QBcbwoATIsrZFuHJshofBQ7x.jpg",
+         "playerLabel": "Aladdin",
+         "action": "video:https://www.sw.vidce.net/d/xU_lyputh9rgxcyq5qXRzQ/1687764355/video/2015/tt6139732GR.mp4"
       },
       {
          "title": "Dolittle",
@@ -56,25 +55,28 @@
          "badgeColor": "msx-blue",
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/2O3ewrmiR9a7oCd1jHxXn1pPJX8.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/kids/kids1/dolittle.json"
+         "playerLabel": "Dolittle",
+         "action": "video:https://www.dropbox.com/s/0xzuqcd6v4cdct6/Dolittle.2020.mp4?raw=1"
       },
       {
-         "title": "DC League of Super-Pets",
+         "title": "Η DC λεγεώνα από τα σούπερ-κατοικίδια",
          "titleFooter": "2022",
          "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
          "badgeColor": "msx-blue",
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/pVOuhLYmcbcqHliiaIB6uafs2yT.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/kids/kids1/dc_league.json"
+         "playerLabel": "Η DC λεγεώνα από τα σούπερ-κατοικίδια",
+         "action": "video:https://www.sw.vidce.net/d/C5hCFWcY6feWcGa9ud50IQ/1687764584/video/2015/tt8912936GR.mp4"
       },
       {
-         "title": "Minions: The Rise of Gru",
+         "title": "Minions 2: Η άνοδος του Γκρου",
          "titleFooter": "2022",
          "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
          "badgeColor": "msx-blue",
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/jOJSTAtMgpGUxXY9dWkfHrEgGgo.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/kids/kids1/minions_the_rise_of_gru.json"
+         "playerLabel": "Minions 2: Η άνοδος του Γκρου",
+         "action": "video:https://www.sw.vidce.net/d/1SLtANraDd_yOGcKF_Rf9g/1687764634/video/2015/tt5113044GR.mp4"
       }
    ]
 }
