@@ -1,0 +1,38 @@
+{
+    "type": "pages",
+    "headline": "Warrior (2019)",
+    "background": "https://www.themoviedb.org/t/p/original/hR9qPFMI6BoR63XK6BBX5Ueghan.jpg",
+    "pages": [
+       {
+          "items": [
+             {
+                "type": "image",
+                "badge": "S3 E3 (3)",
+                "layout": "0,0,4,6",
+                "image": "https://www.themoviedb.org/t/p/original/hR9qPFMI6BoR63XK6BBX5Ueghan.jpg",
+                "imageFiller": "height-left"
+             },
+             {
+                "type": "button",
+                "layout": "4,5,2,1",
+                "label": "Play",
+                "action": "menu:http://sastamaa.github.io/msx/data/base/series/series1/warrior/season_list.json"
+             },
+             {
+                "type": "button",
+                "layout": "6,5,2,1",
+                "label": "Trailer",
+                "playerLabel": "Warrior (Trailer)",
+                "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=79rtcCnaeyo"
+             },
+             {
+                "type": "default",
+                "layout": "4,0,8,5",
+                "badge": "Action | Drama | Crime",
+                "color": "msx-glass",
+                "titleFooter": "Στις εποχές των πολέμων Tong στα τέλη του 1880 στο Σαν Φρανσίσκο της Καλιφόρνια . Η σειρά ακολουθεί τον Ah Sahm, ένα θαύμα πολεμικών τεχνών που προέρχεται από την Κίνα και μεταναστεύει στο Σαν Φρανσίσκο και καταλήγει να γίνει ένας άνθρωπος που καταστρέφει την Chinatown .Βασίζεται σε μια πρωτότυπη ιδέα από τον Bruce Lee”{br}{br}{txt:msx-white:Director:}{tb}Jonathan Tropper{br}{txt:msx-white:Actors:}{tb}Andrew Koji, Ah Sahm, Langley Kirkwood, Walter Buckley{br}{br}{br}{br}{br}{br}{br}{br}"
+             }
+          ]
+       }
+    ]
+ }
