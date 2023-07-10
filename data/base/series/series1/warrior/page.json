@@ -1,12 +1,11 @@
 {
     "type": "pages",
     "headline": "Warrior (2019)",
-    "background": "https://www.themoviedb.org/t/p/original/hR9qPFMI6BoR63XK6BBX5Ueghan.jpg",
     "pages": [
        {
           "items": [
              {
-                "type": "image",
+                "type": "space",
                 "badge": "S3 E3 (3)",
                 "layout": "0,0,4,6",
                 "image": "https://www.themoviedb.org/t/p/original/hR9qPFMI6BoR63XK6BBX5Ueghan.jpg",
@@ -26,7 +25,7 @@
                 "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=79rtcCnaeyo"
              },
              {
-                "type": "default",
+                "type": "space",
                 "layout": "4,0,8,5",
                 "badge": "Action | Drama | Crime",
                 "color": "msx-glass",
