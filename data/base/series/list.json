@@ -9,11 +9,11 @@
    },
    "items": [
       {
-         "title": "Tulsa King",
-         "titleFooter": "2022",
+         "title": "Warrior",
+         "titleFooter": "2019",
          "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w780/fwTv3RPRAIy0maOMns5eYRRwnDk.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/series/series1/tulsa_king/tulsa_king_page.json"
+         "image": "https://image.tmdb.org/t/p/w780/hR9qPFMI6BoR63XK6BBX5Ueghan.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/series1/warrior/page.json"
       },
       {
          "title": "Shrinking",
