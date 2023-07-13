@@ -5,6 +5,14 @@
        {
           "label": "Season 1",
           "data": "http://sastamaa.github.io/msx/data/base/series/series1/warrior/season_1.json"
-       }
+       },
+        {
+                      "label": "Season 2",
+          "data": "http://sastamaa.github.io/msx/data/base/series/series1/warrior/season_2.json"
+             },
+        {
+                      "label": "Season 3",
+          "data": "http://sastamaa.github.io/msx/data/base/series/series1/warrior/season_3.json"
+        }
     ]
  }
