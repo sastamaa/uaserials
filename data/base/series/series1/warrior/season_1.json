@@ -1,9 +1,19 @@
 {
+  "compress": true,
    "type": "list",
    "headline": "Season 1",
    "template": {
       "type": "control",
-      "layout": "0,0,2,1"
+      "layout": "0,0,2,1",
+      "progress": -1,
+      "live": {
+         "type": "playback",
+         "titleFooter": "{progress:time:hh:mm:ss}",
+         "action": "player:show"
+      },
+      "properties": {
+         "resume:key": "url"
+      }
    },
    "items": [
       {
