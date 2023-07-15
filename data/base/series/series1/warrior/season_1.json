@@ -2,7 +2,7 @@
    "type": "list",
    "headline": "Season 1",
    "template": {
-      "type": "separate",
+      "type": "control",
       "layout": "0,0,2,4",
       "icon": "msx-white-soft:movie",
       "color": "msx-glass"
