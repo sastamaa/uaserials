@@ -4,7 +4,7 @@
    "headline": "Season 1",
    "template": {
       "type": "control",
-      "layout": "0,0,2,1",
+      "layout": "0,0,2,1"
    },
    "items": [
       {
