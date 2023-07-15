@@ -1,0 +1,40 @@
+{
+  "compress": true,
+   "type": "list",
+   "headline": "Season 3",
+   "template": {
+      "type": "control",
+      "layout": "0,0,2,1",
+      "progress": -1,
+      "live": {
+         "type": "playback",
+         "titleFooter": "{progress:time:hh:mm:ss}",
+         "action": "player:show"
+      },
+      "properties": {
+         "resume:key": "url"
+      }
+   },
+   "items": [
+      {
+         "title": "EP 1",
+         "playerLabel": "Episode 1",
+         "action": "video:https://www.cdn.vidce.net/d/1Osirx27ZGzz9F17mMnKpA85.72.155.254/1690029107/video/Warrior/3x01.mp4"
+      },
+      {
+         "title": "EP 2",
+         "playerLabel": "Episode 2",
+         "action": "video:https://www.cdn.vidce.net/d/1Osirx27ZGzz9F17mMnKpA85.72.155.254/1690029107/video/Warrior/3x02.mp4"
+      },
+      {
+         "title": "EP 3",
+         "playerLabel": "Episode 3",
+         "action": "video:https://www.cdn.vidce.net/d/1Osirx27ZGzz9F17mMnKpA85.72.155.254/1690029107/video/Warrior/3x03.mp4"
+      },
+      {
+         "title": "EP 4",
+         "playerLabel": "Episode 4",
+         "action": "video:https://www.cdn.vidce.net/d/1Osirx27ZGzz9F17mMnKpA85.72.155.254/1690029107/video/Warrior/3x04.mp4"
+      }
+   ]
+}
