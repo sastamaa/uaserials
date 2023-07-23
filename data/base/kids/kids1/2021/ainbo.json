@@ -1,0 +1,37 @@
+{
+   "type": "pages",
+   "headline": "Άινμπο: Πριγκίπισσα του Αμαζονίου (2021)",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "space",
+               "layout": "0,0,4,6",
+               "image": "https://image.tmdb.org/t/p/w780/13MNtYVi3ieMceZuwKX0XvPWmPd.jpg",
+               "imageFiller": "height-left"
+            },
+            {
+               "type": "button",
+               "layout": "4,5,2,1",
+               "label": "Play",
+               "playerLabel": "AINBO: Spirit of the Amazon",
+               "action": "video:https://www.sw.vidce.net/d/IQT_HyAVl9ZhqyCxQ3hdkQ85.72.155.254/1690729264/video/2015/tt6570098GR.mp4"
+            },
+            {
+               "type": "button",
+               "layout": "6,5,2,1",
+               "label": "Trailer",
+               "playerLabel": "AINBO: Spirit of the Amazon (Trailer)",
+               "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=m9nyF2l9gY0"
+            },
+            {
+               "type": "space",
+               "layout": "4,0,8,5",
+               "badge": "Mεταγλωτισμενο",
+               "color": "msx-glass",
+               "titleFooter": "Πρωταγωνίστρια της περιπέτειας είναι η 13χρονη Αίνμπο, που ζει στα βάθη του Αμαζονίου με τη φυλή της. Μια μέρα, η Αίνμπο ανακαλύπτει πως η φυλή της κινδυνεύει. Όχι μόνο απειλείται από το κακό πνεύμα του Γιακουρούνα, αλλά και ολόκληρη η ζούγκλα καταστρέφεται από ανθρώπους, που την εκμεταλλεύονται για βιομηχανική εξόρυξη. Μαζί με το κωμικό δίδυμο πνευματικών οδηγών, τον αξιολάτρευτο Ντίλο και τον αγαθούλη Βάκα, η Αίνμπο αποφασίζει να σώσει τη φυλή της.{br}{br}{br}{txt:msx-white:Director:}{tb}Richard Claus{br}{txt:msx-white:Actors:}{tb}Lola Raie, Alejandra Gollas{br}{br}{br}{br}{br}"
+            }
+         ]
+      }
+   ]
+}
