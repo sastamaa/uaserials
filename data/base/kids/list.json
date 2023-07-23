@@ -9,6 +9,26 @@
    },
    "items": [
       {
+         "title": "Monstermania",
+         "titleFooter": "2021",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/3eZRgjfFWTpejRvRKyKe1EKgt9s.jpg",
+         "playerLabel": "Monstermania",
+         "action": "video:https://www.sw.vidce.net/d/_Nd75QsZZHv4lstfMRtd7w85.72.155.254/1690730752/video/2015/tt8337158GR.mp4"
+      },
+      {
+         "title": "Άινμπο: Πριγκίπισσα του Αμαζονίου",
+         "titleFooter": "2021",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/13MNtYVi3ieMceZuwKX0XvPWmPd.jpg",
+         "playerLabel": "Άινμπο: Πριγκίπισσα του Αμαζονίου",
+         "action": "video:https://www.sw.vidce.net/d/IQT_HyAVl9ZhqyCxQ3hdkQ85.72.155.254/1690729264/video/2015/tt6570098GR.mp4"
+      },
+      {
          "title": "Παράξενος κόσμος",
          "titleFooter": "2022",
          "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
@@ -78,7 +98,7 @@
          "playerLabel": "Minions 2: Η άνοδος του Γκρου",
          "action": "video:https://www.sw.vidce.net/d/1SLtANraDd_yOGcKF_Rf9g/1687764634/video/2015/tt5113044GR.mp4"
       },
-            {
+      {
          "title": "Γέτι: Ο χιονάνθρωπος των Ιμαλαΐων",
          "titleFooter": "2019",
          "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
