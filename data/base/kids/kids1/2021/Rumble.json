@@ -1,0 +1,37 @@
+{
+   "type": "pages",
+   "headline": "Monstermania (2021)",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "space",
+               "layout": "0,0,4,6",
+               "image": "https://image.tmdb.org/t/p/w780/3eZRgjfFWTpejRvRKyKe1EKgt9s.jpg",
+               "imageFiller": "height-left"
+            },
+            {
+               "type": "button",
+               "layout": "4,5,2,1",
+               "label": "Play",
+               "playerLabel": "Rumble",
+               "action": "video:https://www.sw.vidce.net/d/_Nd75QsZZHv4lstfMRtd7w85.72.155.254/1690730752/video/2015/tt8337158GR.mp4"
+            },
+            {
+               "type": "button",
+               "layout": "6,5,2,1",
+               "label": "Trailer",
+               "playerLabel": "Monstermania (Trailer)",
+               "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=v4jcpPgiLJw"
+            },
+            {
+               "type": "space",
+               "layout": "4,0,8,5",
+               "badge": "Mεταγλωτισμενο",
+               "color": "msx-glass",
+               "titleFooter": "Σε έναν κόσμο όπου οι μονομαχίες τεράτων είναι ένα παγκόσμιο άθλημα και τα τέρατα είναι αθλητές-σούπερσταρ, η έφηβη Γουίνι προσπαθεί να ακολουθήσει τα χνάρια του πατέρα της προπονώντας ένα αξιαγάπητ.{br}{br}{br}{txt:msx-white:Director:}{tb}Hamish Grieve{br}{txt:msx-white:Actors:}{tb}Geraldine Viswanathan, Will Arnett, Stephen A. SmithLola Raie, Alejandra Gollas{br}{br}{br}{br}{br}{br}{br}{br}"
+            }
+         ]
+      }
+   ]
+}
