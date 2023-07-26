@@ -13,7 +13,7 @@
          "titleFooter": "2019",
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w780/hR9qPFMI6BoR63XK6BBX5Ueghan.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/series/series1/warrior/page.json"
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/warrior.json"
       },
       {
          "title": "Shrinking",
