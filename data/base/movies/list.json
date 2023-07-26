@@ -9,6 +9,16 @@
    },
    "items": [
       {
+         "title": "Μπάρμπι",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}7.5",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/kyzWUqsubPBsR10dRrflX6pQPyu.jpg",
+         "playerLabel": "Μπάρμπι",
+         "action": "video:https://www.sw.vidce.net/d/puk6dSmlbnwHDVPwoxh7iw/1690985422/2018/2015/tt1517268.mp4"
+      },
+      {
          "title": "Ο Indiana Jones και ο Δίσκος του Πεπρωμένου",
          "titleFooter": "2023",
          "badge": "{col:msx-white}6.8",
