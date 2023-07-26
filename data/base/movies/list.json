@@ -9,193 +9,54 @@
    },
    "items": [
       {
-       "title": "Transformers: Η Εξέγερση των Θηρίων",
+         "title": "Transformers 7",
          "titleFooter": "2023",
+         "badge": "{col:msx-white}6.2",
+         "badgeColor": "msx-blue",
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/6Qpg485zIcxWiX1yzM1NnpezGTu.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2023/Transformers_7.json"
+         "playerLabel": "Transformers: Η Εξέγερση των Θηρίων",
+         "action": "video:https://www.sw.vidce.net/d/Odhk4beEczDo2SA7WECrOw/1690983254/2018/2015/tt5090568.mp4"
       },
       {
-         "title": "The Offering",
-         "titleFooter": "2022",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/tbaTFgGIaTL1Uhd0SMob6Dhi5cK.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2022/the_offering.json"
-      },
-      {
-           "title": "Magic Mike: O Τελευταίος Του Χορός",
+         "title": "Magic Mike 2",
          "titleFooter": "2023",
+         "badge": "{col:msx-white}5.3",
+         "badgeColor": "msx-blue",
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/lPSrsPrEKswtWL3F5xpgvnWmrBH.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2023/magic_mike.json"
+         "playerLabel": "Magic Mike: O Τελευταίος Του Χορός",
+         "action": "video:https://www.sw.vidce.net/d/Mhh7XILAzfMbeJOBIv1NLw/1690983459/2018/2015/tt16280138.mp4"
       },
       {
-          "title": "Little Dixie",
-         "titleFooter": "2023",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/cmWTZj9zzT9KFt3XyL0gssL7Ig8.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2023/little_dixie.json"
-      },
-      {
-         "title": "The Locksmith",
-         "titleFooter": "2023",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/kNQ9Z3TQ5vU5fvwuHqZvLooFcCI.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2023/the_locksmith.json"
-      },
-      {
-         "title": "Somebody I Used to Know",
-         "titleFooter": "2023",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/ovHxxphDgjyEpYriDoGoIHfrdZL.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2023/somebody_used_to_know.json"
-      },
-      {
-         "title": "The Drop",
-         "titleFooter": "2014",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/pkOsCxsRmQZ0wWlYse5u6xDGfgW.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2014/the_drop.json"
-      },
-      {
-         "title": "Locke",
-         "titleFooter": "2013",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/jSUNbEpv91fN4aphthyD2Ezk97y.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2013/locke.json"
-      },
-      {
-         "title": "Legend",
-         "titleFooter": "2015",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/mvGXyLDGZVAE69IjHvzEzq6X34u.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2015/legend.json"
-      },
-      {
-         "title": "Nightcrawler",
-         "titleFooter": "2014",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/j9HrX8f7GbZQm1BrBiR40uFQZSb.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2014/nightcrawler.json"
-      },
-      {
-         "title": "The Girl with the Dragon Tattoo",
-         "titleFooter": "2011",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/zqDopwg7XQ4IfFX2dRlQCT1SwMG.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2011/the_girl_with_the_dragon_tattoo.json"
-      },
-      {
-         "title": "Gone Baby Gone",
-         "titleFooter": "2007",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/rm3Dl8DWYGO3UQ3w2kju62L9rkn.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2007/gone_baby_gone.json"
-      },
-      {
-         "title": "Hell or High Water",
-         "titleFooter": "2016",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/BPo1yD6SbX1cscfJ7qVwli1Lw8.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2016/hell_or_high_water.json"
-      },
-      {
-         "title": "Confidential Assignment 2: International",
+         "title": "Γάμος μετ' εμποδίων",
          "titleFooter": "2022",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/f83PSljERDkW4rYOErnMCMiGcSG.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2022/confidential_assignment_2.json"
-      },
-      {
-         "title": "The Whale",
-         "titleFooter": "2022",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/j3mILZTNuMbR1WdPr7m1IcpvBvX.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2022/the_whale.json"
-      },
-      {
-         "title": "Die Hart: The Movie",
-         "titleFooter": "2023",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/1EnBjTJ5utgT1OXYBZ8YwByRCzP.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2023/die_hart.json"
-      },
-      {
-         "title": "Deep Water",
-         "titleFooter": "2022",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/vAIdAnOVnyiQtDcWy07n03GCoqT.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2022/deep_water.json"
-      },
-      {
-         "title": "The Old Way",
-         "titleFooter": "2023",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/8HCCYAIocXxMKn7J9yQfDX1vBM5.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2023/the_old_way.json"
-      },
-      {
-         "title": "Sharper",
-         "titleFooter": "2023",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/gXgq1IMqda15GCz1wqRGAUX4LRh.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2023/sharper.json"
-      },
-      {
-         "title": "On the Edge",
-         "titleFooter": "2022",
-         "imageFiller": "cover",
-         "image": "https://pics.filmaffinity.com/On_The_Edge-268703901-large.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2022/on_the_edge.json"
-      },
-      {
-         "title": "Shotgun Wedding",
-         "titleFooter": "2022",
+         "badge": "{col:msx-white}5.5",
+         "badgeColor": "msx-blue",
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/t79ozwWnwekO0ADIzsFP1E5SkvR.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2022/shotgunwedding.json"
+         "playerLabel": "Shotgun Wedding",
+         "action": "video:https://www.sw.vidce.net/d/La4Cj3ddHdxLRq_uRlaGrg/1690983670/2018/2015/tt9686790.mp4"
       },
       {
-         "title": "The Body",
-         "titleFooter": "2012",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/bgQmVnRYXRiehk3kReDOBwMrpk5.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2012/thebody.json"
-      },
-      {
-         "title": "Triangle of Sadness",
-         "titleFooter": "2022",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/k9eLozCgCed5FGTSdHu0bBElAV8.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2022/triangle_of_sadness.json"
-      },
-      {
-         "title": "The Story of My Wife",
-         "titleFooter": "2021",
-         "imageFiller": "cover",
-         "image": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b8tKXJ8wCqRl1Tn1gr6P6zBL2K9.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2021/the_story_of_my_wife.json"
-      },
-      {
-         "title": "Plane",
+         "title": "Εκτός ελέγχου",
          "titleFooter": "2023",
+         "badge": "{col:msx-white}6.5",
+         "badgeColor": "msx-blue",
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/3Ti1YLH3Jpd1Bxjo2sqmaN4xn9n.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2023/plane.json"
+         "playerLabel": "Εκτός ελέγχου",
+         "action": "video:https://www.sw.vidce.net/d/iPO5oDRIjwSfTpu9jze2fA/1690983767/2018/2015/tt5884796.mp4"
       },
       {
-         "title": "The Menu",
+         "title": "Το μενού",
          "titleFooter": "2022",
+         "badge": "{col:msx-white}7.2",
+         "badgeColor": "msx-blue",
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/tdFJMontiW5ASEW4mT0faMyJQRN.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/2022/menu.json"
-              },
-      {
-         "title": "Test",
-         "titleFooter": "2022",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/tdFJMontiW5ASEW4mT0faMyJQRN.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/movies/year/test.json"
+         "playerLabel": "Το μενού",
+         "action": "video:https://www.sw.vidce.net/d/GLkmhPAO_EDyRwE7PfV_vA/1690983804/2018/2015/tt9764362.mp4"
       }
    ]
 }
