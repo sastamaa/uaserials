@@ -28,19 +28,52 @@
                      {
                         "title": "EP 1",
                         "playerLabel": "Episode 1",
-                        "action": "video:https://www.cdn.vidce.net/d/mYQowFoEajizhFJTS0At5g94.71.218.48/1689627113/video/Warrior/1x01.mp4"
+                        "action": "video:https://www.cdn.vidce.net/d/CtkwHv2iI2Uvu8lzJ95OMQ79.131.139.217/1690988872/video/Warrior/1x01.mp4"
                      },
                      {
-                        "title": "EP 2"
+                        "title": "EP 2",
+                        "playerLabel": "Episode 2",
+                        "action": "video:https://www.cdn.vidce.net/d/CtkwHv2iI2Uvu8lzJ95OMQ79.131.139.217/1690988872/video/Warrior/1x02.mp4"
                      },
                      {
-                        "title": "EP 3"
+                        "title": "EP 3",
+                        "playerLabel": "Episode 3",
+                        "action": "video:https://www.cdn.vidce.net/d/CtkwHv2iI2Uvu8lzJ95OMQ79.131.139.217/1690988872/video/Warrior/1x03.mp4"
                      },
                      {
-                        "title": "EP 4"
+                        "title": "EP 4",
+                        "playerLabel": "Episode 4",
+                        "action": "video:https://www.cdn.vidce.net/d/CtkwHv2iI2Uvu8lzJ95OMQ79.131.139.217/1690988872/video/Warrior/1x04.mp4"
                      },
                      {
-                        "title": "EP 5"
+                        "title": "EP 5",
+                        "playerLabel": "Episode 5",
+                        "action": "video:https://www.cdn.vidce.net/d/CtkwHv2iI2Uvu8lzJ95OMQ79.131.139.217/1690988872/video/Warrior/1x05.mp4"
+                     },
+                     {
+                        "title": "EP 6",
+                        "playerLabel": "Episode 6",
+                        "action": "video:https://www.cdn.vidce.net/d/CtkwHv2iI2Uvu8lzJ95OMQ79.131.139.217/1690988872/video/Warrior/1x06.mp4"
+                     },
+                     {
+                        "title": "EP 7",
+                        "playerLabel": "Episode 7",
+                        "action": "video:https://www.cdn.vidce.net/d/CtkwHv2iI2Uvu8lzJ95OMQ79.131.139.217/1690988872/video/Warrior/1x07.mp4"
+                     },
+                     {
+                        "title": "EP 8",
+                        "playerLabel": "Episode 8",
+                        "action": "video:https://www.cdn.vidce.net/d/CtkwHv2iI2Uvu8lzJ95OMQ79.131.139.217/1690988872/video/Warrior/1x08.mp4"
+                     },
+                     {
+                        "title": "EP 9",
+                        "playerLabel": "Episode 9",
+                        "action": "video:https://www.cdn.vidce.net/d/CtkwHv2iI2Uvu8lzJ95OMQ79.131.139.217/1690988872/video/Warrior/1x09.mp4"
+                     },
+                     {
+                        "title": "EP 10",
+                        "playerLabel": "Episode 10",
+                        "action": "video:https://www.cdn.vidce.net/d/CtkwHv2iI2Uvu8lzJ95OMQ79.131.139.217/1690988872/video/Warrior/1x10.mp4"
                      }
                   ]
                }
@@ -51,7 +84,7 @@
                "label": "SEASON 2",
                "action": "panel:data",
                "data": {
-                  "headline": "Season 1",
+                  "headline": "Season 2",
                   "template": {
                      "type": "control",
                      "layout": "0,0,2,1",
@@ -67,19 +100,54 @@
                   },
                   "items": [
                      {
-                        "title": "EP 1"
+                        "title": "EP 1",
+                        "playerLabel": "Episode 1",
+                        "action": "video:https://www.cdn.vidce.net/d/CtkwHv2iI2Uvu8lzJ95OMQ79.131.139.217/1690988872/video/Warrior/2x01.mp4"
                      },
                      {
-                        "title": "EP 2"
+                        "title": "EP 2",
+                        "playerLabel": "Episode 2",
+                        "action": "video:https://www.cdn.vidce.net/d/CtkwHv2iI2Uvu8lzJ95OMQ79.131.139.217/1690988872/video/Warrior/2x02.mp4"
                      },
                      {
-                        "title": "EP 3"
+                        "title": "EP 3",
+                        "playerLabel": "Episode 3",
+                        "action": "video:https://www.cdn.vidce.net/d/CtkwHv2iI2Uvu8lzJ95OMQ79.131.139.217/1690988872/video/Warrior/2x03.mp4"
                      },
                      {
-                        "title": "EP 4"
+                        "title": "EP 4",
+                        "playerLabel": "Episode 4",
+                        "action": "video:https://www.cdn.vidce.net/d/CtkwHv2iI2Uvu8lzJ95OMQ79.131.139.217/1690988872/video/Warrior/2x04.mp4"
                      },
                      {
-                        "title": "EP 5"
+                        "title": "EP 5",
+                        "playerLabel": "Episode 5",
+                        "action": "video:https://www.cdn.vidce.net/d/CtkwHv2iI2Uvu8lzJ95OMQ79.131.139.217/1690988872/video/Warrior/2x05.mp4"
+                     },
+                     {
+                        "title": "EP 6",
+                        "playerLabel": "Episode 6",
+                        "action": "video:https://www.cdn.vidce.net/d/CtkwHv2iI2Uvu8lzJ95OMQ79.131.139.217/1690988872/video/Warrior/2x06.mp4"
+                     },
+                     {
+                        "title": "EP 7",
+                        "playerLabel": "Episode 7",
+                        "action": "video:https://www.cdn.vidce.net/d/CtkwHv2iI2Uvu8lzJ95OMQ79.131.139.217/1690988872/video/Warrior/2x07.mp4"
+                     },
+                     {
+                        "title": "EP 8",
+                        "playerLabel": "Episode 8",
+                        "action": "video:https://www.cdn.vidce.net/d/CtkwHv2iI2Uvu8lzJ95OMQ79.131.139.217/1690988872/video/Warrior/2x08.mp4"
+                     },
+                     {
+                        "title": "EP 9",
+                        "playerLabel": "Episode 9",
+                        "action": "video:https://www.cdn.vidce.net/d/CtkwHv2iI2Uvu8lzJ95OMQ79.131.139.217/1690988872/video/Warrior/2x09.mp4"
+                     },
+                     {
+                        "title": "EP 10",
+                        "playerLabel": "Episode 10",
+                        "action": "video:https://www.cdn.vidce.net/d/CtkwHv2iI2Uvu8lzJ95OMQ79.131.139.217/1690988872/video/Warrior/2x10.mp4"
                      }
                   ]
                }
@@ -90,7 +158,7 @@
                "label": "SEASON 3",
                "action": "panel:data",
                "data": {
-                  "headline": "Season 1",
+                  "headline": "Season 3",
                   "template": {
                      "type": "control",
                      "layout": "0,0,2,1",
@@ -106,19 +174,29 @@
                   },
                   "items": [
                      {
-                        "title": "EP 1"
+                        "title": "EP 1",
+                        "playerLabel": "Episode 1",
+                        "action": "video:https://www.cdn.vidce.net/d/CtkwHv2iI2Uvu8lzJ95OMQ79.131.139.217/1690988872/video/Warrior/3x01.mp4"
                      },
                      {
-                        "title": "EP 2"
+                        "title": "EP 2",
+                        "playerLabel": "Episode 2",
+                        "action": "video:https://www.cdn.vidce.net/d/CtkwHv2iI2Uvu8lzJ95OMQ79.131.139.217/1690988872/video/Warrior/3x02.mp4"
                      },
                      {
-                        "title": "EP 3"
+                        "title": "EP 3",
+                        "playerLabel": "Episode 3",
+                        "action": "video:https://www.cdn.vidce.net/d/CtkwHv2iI2Uvu8lzJ95OMQ79.131.139.217/1690988872/video/Warrior/3x03.mp4"
                      },
                      {
-                        "title": "EP 4"
+                        "title": "EP 4",
+                        "playerLabel": "Episode 4",
+                        "action": "video:https://www.cdn.vidce.net/d/CtkwHv2iI2Uvu8lzJ95OMQ79.131.139.217/1690988872/video/Warrior/3x04.mp4"
                      },
                      {
-                        "title": "EP 5"
+                        "title": "EP 5",
+                        "playerLabel": "Episode 5",
+                        "action": "video:https://www.cdn.vidce.net/d/CtkwHv2iI2Uvu8lzJ95OMQ79.131.139.217/1690988872/video/Warrior/3x05.mp4"
                      }
                   ]
                }
