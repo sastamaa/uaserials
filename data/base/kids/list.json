@@ -9,6 +9,16 @@
    },
    "items": [
       {
+         "title": "Η μικρή γοργόνα",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}ΜΕ ΥΠΟΤΙΤΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/fEpjHIeYgxhJA487QhAKGf9n310.jpg",
+         "playerLabel": "Η μικρή γοργόνα",
+         "action": "video:https://www.sw.vidce.net/d/89lcSj8qsJ5cjoqBTfjqrw/1690984654/2018/2015/tt5971474.mp4"
+      },
+      {
          "title": "Super Mario Bros: Η Ταινία",
          "titleFooter": "2023",
          "badge": "{col:msx-white}ΜΕ ΥΠΟΤΙΤΛ.",
