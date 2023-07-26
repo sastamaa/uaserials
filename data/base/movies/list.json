@@ -9,6 +9,36 @@
    },
    "items": [
       {
+         "title": "Ο Indiana Jones και ο Δίσκος του Πεπρωμένου",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}6.8",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/i25nEOGfXBwMeLij0jBTBi5Xlkl.jpg",
+         "playerLabel": "Ο Indiana Jones και ο Δίσκος του Πεπρωμένου",
+         "action": "video:https://www.sw.vidce.net/d/OPpRWAVa1Tk-iOT0HYN7PQ/1690985278/2018/2015/tt1462764.mp4"
+      },
+      {
+         "title": "The Flash",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}7.0",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/ovzKOC84zEn42lO6Se6T28d0fVQ.jpg",
+         "playerLabel": "The Flash",
+         "action": "video:https://www.sw.vidce.net/d/yGGEmr-uXAbblPQaOYbvww/1690985225/2018/2015/tt0439572.mp4"
+      },
+      {
+         "title": "Υπνωτιστές",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}5.5",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/6JUEbeqilnqP6r7dvGIjp5R4Juk.jpg",
+         "playerLabel": "Υπνωτιστές",
+         "action": "video:https://www.sw.vidce.net/d/a4CBhyoPKCaOWhNP9gloMw/1690985111/2018/2015/tt8080204.mp4"
+      },
+      {
          "title": "Transformers 7",
          "titleFooter": "2023",
          "badge": "{col:msx-white}6.2",
