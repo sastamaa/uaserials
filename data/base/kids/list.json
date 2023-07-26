@@ -9,6 +9,16 @@
    },
    "items": [
       {
+         "title": "Super Mario Bros: Η Ταινία",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}ΜΕ ΥΠΟΤΙΤΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/zGqfRbpo1Ko2INAd0N0rnh3iWYU.jpg",
+         "playerLabel": "Super Mario Bros: Η Ταινία",
+         "action": "video:https://www.sw.vidce.net/d/c0WFSqi_j32ukNxYCTmeyQ/1690984001/2018/2015/tt6718170.mp4"
+      },
+      {
          "title": "Monstermania",
          "titleFooter": "2021",
          "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
