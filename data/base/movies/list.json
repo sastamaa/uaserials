@@ -9,6 +9,46 @@
    },
    "items": [
       {
+         "title": "Air: Κυνηγώντας ένα θρύλο",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}7.5",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg",
+         "playerLabel": "Air: Κυνηγώντας ένα θρύλο",
+         "action": "video:https://www.sw.vidce.net/d/FPnCJqdRCj2eV68VNvyK1A/1691487323/2018/2015/tt16419074.mp4"
+      },
+      {
+         "title": "Fast X",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}5.9",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/jx9YsketQXqpThnMnWwOl4AqPPZ.jpg",
+         "playerLabel": "Fast X",
+         "action": "video:https://www.sw.vidce.net/d/j-QGb4q3n3i_RwAoqZhnEA/1691487166/2018/2015/tt5433140.mp4"
+      },
+      {
+         "title": "John Wick 4",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}7.8",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/zEzqC3VmVZ8ixRSm4XkTwMhRJuB.jpg",
+         "playerLabel": "John Wick: Κεφάλαιο 4",
+         "action": "video:https://www.sw.vidce.net/d/uaj7alI4muFe1q0vvHM9gw/1691486817/2018/2015/tt10366206.mp4"
+      },
+      {
+         "title": "Στα Ίχνη του Δολοφόνου",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}6.5",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/tFbLqSDGqlesfYPxnkoxeU3yAhB.jpg",
+         "playerLabel": "Στα Ίχνη του Δολοφόνου",
+         "action": "video:https://www.sw.vidce.net/d/2i6n_QNJzw2x1reoKIxx6Q/1691486571/2018/2015/tt10275534.mp4"
+      },
+      {
          "title": "Μπάρμπι",
          "titleFooter": "2023",
          "badge": "{col:msx-white}7.5",
