@@ -1,6 +1,6 @@
 {
    "type": "list",
-   "headline": "Template",
+   "headline": "Kids",
    "template": {
       "type": "separate",
       "layout": "0,0,2,4",
@@ -8,6 +8,26 @@
       "title": "Title"
    },
    "items": [
+      {
+         "title": "Η Μαγεμένη 2",
+         "titleFooter": "2022",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/7NCcV0ijqEoZMM37ePJSVf1FCkU.jpg",
+         "playerLabel": "Η Μαγεμένη 2",
+         "action": "video:https://www.sw.vidce.net/d/mEDhp6pI_-DbYzO2AAGMSw79.131.136.123/1691489273/video/2015/tt1596342GR.mp4"
+      },
+      {
+         "title": "Ενκάντο",
+         "titleFooter": "2021",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/gFIfJQdsDXo3oEeugbIUIOEhJDW.jpg",
+         "playerLabel": "Ενκάντο: Ένας κόσμος μαγικός",
+         "action": "video:http://www.sw.vidce.net/d/h4fVnywMWy65Xo01g7ZvgA79.131.136.123/1691489106/video/2015/tt2953050GR.mp4"
+      },
       {
          "title": "Kizazi Moto: Γενιά Φωτιά",
          "titleFooter": "2023",
@@ -77,6 +97,26 @@
          "image": "https://image.tmdb.org/t/p/w500/r7WgPcXNIfomdQyOYazNFbJjxbS.jpg",
          "playerLabel": "Ο Παπουτσωμένος Γάτος: Η τελευταία επιθυμία",
          "action": "video:https://www.sw.vidce.net/d/gEbTrxAMaNgjQpgTaQbDhw/1687764219/video/2015/tt3915174GR.mp4"
+      },
+      {
+         "title": "Soul",
+         "titleFooter": "2020",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/iBzJ4IrzTIwjklkbUxeNSacaASt.jpg",
+         "playerLabel": "Soul",
+         "action": "video:https://www.dropbox.com/s/5buv2fl24av1hsk/Soul.2020.1080p.mp4?raw=1"
+      },
+      {
+         "title": "Βαϊάνα",
+         "titleFooter": "2016",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/DSen38zMhnuJNUJHA58y8bzoaJ.jpg",
+         "playerLabel": "Βαϊάνα",
+         "action": "video:https://www.dropbox.com/s/4kacb5qemv4g6zm/Moana..mp4?raw=1"
       },
       {
          "title": "Ρατατούης",
