@@ -9,6 +9,26 @@
    },
    "items": [
       {
+         "title": "Καρό νίντζα 2",
+         "titleFooter": "2022",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/br4cz2T4MILN5hglBkkPfCLiHPf.jpg",
+         "playerLabel": "Καρό Νίντζα: Επικίνδυνη Αποστολή",
+         "action": "video:https://www.sw.vidce.net/d/ArhBKBC1bqv9gDnCi5OeFw/1692109905/2018/2015/tt13387604GR.mp4"
+      },
+      {
+         "title": "Καρό νίντζα",
+         "titleFooter": "2019",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/resxyktdz35rMbcxoFbFuvC6KhH.jpg",
+         "playerLabel": "Καρό νίντζα",
+         "action": "video:https://www.sw.vidce.net/d/C_l9bhWlxn4EWcRYS2VAsw/1692109633/2018/2015/tt7367960.mp4"
+      },
+      {
          "title": "Η Μαγεμένη 2",
          "titleFooter": "2022",
          "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
