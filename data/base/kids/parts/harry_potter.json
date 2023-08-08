@@ -1,0 +1,92 @@
+{
+   "type": "list",
+   "headline": "Ο Χάρι Πότερ",
+   "template": {
+      "type": "separate",
+      "layout": "0,0,2,4",
+      "color": "msx-glass",
+      "title": "Title"
+   },
+   "items": [
+      {
+         "title": "Ο Χάρι Πότερ",
+         "titleFooter": "2001",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/vMfwPZxVYeVWcECiqGPyqkQDm3E.jpg",
+         "playerLabel": "Ο Χάρι Πότερ και η φιλοσοφική λίθος",
+         "action": "video:https://www.nd.vidce.net/d/FFy56zeYfNgEHGkUgIB-QA79.131.136.123/1692111010/video/2015/tt0241527GR.mp4"
+      },
+      {
+         "title": "Ο Χάρι Πότερ 2",
+         "titleFooter": "2002",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/sdEOH0992YZ0QSxgXNIGLq1ToUi.jpg",
+         "playerLabel": "Ο Χάρι Πότερ και η Κάμαρα με τα Μυστικά",
+         "action": "video:https://www.nd.vidce.net/d/WXhBMKWT0PQ4e4X1S-jI0w79.131.136.123/1692111052/video/2015/tt0295297gr.mp4"
+      },
+      {
+         "title": "Ο Χάρι Πότερ 3",
+         "titleFooter": "2004",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/kPBeiL60knRSe8ubaUOVMgWDODX.jpg",
+         "playerLabel": "Ο Χάρι Πότερ και ο Αιχμάλωτος του Αζκαμπάν",
+         "action": "video:https://www.nd.vidce.net/d/jgSmh7UFZ9dZhq6dMksm8A79.131.136.123/1692111107/video/2015/tt0304141GR.mp4"
+      },
+      {
+         "title": "Ο Χάρι Πότερ 4",
+         "titleFooter": "2005",
+         "badge": "{col:msx-white}ΜΕ ΥΠΟΤΙΤΛ.",
+         "badgeColor": "msx-red",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/fECBtHlr0RB3foNHDiCBXeg9Bv9.jpg",
+         "playerLabel": "Ο Χάρι Πότερ και το Κύπελλο της Φωτιάς",
+         "action": "video:https://www.nd.vidce.net/d/_Wi84oNk1lYe1LZ28HVMfA/1692111176/video/2015/tt0330373.mp4"
+      },
+      {
+         "title": "Ο Χάρι Πότερ 5",
+         "titleFooter": "2007",
+         "badge": "{col:msx-white}ΜΕ ΥΠΟΤΙΤΛ.",
+         "badgeColor": "msx-red",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/q4PU8xRYPaLyYpWMcQOMRiNLJk4.jpg",
+         "playerLabel": "Ο Χάρι Πότερ και το τάγμα του φοίνικα",
+         "action": "video:https://www.nd.vidce.net/d/KeE5dmwSqWZfnWWKgTzf1g/1692111463/video/2015/tt0373889.mp4"
+      },
+      {
+         "title": "Ο Χάρι Πότερ 6",
+         "titleFooter": "2009",
+         "badge": "{col:msx-white}ΜΕ ΥΠΟΤΙΤΛ.",
+         "badgeColor": "msx-red",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/z7uo9zmQdQwU5ZJHFpv2Upl30i1.jpg",
+         "playerLabel": "Ο Χάρι Πότερ και ο ημίαιμος πρίγκιψ",
+         "action": "video:https://www.nd.vidce.net/d/8FeYC_3VAX0zgVOH9Uh_8A/1692111602/video/2015/tt0417741.mp4"
+      },
+      {
+         "title": "Ο Χάρι Πότερ 7",
+         "titleFooter": "2010",
+         "badge": "{col:msx-white}ΜΕ ΥΠΟΤΙΤΛ.",
+         "badgeColor": "msx-red",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/ujSo74ZKMSnV1j6dU2QlRqYywI8.jpg",
+         "playerLabel": "Ο Χάρι Πότερ και οι κλήροι του θανάτου: Μέρος 1ο",
+         "action": "video:https://www.nd.vidce.net/d/WlOcehQwxjuYYkA4IDgeyA/1692111796/video/2015/tt0926084.mp4"
+      },
+      {
+         "title": "Ο Χάρι Πότερ 8",
+         "titleFooter": "2011",
+         "badge": "{col:msx-white}ΜΕ ΥΠΟΤΙΤΛ.",
+         "badgeColor": "msx-red",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/8jnjoGgI60NKBh4QE2c3HGQQAeD.jpg",
+         "playerLabel": "Ο Χάρι Πότερ και οι κλήροι του θανάτου: Μέρος 2ο",
+         "action": "video:https://www.nd.vidce.net/d/DcdRZxfsKKy40bUggPZN4w/1692111854/video/2015/tt1201607.mp4"
+      }
+   ]
+}
