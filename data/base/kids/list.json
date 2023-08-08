@@ -9,6 +9,16 @@
    },
    "items": [
       {
+         "title": "Ο Χάρι Πότερ (1-8)",
+         "titleFooter": "2001 - 2011",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/c0PYz2lBEzItrOw18PNJ4pAUUij.jpg",
+         "playerLabel": "Ο Κοτολαγός και το Χάμστερ του Σκότους",
+         "action": "content:https://sastamaa.github.io/msx/data/base/kids/parts/harry_potter.json"
+      },
+      {
          "title": "Ο Κοτολαγός και το Χάμστερ του Σκότους",
          "titleFooter": "2023",
          "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
