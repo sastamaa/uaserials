@@ -9,6 +9,24 @@
    },
    "items": [
       {
+         "title": "Ανάμεσα στο Πλήθος",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}7.7",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w780/wI7FtSMBOAfv24jItWlMk7NlxfH.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/the_crowded_room.json"
+      },
+      {
+         "title": "Αεροπειρατεία",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}7.6",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w780/a08WDt2I0jchc6ySQN8mnAdta5z.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/hijack.json"
+      },
+      {
          "title": "Στα Μπάντλαντς",
          "titleFooter": "2015 - 2019",
          "badge": "{col:msx-white}7.9",
