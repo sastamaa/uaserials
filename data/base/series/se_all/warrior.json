@@ -197,6 +197,16 @@
                         "title": "EP 5",
                         "playerLabel": "Episode 5",
                         "action": "video:https://www.cdn.vidce.net/d/CtkwHv2iI2Uvu8lzJ95OMQ79.131.139.217/1690988872/video/Warrior/3x05.mp4"
+                     },
+                     {
+                        "title": "EP 6",
+                        "playerLabel": "Episode 6",
+                        "action": "video:https://www.cdn.vidce.net/d/CtkwHv2iI2Uvu8lzJ95OMQ79.131.139.217/1690988872/video/Warrior/3x06.mp4"
+                     },
+                     {
+                        "title": "EP 7",
+                        "playerLabel": "Episode 7",
+                        "action": "video:https://www.cdn.vidce.net/d/CtkwHv2iI2Uvu8lzJ95OMQ79.131.139.217/1690988872/video/Warrior/3x07.mp4"
                      }
                   ]
                }
