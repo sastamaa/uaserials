@@ -9,6 +9,33 @@
    },
    "items": [
       {
+         "title": "Κάλπικη Ζωή",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}8.4",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w780/p39JrYSno982g24lZtNQWj20n5L.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/farzi.json"
+      },
+      {
+         "title": "Υπόθεση Jacob",
+         "titleFooter": "2020",
+         "badge": "{col:msx-white}7.8",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w780/pK9cq5nSW3FyeZKL0F2DnrZF5fC.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/defending_jacob.json"
+      },
+      {
+         "title": "The Devil's Hour",
+         "titleFooter": "2022",
+         "badge": "{col:msx-white}7.6",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w780/mFU6ZPAs6g8Y9Eld28GULJYt3rC.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/the_devils_hour.json"
+      },
+      {
          "title": "Μυστική εισβολή",
          "titleFooter": "2023",
          "badge": "{col:msx-white}6.1",
