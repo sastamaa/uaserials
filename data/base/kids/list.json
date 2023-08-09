@@ -9,6 +9,16 @@
    },
    "items": [
       {
+         "title": "Ξενοδοχείο για τέρατα (1-4)",
+         "titleFooter": "2012 - 2022",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/znX5Q3O3aP4isoTGtTSVe6XXkPV.jpg",
+         "playerLabel": "Ο Κοτολαγός και το Χάμστερ του Σκότους",
+         "action": "content:https://sastamaa.github.io/msx/data/base/kids/parts/hotel_transylvania.json"
+      },
+      {
          "title": "Super Mario Bros: Η Ταινία",
          "titleFooter": "2023",
          "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
