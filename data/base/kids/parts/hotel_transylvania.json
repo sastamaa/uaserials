@@ -1,0 +1,52 @@
+{
+   "type": "list",
+   "headline": "Ξενοδοχείο για τέρατα",
+   "template": {
+      "type": "separate",
+      "layout": "0,0,2,4",
+      "color": "msx-glass",
+      "title": "Title"
+   },
+   "items": [
+      {
+         "title": "Ξενοδοχείο για τέρατα",
+         "titleFooter": "2012",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/5SkAFGJ45IBjAqrCrXidzmW9hFV.jpg",
+         "playerLabel": "Ξενοδοχείο για τέρατα",
+         "action": "video:https://www.nd.vidce.net/d/PJfOpTLm_wbbaUS20Lhj9g/1692178322/video/2015/tt0837562.mp4"
+      },
+      {
+         "title": "Ξενοδοχείο για τέρατα 2",
+         "titleFooter": "2015",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/kh8lpM6UutHZExvwkSjXRsQTpbl.jpg",
+         "playerLabel": "Ξενοδοχείο για τέρατα 2",
+         "action": "video:https://www.dropbox.com/s/oydpwj7bla3pkq8/Hotel.Transylvania.2.2015.mp4?raw=1"
+      },
+      {
+         "title": "Ξενοδοχείο για τέρατα 3: Ώρα για διακοπές",
+         "titleFooter": "2018",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/r7nuDLkrZk0FJOCpLphCZ1lraA.jpg",
+         "playerLabel": "Ξενοδοχείο για τέρατα 3: Ώρα για διακοπές",
+         "action": "video:https://www.dropbox.com/s/4iw0va538doflo1/Hotel.Transylvania.3.Summer.Vacation.2018..mp4?raw=1"
+      },
+      {
+         "title": "Ξενοδοχείο για Τέρατα 4: Τερατομεταμορφώσεις",
+         "titleFooter": "2022",
+         "badge": "{col:msx-white}ΜΕ ΥΠΟΤΙΤΛ.",
+         "badgeColor": "msx-red",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/znX5Q3O3aP4isoTGtTSVe6XXkPV.jpg",
+         "playerLabel": "Ξενοδοχείο για Τέρατα 4: Τερατομεταμορφώσεις",
+         "action": "video:https://www.sw.vidce.net/d/BkdLlxXvuL8_sDnGDJD0Sg/1692178362/2018/2015/tt9848626.mp4"
+      }
+   ]
+}
