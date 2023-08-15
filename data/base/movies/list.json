@@ -9,6 +9,46 @@
    },
    "items": [
       {
+         "title": "Meg 2: Η Τάφρος",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}5.5",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/4U0YTs4W94hMkZU1jrnHKFcyVtK.jpg",
+         "playerLabel": "Meg 2: Η Τάφρος",
+         "action": "video:https://www.sw.vidce.net/d/1FTch4bxtbDgEfnjwh5NDg/1692731874/2018/2015/tt9224104.mp4"
+      },
+      {
+         "title": "Μαθήματα Αποπλάνησης",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}6.5",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/96z2qZiq2WmmizR7hCUAUggpbtI.jpg",
+         "playerLabel": "Μαθήματα Αποπλάνησης",
+         "action": "video:https://www.sw.vidce.net/d/kkN-uJfr7Jj6AXt435JBjg/1692731770/2018/2015/tt15671028.mp4"
+      },
+      {
+         "title": "Οπενχάϊμερ",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}8.6",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/efoCIdMmNgSdOlsNwovGxByjlOR.jpg",
+         "playerLabel": "Οπενχάϊμερ",
+         "action": "video:https://www.sw.vidce.net/d/VvX0qalUzw7dj0cb9MpLFg/1692731503/2018/2015/tt15398776.mp4"
+      },
+      {
+         "title": "Άκου τη Μαμά",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}5.9",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/pNjq1aM10wIGUj4WjQFrAmtkH9S.jpg",
+         "playerLabel": "Άκου τη Μαμά",
+         "action": "video:https://www.sw.vidce.net/d/S91P2NsF64mkc2E8zpoAfg/1692731428/2018/2015/tt9100018.mp4"
+      },
+      {
          "title": "Παγιδευμένη Ψυχή: Η Πορφυρή Πόρτα",
          "titleFooter": "2023",
          "badge": "{col:msx-white}5.7",
