@@ -1,0 +1,50 @@
+{
+   "type": "list",
+   "headline": "Σκούμπι-Ντου",
+   "template": {
+      "type": "separate",
+      "layout": "0,0,2,4",
+      "color": "msx-glass",
+      "title": "Title"
+   },
+   "items": [
+      {
+         "title": "Scoob!",
+         "titleFooter": "2020",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/zG2l9Svw4PTldWJAzC171Y3d6G8.jpg",
+         "playerLabel": "Scooby-Doo: Ένα νέο σύμπαν",
+         "action": "video:https://www.dropbox.com/s/7f7uc91qjymi6lh/Scoob%21%20Scooby%20Doo%21%202020.mp4?raw=1"
+      },
+      {
+         "title": "Χαλάρωσε Σκούμπι-Ντου!",
+         "titleFooter": "2007",
+         "badge": "{col:msx-white}ΜΕ ΥΠΟΤΙΤΛ.",
+         "badgeColor": "msx-red",
+         "image": "https://image.tmdb.org/t/p/w500/n1SgvnX4SJ6gZEpDSQEbcmQOslJ.jpg",
+         "playerLabel": "Χαλάρωσε Σκούμπι-Ντου!",
+         "action": "video:https://www.nd.vidce.net/d/lS15SyMWzMp1RhiM46Cpww/1692733592/video/2015/tt1097636.mp4"
+      },
+      {
+         "title": "Σκούμπι-Ντου: Χαμός στο τσίρκο",
+         "titleFooter": "2012",
+         "badge": "{col:msx-white}ΜΕ ΥΠΟΤΙΤΛ.",
+         "badgeColor": "msx-red",
+         "image": "https://image.tmdb.org/t/p/w500/tpYI4UuxL8Vt7T2NWtjq8D2rzce.jpg",
+         "playerLabel": "Σκούμπι-Ντου: Χαμός στο τσίρκο",
+         "action": "video:https://www.nd.vidce.net/d/7q-ZDAz_gWrAmrtYuiKQOQ/1692733711/video/2015/tt2235542.mp4"
+      },
+      {
+         "title": "Σκούμπι Ντου! Η Μουσική του Βρυκόλακα",
+         "titleFooter": "2012",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/eo2hpnyjmbcvnMSKS0f0U1hTPj5.jpg",
+         "playerLabel": "Σκούμπι Ντου! Η Μουσική του Βρυκόλακα",
+         "action": "video:https://www.nd.vidce.net/d/27AGTQy5xmtgzZSHuHoHDw/1692733905/video/2015/tt2162709.mp4"
+      }
+   ]
+}
