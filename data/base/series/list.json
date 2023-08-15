@@ -9,6 +9,15 @@
    },
    "items": [
       {
+         "title": "Cruel Summer",
+         "titleFooter": "2021",
+         "badge": "{col:msx-white}7.4",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w780/mPiDMJC5vCz1xYR3qX7zzBxLRcC.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/cruel_summer.json"
+      },
+      {
          "title": "Κάλπικη Ζωή",
          "titleFooter": "2023",
          "badge": "{col:msx-white}8.4",
