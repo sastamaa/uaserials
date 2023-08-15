@@ -9,6 +9,16 @@
    },
    "items": [
       {
+         "title": "Σκούμπι-Ντου (1-4)",
+         "titleFooter": "2007 - 2020",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/zG2l9Svw4PTldWJAzC171Y3d6G8.jpg",
+         "playerLabel": "Σκούμπι-Ντου (1-4)",
+         "action": "content:https://sastamaa.github.io/msx/data/base/kids/parts/scooby.json"
+      },
+      {
          "title": "Ξενοδοχείο για τέρατα (1-4)",
          "titleFooter": "2012 - 2022",
          "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
