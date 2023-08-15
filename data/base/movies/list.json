@@ -9,6 +9,16 @@
    },
    "items": [
       {
+         "title": "Scream VI",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}6.5",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg",
+         "playerLabel": "Scream VI",
+         "action": "video:https://www.sw.vidce.net/d/F8g8zS_8GslZQOmAgvGcXg/1692732319/2018/2015/tt17663992.mp4"
+      },
+      {
          "title": "Meg 2: Η Τάφρος",
          "titleFooter": "2023",
          "badge": "{col:msx-white}5.5",
