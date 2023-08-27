@@ -9,6 +9,42 @@
    },
    "items": [
       {
+         "title": "The Patient",
+         "titleFooter": "2022",
+         "badge": "{col:msx-white}7.0",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w780/aXAg9KY0AQ0FNAASvyG0Vu3xdb3.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/the_patient.json"
+      },
+      {
+         "title": "Anne Rice's Mayfair Witches",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}6.2",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w780/zKRBfuRWGbs9R2nxhlNP8CfArUh.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/mayfair_witches.json"
+      },
+      {
+         "title": "The Bear",
+         "titleFooter": "2022",
+         "badge": "{col:msx-white}8.5",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w780/3MVHF64rlvH1eofKefIoazXwOK0.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/the_bear.json"
+      },
+      {
+         "title": "Black Bird",
+         "titleFooter": "2022",
+         "badge": "{col:msx-white}8.1",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w780/uAt2KJDb9Uvsh9K6lUnJoLW3Nod.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/black_bird.json"
+      },
+      {
          "title": "Cruel Summer",
          "titleFooter": "2021",
          "badge": "{col:msx-white}7.4",
