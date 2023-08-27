@@ -9,6 +9,16 @@
    },
    "items": [
       {
+         "title": "Στο στοιχείο τους",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/bHJVxz06MqeRFI1fsyOBUYTT7gb.jpg",
+         "playerLabel": "Στο στοιχείο τους",
+         "action": "video:https://www.sw.vidce.net/d/GW7KhQzEIgQDecemuRFBWA79.129.129.42/1693769998/video/2015/tt15789038GR.mp4"
+      },
+      {
          "title": "Σκούμπι-Ντου (1-4)",
          "titleFooter": "2007 - 2020",
          "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
