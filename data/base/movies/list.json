@@ -9,6 +9,36 @@
    },
    "items": [
       {
+         "title": "Επικίνδυνη Αποστολή 3",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}8.0",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/mMHErZwXXlgE9ebggDgxyJAkBqL.jpg",
+         "playerLabel": "Επικίνδυνη Αποστολή: Θανάσιμη Εκδίκηση Μέρος Πρώτο",
+         "action": "video:https://www.sw.vidce.net/d/Dmlx-nKLWO3kxYuLUsQ5Rw/1694428487/2018/2015/tt9603212.mp4"
+      },
+      {
+         "title": "Demeter: Η Αφύπνιση του Κακού",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}6.2",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/snJfIa7xAPMSITaUJyNmcrZYI2m.jpg",
+         "playerLabel": "Demeter: Η Αφύπνιση του Κακού",
+         "action": "video:https://www.sw.vidce.net/d/vfDictQEzBKRuqebE9pMMg/1694428216/2018/2015/tt1001520.mp4"
+      },
+      {
+         "title": "Ο Μπαμπούλας",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}6.0",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/zstx6KuAG6dWJoYIJEVdhsxlytM.jpg",
+         "playerLabel": "Ο Μπαμπούλας",
+         "action": "video:https://www.sw.vidce.net/d/3yFGPV9698HuSuZnBLqxLg/1694428013/2018/2015/tt3427252.mp4"
+      },
+      {
          "title": "Scream VI",
          "titleFooter": "2023",
          "badge": "{col:msx-white}6.5",
@@ -116,7 +146,7 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/kyzWUqsubPBsR10dRrflX6pQPyu.jpg",
          "playerLabel": "Μπάρμπι",
-         "action": "video:https://www.sw.vidce.net/d/puk6dSmlbnwHDVPwoxh7iw/1690985422/2018/2015/tt1517268.mp4"
+         "action": "video:https://www.sw.vidce.net/d/hn-SjzT8w77drPfIZeyYzg/1694428067/2018/2015/tt1517268.mp4"
       },
       {
          "title": "Ο Indiana Jones και ο Δίσκος του Πεπρωμένου",
@@ -126,7 +156,7 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/i25nEOGfXBwMeLij0jBTBi5Xlkl.jpg",
          "playerLabel": "Ο Indiana Jones και ο Δίσκος του Πεπρωμένου",
-         "action": "video:https://www.sw.vidce.net/d/OPpRWAVa1Tk-iOT0HYN7PQ/1690985278/2018/2015/tt1462764.mp4"
+         "action": "video:https://www.sw.vidce.net/d/Slm-9hSa06WryPVEndCxoQ/1694428120/2018/2015/tt1462764.mp4"
       },
       {
          "title": "The Flash",
