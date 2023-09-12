@@ -9,6 +9,24 @@
    },
    "items": [
       {
+         "title": "Special Ops: Lioness",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}7.7",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w780/rXCzevakJoAN1qnZY0nAQPSLVRv.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/special_ops.json"
+      },
+      {
+         "title": "Warrior",
+         "titleFooter": "2019 - 2023",
+         "badge": "{col:msx-white}8.4",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w780/hR9qPFMI6BoR63XK6BBX5Ueghan.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/warrior.json"
+      },
+      {
          "title": "The Patient",
          "titleFooter": "2022",
          "badge": "{col:msx-white}7.0",
@@ -115,15 +133,6 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w780/jtceMKMxHSriLFUGAUfqHsW7uCo.jpg",
          "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/into_the_badlands.json"
-      },
-      {
-         "title": "Warrior",
-         "titleFooter": "2019 - 2023",
-         "badge": "{col:msx-white}8.4",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w780/hR9qPFMI6BoR63XK6BBX5Ueghan.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/warrior.json"
       },
       {
          "title": "Shrinking",
