@@ -9,6 +9,36 @@
    },
    "items": [
       {
+         "title": "Μίλα Μου",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}7.3",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/kdPMUMJzyYAc4roD52qavX0nLIC.jpg",
+         "playerLabel": "Μίλα Μου",
+         "action": "video:https://www.sw.vidce.net/d/fCPKrSzp1wM8_LCDVw0VFw/1695721939/2018/2015/tt10638522.mp4"
+      },
+      {
+         "title": "The Equalizer 3: Το Τελευταίο Κεφάλαιο",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}7.1",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/p0WBnzgyqxMxbF4UGiqTwBLnwht.jpg",
+         "playerLabel": "The Equalizer 3: Το Τελευταίο Κεφάλαιο",
+         "action": "video:https://www.sw.vidce.net/d/91fIBcfGWk8V4tyI6SW2_A/1695721284/2018/2015/tt17024450.mp4"
+      },
+      {
+         "title": "Αντίστροφη Μέτρηση",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}5.3",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/kn02iPt8ou78YQ6qoHtRswUsGXC.jpg",
+         "playerLabel": "Αντίστροφη Μέτρηση",
+         "action": "video:https://www.sw.vidce.net/d/DXT5d1WsNY07PzU9ABgmNQ/1695721135/2018/2015/tt6906292.mp4"
+      },
+      {
          "title": "Επικίνδυνη Αποστολή 3",
          "titleFooter": "2023",
          "badge": "{col:msx-white}8.0",
