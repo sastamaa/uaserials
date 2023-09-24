@@ -9,6 +9,26 @@
    },
    "items": [
       {
+         "title": "Καμία σωτηρία",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}6.5",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/ehGIDAMaYy6Eg0o8ga0oqflDjqW.jpg",
+         "playerLabel": "Καμία σωτηρία",
+         "action": "video:https://www.sw.vidce.net/d/2cxazgvLRFda_VLhxfwBcw/1696183561/2018/2015/tt14509110.mp4"
+      },
+      {
+         "title": "Blue Beetle",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}6.3",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg",
+         "playerLabel": "Blue Beetle",
+         "action": "video:https://www.sw.vidce.net/d/vANRv4tN63icKbLrJx2exQ/1696183273/2018/2015/tt9362930.mp4"
+      },
+      {
          "title": "Μίλα Μου",
          "titleFooter": "2023",
          "badge": "{col:msx-white}7.3",
