@@ -1,0 +1,52 @@
+{
+   "type": "list",
+   "headline": "Αγώνες πείνας",
+   "template": {
+      "type": "separate",
+      "layout": "0,0,2,4",
+      "color": "msx-glass",
+      "title": "Title"
+   },
+   "items": [
+      {
+         "title": "Αγώνες πείνας",
+         "titleFooter": "2012",
+         "badge": "{col:msx-white}7.2",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg",
+         "playerLabel": "Αγώνες πείνας",
+         "action": "video:https://www.nd.vidce.net/d/fgAcP_b1nnHQQCZuzdbORA/1697048241/video/2015/tt1392170.mp4"
+      },
+      {
+         "title": "Αγώνες πείνας: Φωτιά",
+         "titleFooter": "2013",
+         "badge": "{col:msx-white}7.5",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/vrQHDXjVmbYzadOXQ0UaObunoy2.jpg",
+         "playerLabel": "Αγώνες πείνας: Φωτιά",
+         "action": "video:https://www.nd.vidce.net/d/_LJ59nc4Jy4Fu_MdPhCqKg/1697048528/video/2015/tt1951264.mp4"
+      },
+      {
+         "title": "Αγώνες πείνας: Επανάσταση - Μέρος I",
+         "titleFooter": "2014",
+         "badge": "{col:msx-white}6.6",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/f4v9zaQcoNkTJQWeU8galIO6ert.jpg",
+         "playerLabel": "Αγώνες πείνας: Επανάσταση - Μέρος I",
+         "action": "video:https://www.nd.vidce.net/d/sHfMdqQ7NkkXCTKaz3rlJQ/1697048557/video/2015/tt1951265.mp4"
+      },
+      {
+         "title": "Αγώνες πείνας: Επανάσταση - Μέρος II",
+         "titleFooter": "2015",
+         "badge": "{col:msx-white}6.5",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/3vN0Tz1GVGuyq2I7E1wvfKyAAAy.jpg",
+         "playerLabel": "Αγώνες πείνας: Επανάσταση - Μέρος II",
+         "action": "video:https://www.nd.vidce.net/d/bXhFoZg84eGlADdOecwNuA/1697048586/video/2015/tt1951266.mp4"
+      }
+   ]
+}
