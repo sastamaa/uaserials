@@ -1,0 +1,42 @@
+{
+   "type": "list",
+   "headline": "Η τριλογία της απόκλισης",
+   "template": {
+      "type": "separate",
+      "layout": "0,0,2,4",
+      "color": "msx-glass",
+      "title": "Title"
+   },
+   "items": [
+      {
+         "title": "Η τριλογία της απόκλισης: Οι διαφορετικοί",
+         "titleFooter": "2014",
+         "badge": "{col:msx-white}6.6",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/2zIc0Zhdruv3jtUnj6HEgUbLWjT.jpg",
+         "playerLabel": "Η τριλογία της απόκλισης: Οι διαφορετικοί",
+         "action": "video:https://www.nd.vidce.net/d/XUzOnIUWogISTnrR-laIlA/1697049063/video/2015/tt1840309.mp4"
+      },
+      {
+         "title": "Η τριλογία της απόκλισης: Ανταρσία",
+         "titleFooter": "2015",
+         "badge": "{col:msx-white}6.2",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/sDACpb0J7b43Y0swPyBAkltTheU.jpg",
+         "playerLabel": "Η τριλογία της απόκλισης: Ανταρσία",
+         "action": "video:https://www.nd.vidce.net/d/RVhg50idfelPZmk4hZ8gqw/1697049089/video/2015/tt2908446.mp4"
+      },
+      {
+         "title": "Η τριλογία της απόκλισης: Αφοσίωση",
+         "titleFooter": "2016",
+         "badge": "{col:msx-white}5.7",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/kIjGKY47bVwADWpJS875Lfz2Sin.jpg",
+         "playerLabel": "Η τριλογία της απόκλισης: Αφοσίωση",
+         "action": "video:https://www.nd.vidce.net/d/-cYuxcIBHobcpCLHq9GFNQ/1697049111/video/2015/tt3410834.mp4"
+      }
+   ]
+}
