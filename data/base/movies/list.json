@@ -9,6 +9,25 @@
    },
    "items": [
       {
+         "title": "Αγώνες πείνας 1-4",
+         "titleFooter": "2012 - 2015",
+         "badge": "{col:msx-white}6.5",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/3vN0Tz1GVGuyq2I7E1wvfKyAAAy.jpg",
+         "playerLabel": "sample",
+         "action": "content:https://sastamaa.github.io/msx/data/base/movies/parts/hunger_games.json"
+      },
+      {
+         "title": "Η τριλογία της απόκλισης 1-3",
+         "titleFooter": "2014 - 2016",
+         "badge": "{col:msx-white}5.7",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/kIjGKY47bVwADWpJS875Lfz2Sin.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/movies/parts/divergent.json"
+      },
+      {
          "title": "Gran Turismo",
          "titleFooter": "2023",
          "badge": "{col:msx-white}7.3",
