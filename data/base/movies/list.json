@@ -9,6 +9,26 @@
    },
    "items": [
       {
+         "title": "Gran Turismo",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}7.3",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/8AVcym6ASzAC26Sm0HiEk7AjjXn.jpg",
+         "playerLabel": "Gran Turismo",
+         "action": "video:https://www.sw.vidce.net/d/xSRzPZdX9fdLZCCX9IqZhw/1697046832/2018/2015/tt4495098.mp4"
+      },
+      {
+         "title": "Η Καλόγρια II",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}5.8",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/gSDhPT5wZVhYR2xJdf8kAac9ymj.jpg",
+         "playerLabel": "Η Καλόγρια II",
+         "action": "video:https://www.sw.vidce.net/d/3rmfAFmOOcaIml5guiIjAQ/1697046589/2018/2015/tt10160976.mp4"
+      },
+      {
          "title": "Καμία σωτηρία",
          "titleFooter": "2023",
          "badge": "{col:msx-white}6.5",
@@ -16,7 +36,7 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/ehGIDAMaYy6Eg0o8ga0oqflDjqW.jpg",
          "playerLabel": "Καμία σωτηρία",
-         "action": "video:https://www.sw.vidce.net/d/2cxazgvLRFda_VLhxfwBcw/1696183561/2018/2015/tt14509110.mp4"
+         "action": "video:https://www.sw.vidce.net/d/PWo1pb2s8ruMtAFPiZuLRg/1697046388/2018/2015/tt14509110.mp4"
       },
       {
          "title": "Blue Beetle",
@@ -26,7 +46,7 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg",
          "playerLabel": "Blue Beetle",
-         "action": "video:https://www.sw.vidce.net/d/vANRv4tN63icKbLrJx2exQ/1696183273/2018/2015/tt9362930.mp4"
+         "action": "video:https://www.sw.vidce.net/d/GfoKAiC8Cy6EEUlaL_HWEg/1697046425/2018/2015/tt9362930.mp4"
       },
       {
          "title": "Μίλα Μου",
@@ -36,7 +56,7 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/kdPMUMJzyYAc4roD52qavX0nLIC.jpg",
          "playerLabel": "Μίλα Μου",
-         "action": "video:https://www.sw.vidce.net/d/fCPKrSzp1wM8_LCDVw0VFw/1695721939/2018/2015/tt10638522.mp4"
+         "action": "video:https://www.sw.vidce.net/d/M447u4a__SbTLm7HiErvFQ/1697046448/2018/2015/tt10638522.mp4"
       },
       {
          "title": "The Equalizer 3: Το Τελευταίο Κεφάλαιο",
@@ -46,7 +66,7 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/p0WBnzgyqxMxbF4UGiqTwBLnwht.jpg",
          "playerLabel": "The Equalizer 3: Το Τελευταίο Κεφάλαιο",
-         "action": "video:https://www.sw.vidce.net/d/91fIBcfGWk8V4tyI6SW2_A/1695721284/2018/2015/tt17024450.mp4"
+         "action": "video:https://www.sw.vidce.net/d/61QNLA3zxIxlFi06eeHd0A/1697046481/2018/2015/tt17024450.mp4"
       },
       {
          "title": "Αντίστροφη Μέτρηση",
