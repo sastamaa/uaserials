@@ -9,6 +9,16 @@
    },
    "items": [
       {
+         "title": "Outlaw Johnny Black",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}5.7",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/3Kf2uBrHUuo9nGYarmgRq2LGaI8.jpg",
+         "playerLabel": "Outlaw Johnny Black",
+         "action": "video:https://www.sw.vidce.net/d/T2SyM5mJek4S_q-qwbWDNw/1701287325/2018/2015/tt8667828.mp4"
+      },
+      {
          "title": "Αγώνες πείνας 1-4",
          "titleFooter": "2012 - 2015",
          "badge": "{col:msx-white}6.5",
