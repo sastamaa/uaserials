@@ -9,13 +9,43 @@
    },
    "items": [
       {
+         "title": "Η κόρη του βασιλιά του βάλτου",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}5.9",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/LOUnUqjtHp5x4GhBfw5qMHD9Oq.jpg",
+         "playerLabel": "Η κόρη του βασιλιά του βάλτου",
+         "action": "video:https://www.sw.vidce.net/d/Uf5oktG0VlbNlD2x3VBURg/1701717561/2018/2015/tt8002382.mp4"
+      },
+      {
+         "title": "Η κόρη του βασιλιά του βάλτου",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}6.6",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/LOUnUqjtHp5x4GhBfw5qMHD9Oq.jpg",
+         "playerLabel": "Η κόρη του βασιλιά του βάλτου",
+         "action": "video:https://www.sw.vidce.net/d/Uf5oktG0VlbNlD2x3VBURg/1701717561/2018/2015/tt8002382.mp4"
+      },
+      {
+         "title": "Μυστήριο στη Βενετία",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}6.6",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/lqFJHHUECKiH9s2oxT3rfG490WV.jpg",
+         "playerLabel": "Μυστήριο στη Βενετία",
+         "action": "video:https://www.sw.vidce.net/d/NCv2D0Hjil5FmyAI5MTySg/1701717430/2018/2015/tt22687790.mp4"
+      },
+      {
          "title": "Creation of the Gods I: Kingdom of Storms",
          "titleFooter": "2023",
          "badge": "{col:msx-white}6.9",
          "badgeColor": "msx-blue",
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/kUKEwAoWe4Uyt8sFmtp5S86rlBk.jpg",
-         "playerLabel": "Outlaw Johnny Black",
+         "playerLabel": "Creation of the Gods I: Kingdom of Storms",
          "action": "video:https://www.sw.vidce.net/d/HZR3ZHBiCj5zMtMOlOggxA/1701716528/2018/2015/tt6979756.mp4"
       },
       {
@@ -105,7 +135,7 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/p0WBnzgyqxMxbF4UGiqTwBLnwht.jpg",
          "playerLabel": "The Equalizer 3: Το Τελευταίο Κεφάλαιο",
-         "action": "video:https://www.sw.vidce.net/d/61QNLA3zxIxlFi06eeHd0A/1697046481/2018/2015/tt17024450.mp4"
+         "action": "video:https://www.sw.vidce.net/d/Si8lPIiu67jlpdRQMsxvlQ/1701716676/2018/2015/tt17024450.mp4"
       },
       {
          "title": "Αντίστροφη Μέτρηση",
