@@ -9,6 +9,56 @@
    },
    "items": [
       {
+         "title": "Λίο",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/pD6sL4vntUOXHmuvJPPZAgvyfd9.jpg",
+         "playerLabel": "Λίο",
+         "action": "video:https://www.sw.vidce.net/d/5SCleHlUm2Tq1f83PF4B6A79.131.136.42/1701720743/video/2015/tt5755238GR.mp4"
+      },
+      {
+         "title": "Αργοναυτεσ: Η Οργη Του Ποσειδωνα",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/2AijHzAC7KLQxSmceEIF0nXpNDk.jpg",
+         "playerLabel": "Αργοναυτεσ: Η Οργη Του Ποσειδωνα",
+         "action": "video:https://www.sw.vidce.net/d/XRXdPcVgSigEKaG84-DG7w/1701720629/2018/2015/tt22360682.mp4"
+      },
+      {
+         "title": "Ρούμπι: Ένα κράκεν στην εφηβεία",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/3lcADBs1C4JIlcCfe3Mmwf1Micl.jpg",
+         "playerLabel": "Ρούμπι: Ένα κράκεν στην εφηβεία",
+         "action": "video:https://www.sw.vidce.net/d/Me45KsxKZfh0W3eZQ8WzOA79.131.136.42/1701720496/video/2015/tt27155038GR.mp4"
+      },
+      {
+         "title": "Ο Γκριντς",
+         "titleFooter": "2018",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/ejvBAxSqmge3xJucgsiTv78xQfB.jpg",
+         "playerLabel": "Ο Γκριντς",
+         "action": "video:https://www.sw.vidce.net/d/Wu6nsH4K7xaqUPISJVHYoQ79.131.136.42/1701720131/2018/2015/tt2709692RG.mp4"
+      },
+      {
+         "title": "How the Grinch Stole Christmas",
+         "titleFooter": "2000",
+         "badge": "{col:msx-white}ΜΕ ΥΠΟΤΙΤΛ.",
+         "badgeColor": "msx-red",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/qYYIxgm9qxz1Fvu6mA6gKs9iLZC.jpg",
+         "playerLabel": "How the Grinch Stole Christmas",
+         "action": "video:https://www.nd.vidce.net/d/CgncmZu-h8oG14z57EN1SA/1701720029/video/2015/tt0170016.mp4"
+      },
+      {
          "title": "Spider-Man: Ακροβατώντας στο Αραχνο-Σύμπαν",
          "titleFooter": "2023",
          "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
