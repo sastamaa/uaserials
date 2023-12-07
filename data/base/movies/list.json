@@ -9,14 +9,14 @@
    },
    "items": [
       {
-         "title": "Η κόρη του βασιλιά του βάλτου",
+         "title": "Ελεύθερος επαγγελματίας",
          "titleFooter": "2023",
-         "badge": "{col:msx-white}5.9",
+         "badge": "{col:msx-white}5.4",
          "badgeColor": "msx-blue",
          "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/LOUnUqjtHp5x4GhBfw5qMHD9Oq.jpg",
-         "playerLabel": "Η κόρη του βασιλιά του βάλτου",
-         "action": "video:https://www.sw.vidce.net/d/Uf5oktG0VlbNlD2x3VBURg/1701717561/2018/2015/tt8002382.mp4"
+         "image": "https://image.tmdb.org/t/p/w500/p8I8dWN6czZcrC9KEEyPZkxQm00.jpg",
+         "playerLabel": "Ελεύθερος επαγγελματίας",
+         "action": "video:https://www.sw.vidce.net/d/b6WpslGRxheTr2IKUCElkg/1702582791/2018/2015/tt15744298.mp4"
       },
       {
          "title": "Η κόρη του βασιλιά του βάλτου",
@@ -26,7 +26,7 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/LOUnUqjtHp5x4GhBfw5qMHD9Oq.jpg",
          "playerLabel": "Η κόρη του βασιλιά του βάλτου",
-         "action": "video:https://www.sw.vidce.net/d/Uf5oktG0VlbNlD2x3VBURg/1701717561/2018/2015/tt8002382.mp4"
+         "action": "video:https://www.sw.vidce.net/d/AQOaDWp9-DLcPufuOsaXIg/1702582878/2018/2015/tt8002382.mp4"
       },
       {
          "title": "Μυστήριο στη Βενετία",
