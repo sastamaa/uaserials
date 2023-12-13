@@ -9,6 +9,15 @@
    },
    "items": [
       {
+         "title": "Longmire",
+         "titleFooter": "2012",
+         "badge": "{col:msx-white}8.3",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w780/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/longmire.json"
+      },
+      {
          "title": "Joe Pickett",
          "titleFooter": "2021",
          "badge": "{col:msx-white}7.7",
