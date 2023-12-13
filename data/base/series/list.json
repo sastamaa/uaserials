@@ -9,6 +9,15 @@
    },
    "items": [
       {
+         "title": "Μαύρα πανιά",
+         "titleFooter": "2014",
+         "badge": "{col:msx-white}8.2",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w780/mZcSwrDdw6cdOVgXm496DgwrQcQ.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/black_sails.json"
+      },
+      {
          "title": "The Boys",
          "titleFooter": "2021",
          "badge": "{col:msx-white}8.7",
