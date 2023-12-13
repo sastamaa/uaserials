@@ -215,6 +215,12 @@
                      }
                   ]
                }
+            },
+            {
+               "type": "button",
+               "layout": "6,0,2,1",
+               "label": "Trailer",
+               "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=7FPRzH7Nrg4"
             }
          ]
       }
