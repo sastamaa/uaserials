@@ -9,6 +9,15 @@
    },
    "items": [
       {
+         "title": "Joe Pickett",
+         "titleFooter": "2021",
+         "badge": "{col:msx-white}7.7",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w780/pWBCwK0lp5RLCyG89JzrhEVny47.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/joe_pickett.json"
+      },
+      {
          "title": "Μαύρα πανιά",
          "titleFooter": "2014",
          "badge": "{col:msx-white}8.2",
