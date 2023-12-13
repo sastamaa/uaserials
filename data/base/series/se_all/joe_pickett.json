@@ -141,6 +141,13 @@
                      }
                   ]
                }
+            },
+            {
+               "type": "button",
+               "layout": "4,0,2,1",
+               "label": "Trailer",
+               "playerLabel": "Joe Pickett",
+               "action": "video:plugin:http://msx.benzac.de/plugins/youtube.html?id=KFdzAweTlSs"
             }
          ]
       }
