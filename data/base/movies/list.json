@@ -9,6 +9,16 @@
    },
    "items": [
       {
+         "title": "The hunger games: Η μπαλάντα των αηδονιών και των φιδιών",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}7.1",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
+         "playerLabel": "The hunger games: Η μπαλάντα των αηδονιών και των φιδιών",
+         "action": "video:https://www.sw.vidce.net/d/Pv3E7YXiNlT8w8eDDS3g-g/1703445311/2018/2015/tt10545296.mp4"
+      },
+      {
          "title": "Ελεύθερος επαγγελματίας",
          "titleFooter": "2023",
          "badge": "{col:msx-white}5.4",
