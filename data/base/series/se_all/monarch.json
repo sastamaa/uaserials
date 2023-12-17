@@ -44,6 +44,16 @@
                         "title": "EP 4",
                         "playerLabel": "Episode 4",
                         "action": "video:https://www.cdn.vidce.net/d/aWvAYDjqxVj-B2wI456Xng79.131.136.42/1702471499/video/Monarch_Legacy_of_Monsters/1x04.mp4"
+                     },
+                     {
+                        "title": "EP 5",
+                        "playerLabel": "Episode 5",
+                        "action": "video:https://www.cdn.vidce.net/d/3Q0kVwAJskbnjVVkZ5osDA79.131.136.42/1703444987/video/Monarch_Legacy_of_Monsters/1x05.mp4"
+                     },
+                     {
+                        "title": "EP 6",
+                        "playerLabel": "Episode 6",
+                        "action": "video:https://www.cdn.vidce.net/d/3Q0kVwAJskbnjVVkZ5osDA79.131.136.42/1703444987/video/Monarch_Legacy_of_Monsters/1x06.mp44"
                      }
                   ]
                }
