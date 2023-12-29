@@ -9,40 +9,13 @@
    },
    "items": [
       {
-         "title": "Longmire",
-         "titleFooter": "2012",
-         "badge": "{col:msx-white}8.3",
+         "title": "Reacher",
+         "titleFooter": "2022",
+         "badge": "{col:msx-white}8.1",
          "badgeColor": "msx-blue",
          "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w780/yrdt5lscyJ5j5GSbhl99x3SRN66.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/longmire.json"
-      },
-      {
-         "title": "Joe Pickett",
-         "titleFooter": "2021",
-         "badge": "{col:msx-white}7.7",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w780/pWBCwK0lp5RLCyG89JzrhEVny47.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/joe_pickett.json"
-      },
-      {
-         "title": "Μαύρα πανιά",
-         "titleFooter": "2014",
-         "badge": "{col:msx-white}8.2",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w780/mZcSwrDdw6cdOVgXm496DgwrQcQ.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/black_sails.json"
-      },
-      {
-         "title": "The Boys",
-         "titleFooter": "2021",
-         "badge": "{col:msx-white}8.7",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w780/dzOxNbbz1liFzHU1IPvdgUR647b.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/the_boys.json"
+         "image": "https://image.tmdb.org/t/p/w780/jFuH0md41x5mB4qj5344mSmtHrO.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/reacher.json"
       },
       {
          "title": "Squid Game: The Challenge",
