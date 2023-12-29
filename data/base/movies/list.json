@@ -5,7 +5,16 @@
       "type": "separate",
       "layout": "0,0,2,4",
       "color": "msx-glass",
-      "title": "Title"
+      "title": "Title",
+      "progress": -1,
+      "live": {
+         "type": "playback",
+         "titleFooter": "{progress:time:hh:mm:ss}",
+         "action": "player:show"
+      },
+      "properties": {
+         "resume:key": "url"
+      }
    },
    "items": [
       {
@@ -16,7 +25,7 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
          "playerLabel": "The hunger games: Η μπαλάντα των αηδονιών και των φιδιών",
-         "action": "video:https://www.sw.vidce.net/d/Pv3E7YXiNlT8w8eDDS3g-g/1703445311/2018/2015/tt10545296.mp4"
+         "action": "video:https://www.sw.vidce.net/d/O8jlgQOVl2-_KcQcM-kPug/1704473401/2018/2015/tt10545296.mp4"
       },
       {
          "title": "Ελεύθερος επαγγελματίας",
