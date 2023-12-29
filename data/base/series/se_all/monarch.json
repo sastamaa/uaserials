@@ -59,6 +59,11 @@
                         "title": "EP 7",
                         "playerLabel": "Episode 7",
                         "action": "video:https://www.cdn.vidce.net/d/vndvka2i4wxldAduI84GQQ79.131.136.42/1704064181/video/Monarch_Legacy_of_Monsters/1x07.mp4"
+                     },
+                     {
+                        "title": "EP 8",
+                        "playerLabel": "Episode 8",
+                        "action": "video:https://www.cdn.vidce.net/d/REufMfE-EvRQ4Teezo43BA79.131.136.42/1704472965/video/Monarch_Legacy_of_Monsters/1x08.mp4"
                      }
                   ]
                }
