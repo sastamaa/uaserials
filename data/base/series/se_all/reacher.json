@@ -112,7 +112,22 @@
                      {
                         "title": "EP 5",
                         "playerLabel": "Episode 5",
-                        "action": "video:https://www.cdn.vidce.net/d/ijebvX4L2sDq5hDp3wYd6Q79.131.136.42/1704474084/video/Reacher/2x05.mp4"
+                        "action": "video:https://www.cdn.vidce.net/d/_brAWkpzbVif6YQr7WMk_Q79.131.135.169/1706544840/video/Reacher/2x05.mp4"
+                     },
+                     {
+                        "title": "EP 6",
+                        "playerLabel": "Episode 6",
+                        "action": "video:https://www.cdn.vidce.net/d/_brAWkpzbVif6YQr7WMk_Q79.131.135.169/1706544840/video/Reacher/2x06.mp4"
+                     },
+                     {
+                        "title": "EP 7",
+                        "playerLabel": "Episode 7",
+                        "action": "video:https://www.cdn.vidce.net/d/_brAWkpzbVif6YQr7WMk_Q79.131.135.169/1706544840/video/Reacher/2x07.mp4"
+                     },
+                     {
+                        "title": "EP 8",
+                        "playerLabel": "Episode 8",
+                        "action": "video:https://www.cdn.vidce.net/d/_brAWkpzbVif6YQr7WMk_Q79.131.135.169/1706544840/video/Reacher/2x08.mp4"
                      }
                   ]
                }
