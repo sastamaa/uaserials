@@ -18,6 +18,26 @@
    },
    "items": [
       {
+         "title": "Ο μελισσοκόμος",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}6.7",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/hz1QuFW85VxAhKKaaaf9rBjA2a0.jpg",
+         "playerLabel": "Ο μελισσοκόμος",
+         "action": "video:https://www.sw.vidce.net/d/R6UzrS9SO9GP2Jz2ZxYCYQ/1706545633/2018/2015/tt15314262.mp4"
+      },
+      {
+         "title": "Γουόνκα",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}7.3",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/2jGEPpok8ioViQ4Ck8ofVZgfOPd.jpg",
+         "playerLabel": "Γουόνκα",
+         "action": "video:https://www.sw.vidce.net/d/zwsWK4md0f2SUmJHJVl2nw/1706545280/2018/2015/tt6166392.mp4"
+      },
+      {
          "title": "The hunger games: Η μπαλάντα των αηδονιών και των φιδιών",
          "titleFooter": "2023",
          "badge": "{col:msx-white}7.1",
@@ -25,7 +45,7 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
          "playerLabel": "The hunger games: Η μπαλάντα των αηδονιών και των φιδιών",
-         "action": "video:https://www.sw.vidce.net/d/O8jlgQOVl2-_KcQcM-kPug/1704473401/2018/2015/tt10545296.mp4"
+         "action": "video:https://www.sw.vidce.net/d/9rTmZM-HNoX9AvWbgfKaiQ/1706545498/2018/2015/tt10545296.mp4"
       },
       {
          "title": "Ελεύθερος επαγγελματίας",
