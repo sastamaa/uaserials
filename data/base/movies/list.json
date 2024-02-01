@@ -18,6 +18,16 @@
    },
    "items": [
       {
+         "title": "Muzzle",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}5.5",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/as101fPPLaVPbxR7eJWNArQx2d3.jpg",
+         "playerLabel": "Ο μελισσοκόμος",
+         "action": "video:https://www.sw.vidce.net/d/aIj6iN2HvXcj5232FgsdTQ/1707424507/2018/2015/tt17663876.mp4"
+      },
+      {
          "title": "Ο μελισσοκόμος",
          "titleFooter": "2024",
          "badge": "{col:msx-white}6.7",
@@ -25,7 +35,7 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/hz1QuFW85VxAhKKaaaf9rBjA2a0.jpg",
          "playerLabel": "Ο μελισσοκόμος",
-         "action": "video:https://www.sw.vidce.net/d/R6UzrS9SO9GP2Jz2ZxYCYQ/1706545633/2018/2015/tt15314262.mp4"
+         "action": "video:https://www.sw.vidce.net/d/Q-UfZIDsolWu_q_O3J8esQ/1707424453/2018/2015/tt15314262.mp4"
       },
       {
          "title": "Γουόνκα",
