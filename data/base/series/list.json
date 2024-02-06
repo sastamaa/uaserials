@@ -8,6 +8,15 @@
       "title": "Title"
    },
    "items": [
+            {
+         "title": "Hawkeye",
+         "titleFooter": "2021",
+         "badge": "{col:msx-white}7.5",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w780/ct5pNE5dDHryHLDnxyZPYcqO1sz.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/hawkeye.json"
+      },
       {
          "title": "Echo",
          "titleFooter": "2023",
