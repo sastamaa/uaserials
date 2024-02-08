@@ -8,7 +8,16 @@
       "title": "Title"
    },
    "items": [
-            {
+      {
+         "title": "The Tourist",
+         "titleFooter": "2022",
+         "badge": "{col:msx-white}7.0",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w780/sxZHAk74Oq0Uxh5KLJGo1u133SU.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/the_tourist.json"
+      },
+      {
          "title": "Hawkeye",
          "titleFooter": "2021",
          "badge": "{col:msx-white}7.5",
