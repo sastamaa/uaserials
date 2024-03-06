@@ -18,16 +18,6 @@
    },
    "items": [
       {
-         "title": "Muzzle",
-         "titleFooter": "2024",
-         "badge": "{col:msx-white}5.5",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/as101fPPLaVPbxR7eJWNArQx2d3.jpg",
-         "playerLabel": "Muzzle",
-         "action": "video:https://www.sw.vidce.net/d/aIj6iN2HvXcj5232FgsdTQ/1707424507/2018/2015/tt17663876.mp4"
-      },
-      {
          "title": "Ο μελισσοκόμος",
          "titleFooter": "2024",
          "badge": "{col:msx-white}6.7",
@@ -35,7 +25,7 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/hz1QuFW85VxAhKKaaaf9rBjA2a0.jpg",
          "playerLabel": "Ο μελισσοκόμος",
-         "action": "video:https://www.sw.vidce.net/d/Q-UfZIDsolWu_q_O3J8esQ/1707424453/2018/2015/tt15314262.mp4"
+         "action": "video:https://www.sw.vidce.net/d/jRI6Qc3G0LcFWFToF4y1jQ/1710338094/2018/2015/tt15314262.mp4"
       },
       {
          "title": "Γουόνκα",
@@ -45,7 +35,7 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/2jGEPpok8ioViQ4Ck8ofVZgfOPd.jpg",
          "playerLabel": "Γουόνκα",
-         "action": "video:https://www.sw.vidce.net/d/zwsWK4md0f2SUmJHJVl2nw/1706545280/2018/2015/tt6166392.mp4"
+         "action": "video:https://www.sw.vidce.net/d/GTgffo4NY_HpVrrchOjduA/1710338123/2018/2015/tt6166392.mp4"
       },
       {
          "title": "The hunger games: Η μπαλάντα των αηδονιών και των φιδιών",
@@ -55,27 +45,7 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
          "playerLabel": "The hunger games: Η μπαλάντα των αηδονιών και των φιδιών",
-         "action": "video:https://www.sw.vidce.net/d/9rTmZM-HNoX9AvWbgfKaiQ/1706545498/2018/2015/tt10545296.mp4"
-      },
-      {
-         "title": "Ελεύθερος επαγγελματίας",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}5.4",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/p8I8dWN6czZcrC9KEEyPZkxQm00.jpg",
-         "playerLabel": "Ελεύθερος επαγγελματίας",
-         "action": "video:https://www.sw.vidce.net/d/b6WpslGRxheTr2IKUCElkg/1702582791/2018/2015/tt15744298.mp4"
-      },
-      {
-         "title": "Η κόρη του βασιλιά του βάλτου",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}6.6",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/LOUnUqjtHp5x4GhBfw5qMHD9Oq.jpg",
-         "playerLabel": "Η κόρη του βασιλιά του βάλτου",
-         "action": "video:https://www.sw.vidce.net/d/AQOaDWp9-DLcPufuOsaXIg/1702582878/2018/2015/tt8002382.mp4"
+         "action": "video:https://www.sw.vidce.net/d/ZdKH3FBcJ6Jkg8rojCqyog/1710338148/2018/2015/tt10545296.mp4"
       },
       {
          "title": "Μυστήριο στη Βενετία",
@@ -85,27 +55,7 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/lqFJHHUECKiH9s2oxT3rfG490WV.jpg",
          "playerLabel": "Μυστήριο στη Βενετία",
-         "action": "video:https://www.sw.vidce.net/d/NCv2D0Hjil5FmyAI5MTySg/1701717430/2018/2015/tt22687790.mp4"
-      },
-      {
-         "title": "Creation of the Gods I: Kingdom of Storms",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}6.9",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/kUKEwAoWe4Uyt8sFmtp5S86rlBk.jpg",
-         "playerLabel": "Creation of the Gods I: Kingdom of Storms",
-         "action": "video:https://www.sw.vidce.net/d/HZR3ZHBiCj5zMtMOlOggxA/1701716528/2018/2015/tt6979756.mp4"
-      },
-      {
-         "title": "Outlaw Johnny Black",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}5.7",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/3Kf2uBrHUuo9nGYarmgRq2LGaI8.jpg",
-         "playerLabel": "Outlaw Johnny Black",
-         "action": "video:https://www.sw.vidce.net/d/T2SyM5mJek4S_q-qwbWDNw/1701287325/2018/2015/tt8667828.mp4"
+         "action": "video:https://www.sw.vidce.net/d/0B2Fq13r12IAa4RI67nrqg/1710338196/2018/2015/tt22687790.mp4"
       },
       {
          "title": "Αγώνες πείνας 1-4",
@@ -127,56 +77,6 @@
          "action": "content:https://sastamaa.github.io/msx/data/base/movies/parts/divergent.json"
       },
       {
-         "title": "Gran Turismo",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}7.3",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/8AVcym6ASzAC26Sm0HiEk7AjjXn.jpg",
-         "playerLabel": "Gran Turismo",
-         "action": "video:https://www.sw.vidce.net/d/xSRzPZdX9fdLZCCX9IqZhw/1697046832/2018/2015/tt4495098.mp4"
-      },
-      {
-         "title": "Η Καλόγρια II",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}5.8",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/gSDhPT5wZVhYR2xJdf8kAac9ymj.jpg",
-         "playerLabel": "Η Καλόγρια II",
-         "action": "video:https://www.sw.vidce.net/d/3rmfAFmOOcaIml5guiIjAQ/1697046589/2018/2015/tt10160976.mp4"
-      },
-      {
-         "title": "Καμία σωτηρία",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}6.5",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/ehGIDAMaYy6Eg0o8ga0oqflDjqW.jpg",
-         "playerLabel": "Καμία σωτηρία",
-         "action": "video:https://www.sw.vidce.net/d/PWo1pb2s8ruMtAFPiZuLRg/1697046388/2018/2015/tt14509110.mp4"
-      },
-      {
-         "title": "Blue Beetle",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}6.3",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg",
-         "playerLabel": "Blue Beetle",
-         "action": "video:https://www.sw.vidce.net/d/GfoKAiC8Cy6EEUlaL_HWEg/1697046425/2018/2015/tt9362930.mp4"
-      },
-      {
-         "title": "Μίλα Μου",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}7.3",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/kdPMUMJzyYAc4roD52qavX0nLIC.jpg",
-         "playerLabel": "Μίλα Μου",
-         "action": "video:https://www.sw.vidce.net/d/M447u4a__SbTLm7HiErvFQ/1697046448/2018/2015/tt10638522.mp4"
-      },
-      {
          "title": "The Equalizer 3: Το Τελευταίο Κεφάλαιο",
          "titleFooter": "2023",
          "badge": "{col:msx-white}7.1",
@@ -184,47 +84,7 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/p0WBnzgyqxMxbF4UGiqTwBLnwht.jpg",
          "playerLabel": "The Equalizer 3: Το Τελευταίο Κεφάλαιο",
-         "action": "video:https://www.sw.vidce.net/d/Si8lPIiu67jlpdRQMsxvlQ/1701716676/2018/2015/tt17024450.mp4"
-      },
-      {
-         "title": "Αντίστροφη Μέτρηση",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}5.3",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/kn02iPt8ou78YQ6qoHtRswUsGXC.jpg",
-         "playerLabel": "Αντίστροφη Μέτρηση",
-         "action": "video:https://www.sw.vidce.net/d/DXT5d1WsNY07PzU9ABgmNQ/1695721135/2018/2015/tt6906292.mp4"
-      },
-      {
-         "title": "Επικίνδυνη Αποστολή 3",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}8.0",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/mMHErZwXXlgE9ebggDgxyJAkBqL.jpg",
-         "playerLabel": "Επικίνδυνη Αποστολή: Θανάσιμη Εκδίκηση Μέρος Πρώτο",
-         "action": "video:https://www.sw.vidce.net/d/Dmlx-nKLWO3kxYuLUsQ5Rw/1694428487/2018/2015/tt9603212.mp4"
-      },
-      {
-         "title": "Demeter: Η Αφύπνιση του Κακού",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}6.2",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/snJfIa7xAPMSITaUJyNmcrZYI2m.jpg",
-         "playerLabel": "Demeter: Η Αφύπνιση του Κακού",
-         "action": "video:https://www.sw.vidce.net/d/vfDictQEzBKRuqebE9pMMg/1694428216/2018/2015/tt1001520.mp4"
-      },
-      {
-         "title": "Ο Μπαμπούλας",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}6.0",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/zstx6KuAG6dWJoYIJEVdhsxlytM.jpg",
-         "playerLabel": "Ο Μπαμπούλας",
-         "action": "video:https://www.sw.vidce.net/d/3yFGPV9698HuSuZnBLqxLg/1694428013/2018/2015/tt3427252.mp4"
+         "action": "video:https://www.sw.vidce.net/d/WcY9rpqOehwH-eDRF6ferg/1710338265/2018/2015/tt17024450.mp4"
       },
       {
          "title": "Scream VI",
@@ -234,17 +94,7 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg",
          "playerLabel": "Scream VI",
-         "action": "video:https://www.sw.vidce.net/d/F8g8zS_8GslZQOmAgvGcXg/1692732319/2018/2015/tt17663992.mp4"
-      },
-      {
-         "title": "Meg 2: Η Τάφρος",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}5.5",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/4U0YTs4W94hMkZU1jrnHKFcyVtK.jpg",
-         "playerLabel": "Meg 2: Η Τάφρος",
-         "action": "video:https://www.sw.vidce.net/d/1FTch4bxtbDgEfnjwh5NDg/1692731874/2018/2015/tt9224104.mp4"
+         "action": "video:https://www.sw.vidce.net/d/qnVnzzLtf78orl3ovvfdmg/1710338306/2018/2015/tt17663992.mp4"
       },
       {
          "title": "Μαθήματα Αποπλάνησης",
@@ -254,47 +104,7 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/96z2qZiq2WmmizR7hCUAUggpbtI.jpg",
          "playerLabel": "Μαθήματα Αποπλάνησης",
-         "action": "video:https://www.sw.vidce.net/d/kkN-uJfr7Jj6AXt435JBjg/1692731770/2018/2015/tt15671028.mp4"
-      },
-      {
-         "title": "Οπενχάϊμερ",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}8.6",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/efoCIdMmNgSdOlsNwovGxByjlOR.jpg",
-         "playerLabel": "Οπενχάϊμερ",
-         "action": "video:https://www.sw.vidce.net/d/VvX0qalUzw7dj0cb9MpLFg/1692731503/2018/2015/tt15398776.mp4"
-      },
-      {
-         "title": "Άκου τη Μαμά",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}5.9",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/pNjq1aM10wIGUj4WjQFrAmtkH9S.jpg",
-         "playerLabel": "Άκου τη Μαμά",
-         "action": "video:https://www.sw.vidce.net/d/S91P2NsF64mkc2E8zpoAfg/1692731428/2018/2015/tt9100018.mp4"
-      },
-      {
-         "title": "Παγιδευμένη Ψυχή: Η Πορφυρή Πόρτα",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}5.7",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/uFPrj63JPeiBhGtmGgM88glEjBq.jpg",
-         "playerLabel": "Παγιδευμένη Ψυχή: Η Πορφυρή Πόρτα",
-         "action": "video:https://www.sw.vidce.net/d/Hv_Rqd7yyM4HIcGZj2XFmw/1692177459/2018/2015/tt13405778.mp4"
-      },
-      {
-         "title": "Air: Κυνηγώντας ένα θρύλο",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}7.5",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/76AKQPdH3M8cvsFR9K8JsOzVlY5.jpg",
-         "playerLabel": "Air: Κυνηγώντας ένα θρύλο",
-         "action": "video:https://www.sw.vidce.net/d/FPnCJqdRCj2eV68VNvyK1A/1691487323/2018/2015/tt16419074.mp4"
+         "action": "video:https://www.sw.vidce.net/d/JtOnjqfKxeCrr0JJ1_YXuA/1710338333/2018/2015/tt15671028.mp4"
       },
       {
          "title": "Fast X",
@@ -304,7 +114,7 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/jx9YsketQXqpThnMnWwOl4AqPPZ.jpg",
          "playerLabel": "Fast X",
-         "action": "video:https://www.sw.vidce.net/d/j-QGb4q3n3i_RwAoqZhnEA/1691487166/2018/2015/tt5433140.mp4"
+         "action": "video:https://www.sw.vidce.net/d/o5-wZfjPqbMW5cPkE2p4jw/1710338373/2018/2015/tt5433140.mp4"
       },
       {
          "title": "John Wick 4",
@@ -314,7 +124,7 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/zEzqC3VmVZ8ixRSm4XkTwMhRJuB.jpg",
          "playerLabel": "John Wick: Κεφάλαιο 4",
-         "action": "video:https://www.sw.vidce.net/d/uaj7alI4muFe1q0vvHM9gw/1691486817/2018/2015/tt10366206.mp4"
+         "action": "video:https://www.sw.vidce.net/d/TsViBg6LeaTBHWa1KVjB8g/1710338389/2018/2015/tt10366206.mp4"
       },
       {
          "title": "Στα Ίχνη του Δολοφόνου",
@@ -324,17 +134,7 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/tFbLqSDGqlesfYPxnkoxeU3yAhB.jpg",
          "playerLabel": "Στα Ίχνη του Δολοφόνου",
-         "action": "video:https://www.sw.vidce.net/d/2i6n_QNJzw2x1reoKIxx6Q/1691486571/2018/2015/tt10275534.mp4"
-      },
-      {
-         "title": "Μπάρμπι",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}7.5",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/kyzWUqsubPBsR10dRrflX6pQPyu.jpg",
-         "playerLabel": "Μπάρμπι",
-         "action": "video:https://www.sw.vidce.net/d/hn-SjzT8w77drPfIZeyYzg/1694428067/2018/2015/tt1517268.mp4"
+         "action": "video:https://www.sw.vidce.net/d/w1xcM0ET0aFbQdFnTHX7Xw/1710338413/2018/2015/tt10275534.mp4"
       },
       {
          "title": "Ο Indiana Jones και ο Δίσκος του Πεπρωμένου",
@@ -344,37 +144,7 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/i25nEOGfXBwMeLij0jBTBi5Xlkl.jpg",
          "playerLabel": "Ο Indiana Jones και ο Δίσκος του Πεπρωμένου",
-         "action": "video:https://www.sw.vidce.net/d/Slm-9hSa06WryPVEndCxoQ/1694428120/2018/2015/tt1462764.mp4"
-      },
-      {
-         "title": "The Flash",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}7.0",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/ovzKOC84zEn42lO6Se6T28d0fVQ.jpg",
-         "playerLabel": "The Flash",
-         "action": "video:https://www.sw.vidce.net/d/yGGEmr-uXAbblPQaOYbvww/1690985225/2018/2015/tt0439572.mp4"
-      },
-      {
-         "title": "Υπνωτιστές",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}5.5",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/6JUEbeqilnqP6r7dvGIjp5R4Juk.jpg",
-         "playerLabel": "Υπνωτιστές",
-         "action": "video:https://www.sw.vidce.net/d/a4CBhyoPKCaOWhNP9gloMw/1690985111/2018/2015/tt8080204.mp4"
-      },
-      {
-         "title": "Transformers 7",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}6.2",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/6Qpg485zIcxWiX1yzM1NnpezGTu.jpg",
-         "playerLabel": "Transformers: Η Εξέγερση των Θηρίων",
-         "action": "video:https://www.sw.vidce.net/d/Odhk4beEczDo2SA7WECrOw/1690983254/2018/2015/tt5090568.mp4"
+         "action": "video:https://www.sw.vidce.net/d/xyKqrXdX9rmaN4CmGDX4Gg/1710338439/2018/2015/tt1462764.mp4"
       },
       {
          "title": "Magic Mike 2",
@@ -384,7 +154,7 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/lPSrsPrEKswtWL3F5xpgvnWmrBH.jpg",
          "playerLabel": "Magic Mike: O Τελευταίος Του Χορός",
-         "action": "video:https://www.sw.vidce.net/d/Mhh7XILAzfMbeJOBIv1NLw/1690983459/2018/2015/tt16280138.mp4"
+         "action": "video:https://www.sw.vidce.net/d/_8oxHPl17JBGhvgWlPXJiQ/1710338472/2018/2015/tt16280138.mp4"
       },
       {
          "title": "Γάμος μετ' εμποδίων",
