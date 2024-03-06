@@ -7,10 +7,10 @@
             {
                "type": "button",
                "layout": "0,0,2,1",
-               "label": "SEASON 1",
+               "label": "SEASON 3",
                "action": "panel:data",
                "data": {
-                  "headline": "Season 1",
+                  "headline": "Season 3",
                   "template": {
                      "type": "control",
                      "layout": "0,0,2,1",
