@@ -9,58 +9,22 @@
    },
    "items": [
       {
-         "title": "The Tourist",
-         "titleFooter": "2022",
-         "badge": "{col:msx-white}7.0",
+         "title": "Avatar: The Last Airbender",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}7.4",
          "badgeColor": "msx-blue",
          "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w780/sxZHAk74Oq0Uxh5KLJGo1u133SU.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/the_tourist.json"
+         "image": "https://image.tmdb.org/t/p/w780/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/avatar.json"
       },
       {
-         "title": "Hawkeye",
-         "titleFooter": "2021",
-         "badge": "{col:msx-white}7.5",
+         "title": "Entrevías",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}6.9",
          "badgeColor": "msx-blue",
          "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w780/ct5pNE5dDHryHLDnxyZPYcqO1sz.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/hawkeye.json"
-      },
-      {
-         "title": "Echo",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}6.1",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w780/4m2kop1q6OLnOz7MWZmdzZbSNkh.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/echo.json"
-      },
-      {
-         "title": "Reacher",
-         "titleFooter": "2022",
-         "badge": "{col:msx-white}8.1",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w780/jFuH0md41x5mB4qj5344mSmtHrO.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/reacher.json"
-      },
-      {
-         "title": "Squid Game: The Challenge",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}4.8",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w780/eAjXAgdjPMZH9Ugub7XYPowFoS1.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/squid_game_show.json"
-      },
-      {
-         "title": "Monarch: Legacy of Monsters",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}7.6",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w780/uwrQHMnXD2DA1rvaMZk4pavZ3CY.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/monarch.json"
+         "image": "https://image.tmdb.org/t/p/w780/dJWFFoMgY0t6CmsbRlR2TBazfqt.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/entrevias.json"
       },
       {
          "title": "Anne Rice's Mayfair Witches",
@@ -81,15 +45,6 @@
          "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/the_bear.json"
       },
       {
-         "title": "Black Bird",
-         "titleFooter": "2022",
-         "badge": "{col:msx-white}8.1",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w780/uAt2KJDb9Uvsh9K6lUnJoLW3Nod.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/black_bird.json"
-      },
-      {
          "title": "Cruel Summer",
          "titleFooter": "2021",
          "badge": "{col:msx-white}7.4",
@@ -97,42 +52,6 @@
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w780/mPiDMJC5vCz1xYR3qX7zzBxLRcC.jpg",
          "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/cruel_summer.json"
-      },
-      {
-         "title": "Κάλπικη Ζωή",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}8.4",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w780/p39JrYSno982g24lZtNQWj20n5L.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/farzi.json"
-      },
-      {
-         "title": "Υπόθεση Jacob",
-         "titleFooter": "2020",
-         "badge": "{col:msx-white}7.8",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w780/pK9cq5nSW3FyeZKL0F2DnrZF5fC.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/defending_jacob.json"
-      },
-      {
-         "title": "The Devil's Hour",
-         "titleFooter": "2022",
-         "badge": "{col:msx-white}7.6",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w780/mFU6ZPAs6g8Y9Eld28GULJYt3rC.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/the_devils_hour.json"
-      },
-      {
-         "title": "Μυστική εισβολή",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}6.1",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w780/mkPhCmAEdS64XXm4X58Pv0xJh2s.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/secret_invasion.json"
       },
       {
          "title": "Ανάμεσα στο Πλήθος",
