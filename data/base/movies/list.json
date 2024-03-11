@@ -17,6 +17,16 @@
       }
    },
    "items": [
+            {
+         "title": "Γουόνκα",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}7.3",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/2jGEPpok8ioViQ4Ck8ofVZgfOPd.jpg",
+         "playerLabel": "Γουόνκα",
+         "action": "video:https://vidsrc.to/embed/movie/tt6166392"
+      },
       {
          "title": "Ο μελισσοκόμος",
          "titleFooter": "2024",
