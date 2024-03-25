@@ -9,6 +9,26 @@
    },
    "items": [
       {
+         "title": "O Ωρίωνας και το Σκοτάδι ",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/oT53tpbp12PfJ0ifCs71Viue8R8.jpg",
+         "playerLabel": "O Ωρίωνας και το Σκοτάδι ",
+         "action": "video:https://www.sw.vidce.net/d/Ty20-VbNG2kLrAzwtpPLbA79.129.128.167/1711968434/video/2015/tt28066777GR.mp4"
+      },
+      {
+         "title": "Ευχή",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/t078nmhOVRrSJw4OcqbO4dvhIW7.jpg",
+         "playerLabel": "Ευχή",
+         "action": "video:https://www.sw.vidce.net/d/U0Tl65ZAJp97jPzT_-kq2g79.129.128.167/1711968333/video/2015/tt11304740GR.mp4"
+      },
+      {
          "title": "Οι Ευχούληδες 3: Μαζί για μπάντα",
          "titleFooter": "2023",
          "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
