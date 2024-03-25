@@ -9,6 +9,16 @@
    },
    "items": [
       {
+         "title": "Οι Ευχούληδες 3: Μαζί για μπάντα",
+         "titleFooter": "2023",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/2ij5LYwmueIqw2MKG3RTQNDhRgX.jpg",
+         "playerLabel": "Οι Ευχούληδες 3: Μαζί για μπάντα",
+         "action": "video:https://www.sw.vidce.net/d/X_xDBt1a6s24jltHUpro8A79.129.128.167/1711967925/video/2015/tt14362112GR.mp4"
+      },
+      {
          "title": "Λίο",
          "titleFooter": "2023",
          "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
