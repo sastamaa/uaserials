@@ -9,6 +9,36 @@
    },
    "items": [
       {
+         "title": "Φανταστικοί Φίλοι",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/iByZwrOEahK9riNyyHsO9O59qb8.jpg",
+         "playerLabel": "Φανταστικοί Φίλοι",
+         "action": "video:https://www.sw.vidce.net/d/DfLPwi6foYFTEBATjJkYAA94.69.51.76/1724066545/video/2015/tt11152168GR.mp4"
+      },
+      {
+         "title": "Kung Fu Panda 4",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/5Thi1uDkkUaQsyh1cMQy3MPKIdw.jpg",
+         "playerLabel": "Kung Fu Panda 4",
+         "action": "video:https://www.sw.vidce.net/d/aKTITuoe2ygDLv--A83sHA94.69.51.76/1724066414/video/2015/tt21692408GR.mp4"
+      },
+      {
+         "title": "Βυθός του Μπικίνι SOS: Η Ταινία της Σάντι",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/30YnfZdMNIV7noWLdvmcJS0cbnQ.jpg",
+         "playerLabel": "Βυθός του Μπικίνι SOS: Η Ταινία της Σάντι",
+         "action": "video:https://www.sw.vidce.net/d/Klna0A4Eo27Sv4jAmdixOg/1724066249/video/2015/tt23063732GR.mp4"
+      },
+      {
          "title": "O Ωρίωνας και το Σκοτάδι ",
          "titleFooter": "2024",
          "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
