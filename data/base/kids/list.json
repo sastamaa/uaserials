@@ -9,6 +9,16 @@
    },
    "items": [
       {
+         "title": "Τα μυαλά που κουβαλάς 2",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}ΜΕ ΥΠΟΤΙΤΛ.",
+         "badgeColor": "msx-red",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/htIJ70YqNxFEU81uBcGWbUpbxW2.jpg",
+         "playerLabel": "Τα μυαλά που κουβαλάς 2",
+         "action": "video:https://www.sw.vidce.net/d/8d8vOktiQH8Uu6_4RCFMkw/1724831261/video/2015/tt22022452.mp4"
+      },
+      {
          "title": "Φανταστικοί Φίλοι",
          "titleFooter": "2024",
          "badge": "{col:msx-white}ΜΕΤΑΓΛ.",
