@@ -9,67 +9,13 @@
    },
    "items": [
       {
-         "title": "Avatar: The Last Airbender",
-         "titleFooter": "2024",
-         "badge": "{col:msx-white}7.4",
+         "title": "Голота",
+         "titleFooter": "2019",
+         "badge": "{col:msx-white}8.4",
          "badgeColor": "msx-blue",
          "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w780/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/avatar.json"
-      },
-      {
-         "title": "Entrevías",
-         "titleFooter": "2024",
-         "badge": "{col:msx-white}6.9",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w780/dJWFFoMgY0t6CmsbRlR2TBazfqt.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/entrevias.json"
-      },
-      {
-         "title": "Anne Rice's Mayfair Witches",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}6.2",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w780/zKRBfuRWGbs9R2nxhlNP8CfArUh.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/mayfair_witches.json"
-      },
-      {
-         "title": "The Bear",
-         "titleFooter": "2022",
-         "badge": "{col:msx-white}8.5",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w780/3MVHF64rlvH1eofKefIoazXwOK0.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/the_bear.json"
-      },
-      {
-         "title": "Cruel Summer",
-         "titleFooter": "2021",
-         "badge": "{col:msx-white}7.4",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w780/mPiDMJC5vCz1xYR3qX7zzBxLRcC.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/cruel_summer.json"
-      },
-      {
-         "title": "Ανάμεσα στο Πλήθος",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}7.7",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w780/wI7FtSMBOAfv24jItWlMk7NlxfH.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/the_crowded_room.json"
-      },
-      {
-         "title": "Αεροπειρατεία",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}7.6",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w780/a08WDt2I0jchc6ySQN8mnAdta5z.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/hijack.json"
+         "image": "https://image.tmdb.org/t/p/w780/wOb0xZv4yB8ev5DdxEXidpBhTIe.jpg",
+         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/brassic.json"
       }
    ]
 }
