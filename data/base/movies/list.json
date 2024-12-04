@@ -18,173 +18,34 @@
    },
    "items": [
       {
-         "title": "Ο μελισσοκόμος",
+         "title": "Бджоляр",
          "titleFooter": "2024",
          "badge": "{col:msx-white}6.7",
          "badgeColor": "msx-blue",
          "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/hz1QuFW85VxAhKKaaaf9rBjA2a0.jpg",
-         "playerLabel": "Ο μελισσοκόμος",
-         "action": "video:https://www.sw.vidce.net/d/jRI6Qc3G0LcFWFToF4y1jQ/1710338094/2018/2015/tt15314262.mp4"
+         "image": "https://image.tmdb.org/t/p/w500/fiUUcELca5sJ6wGE0H9qxDvELUr.jpg",
+         "playerLabel": "Бджоляр",
+         "action": "video:https://s1.hdvbua.pro/media1/content/stream/films/the_beekeeper_2024_amzn_webdl_1080p_94580/hls/1080/index.m3u8"
       },
       {
-         "title": "Γουόνκα",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}7.3",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/2jGEPpok8ioViQ4Ck8ofVZgfOPd.jpg",
-         "playerLabel": "Γουόνκα",
-         "action": "video:https://www.sw.vidce.net/d/GTgffo4NY_HpVrrchOjduA/1710338123/2018/2015/tt6166392.mp4"
-      },
-      {
-         "title": "The hunger games: Η μπαλάντα των αηδονιών και των φιδιών",
+         "title": "Праведник 3: Остання глава",
          "titleFooter": "2023",
          "badge": "{col:msx-white}7.1",
          "badgeColor": "msx-blue",
          "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg",
-         "playerLabel": "The hunger games: Η μπαλάντα των αηδονιών και των φιδιών",
-         "action": "video:https://www.sw.vidce.net/d/ZdKH3FBcJ6Jkg8rojCqyog/1710338148/2018/2015/tt10545296.mp4"
+         "image": "https://image.tmdb.org/t/p/w500/ivbvEjV09WYIJyOHsUc34FrVNxL.jpg",
+         "playerLabel": "Праведник 3: Остання глава",
+         "action": "video:https://s1.hdvbua.pro/media/content/stream/films/the_equalizer_3_2023_bdrip_1080p_92893/hls/1080/index.m3u8"
       },
       {
-         "title": "Μυστήριο στη Βενετία",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}6.6",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/lqFJHHUECKiH9s2oxT3rfG490WV.jpg",
-         "playerLabel": "Μυστήριο στη Βενετία",
-         "action": "video:https://www.sw.vidce.net/d/0B2Fq13r12IAa4RI67nrqg/1710338196/2018/2015/tt22687790.mp4"
-      },
-      {
-         "title": "Αγώνες πείνας 1-4",
-         "titleFooter": "2012 - 2015",
-         "badge": "{col:msx-white}6.5",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/3vN0Tz1GVGuyq2I7E1wvfKyAAAy.jpg",
-         "playerLabel": "sample",
-         "action": "content:https://sastamaa.github.io/msx/data/base/movies/parts/hunger_games.json"
-      },
-      {
-         "title": "Η τριλογία της απόκλισης 1-3",
-         "titleFooter": "2014 - 2016",
-         "badge": "{col:msx-white}5.7",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/kIjGKY47bVwADWpJS875Lfz2Sin.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/movies/parts/divergent.json"
-      },
-      {
-         "title": "The Equalizer 3: Το Τελευταίο Κεφάλαιο",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}7.1",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/p0WBnzgyqxMxbF4UGiqTwBLnwht.jpg",
-         "playerLabel": "The Equalizer 3: Το Τελευταίο Κεφάλαιο",
-         "action": "video:https://www.sw.vidce.net/d/WcY9rpqOehwH-eDRF6ferg/1710338265/2018/2015/tt17024450.mp4"
-      },
-      {
-         "title": "Scream VI",
+         "title": "Без образ",
          "titleFooter": "2023",
          "badge": "{col:msx-white}6.5",
          "badgeColor": "msx-blue",
          "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/wDWwtvkRRlgTiUr6TyLSMX8FCuZ.jpg",
-         "playerLabel": "Scream VI",
-         "action": "video:https://www.sw.vidce.net/d/qnVnzzLtf78orl3ovvfdmg/1710338306/2018/2015/tt17663992.mp4"
-      },
-      {
-         "title": "Μαθήματα Αποπλάνησης",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}6.5",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/96z2qZiq2WmmizR7hCUAUggpbtI.jpg",
+         "image": "https://image.tmdb.org/t/p/w500/T8C9m2OOTv1QXOnlxN4QIFhxdg.jpg",
          "playerLabel": "Μαθήματα Αποπλάνησης",
-         "action": "video:https://www.sw.vidce.net/d/JtOnjqfKxeCrr0JJ1_YXuA/1710338333/2018/2015/tt15671028.mp4"
-      },
-      {
-         "title": "Fast X",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}5.9",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/jx9YsketQXqpThnMnWwOl4AqPPZ.jpg",
-         "playerLabel": "Fast X",
-         "action": "video:https://www.sw.vidce.net/d/o5-wZfjPqbMW5cPkE2p4jw/1710338373/2018/2015/tt5433140.mp4"
-      },
-      {
-         "title": "John Wick 4",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}7.8",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/zEzqC3VmVZ8ixRSm4XkTwMhRJuB.jpg",
-         "playerLabel": "John Wick: Κεφάλαιο 4",
-         "action": "video:https://www.sw.vidce.net/d/TsViBg6LeaTBHWa1KVjB8g/1710338389/2018/2015/tt10366206.mp4"
-      },
-      {
-         "title": "Στα Ίχνη του Δολοφόνου",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}6.5",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/tFbLqSDGqlesfYPxnkoxeU3yAhB.jpg",
-         "playerLabel": "Στα Ίχνη του Δολοφόνου",
-         "action": "video:https://www.sw.vidce.net/d/w1xcM0ET0aFbQdFnTHX7Xw/1710338413/2018/2015/tt10275534.mp4"
-      },
-      {
-         "title": "Ο Indiana Jones και ο Δίσκος του Πεπρωμένου",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}6.8",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/i25nEOGfXBwMeLij0jBTBi5Xlkl.jpg",
-         "playerLabel": "Ο Indiana Jones και ο Δίσκος του Πεπρωμένου",
-         "action": "video:https://www.sw.vidce.net/d/xyKqrXdX9rmaN4CmGDX4Gg/1710338439/2018/2015/tt1462764.mp4"
-      },
-      {
-         "title": "Magic Mike 2",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}5.3",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/lPSrsPrEKswtWL3F5xpgvnWmrBH.jpg",
-         "playerLabel": "Magic Mike: O Τελευταίος Του Χορός",
-         "action": "video:https://www.sw.vidce.net/d/_8oxHPl17JBGhvgWlPXJiQ/1710338472/2018/2015/tt16280138.mp4"
-      },
-      {
-         "title": "Γάμος μετ' εμποδίων",
-         "titleFooter": "2022",
-         "badge": "{col:msx-white}5.5",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/t79ozwWnwekO0ADIzsFP1E5SkvR.jpg",
-         "playerLabel": "Shotgun Wedding",
-         "action": "video:https://www.sw.vidce.net/d/La4Cj3ddHdxLRq_uRlaGrg/1690983670/2018/2015/tt9686790.mp4"
-      },
-      {
-         "title": "Εκτός ελέγχου",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}6.5",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/3Ti1YLH3Jpd1Bxjo2sqmaN4xn9n.jpg",
-         "playerLabel": "Εκτός ελέγχου",
-         "action": "video:https://www.sw.vidce.net/d/iPO5oDRIjwSfTpu9jze2fA/1690983767/2018/2015/tt5884796.mp4"
-      },
-      {
-         "title": "Το μενού",
-         "titleFooter": "2022",
-         "badge": "{col:msx-white}7.2",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/tdFJMontiW5ASEW4mT0faMyJQRN.jpg",
-         "playerLabel": "Το μενού",
-         "action": "video:https://s1.hdvbua.pro/media1/content/stream/new/scrubs.s01e01.stb.mvo_53150/hls/480/index.m3u8"
+         "action": "video:https://s1.hdvbua.pro/media1/content/stream/films/no_hard_feelings_2023_bdrip_1080p_90784/hls/1080/index.m3u8"
       }
    ]
 }
