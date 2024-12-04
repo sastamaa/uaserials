@@ -15,7 +15,7 @@
          "badgeColor": "msx-blue",
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w780/wOb0xZv4yB8ev5DdxEXidpBhTIe.jpg",
-         "action": "content:https://sastamaa.github.io/msx/data/base/series/se_all/brassic.json"
+         "action": "content:https://sastamaa.github.io/uaserials/data/base/series/se_all/brassic.json"
       }
    ]
 }
