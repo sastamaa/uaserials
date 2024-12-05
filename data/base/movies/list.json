@@ -9,34 +9,104 @@
    },
    "items": [
       {
-         "title": "Бджоляр",
-         "titleFooter": "2024",
-         "badge": "{col:msx-white}6.7",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/fiUUcELca5sJ6wGE0H9qxDvELUr.jpg",
-         "playerLabel": "Бджоляр",
-         "action": "video:https://s1.hdvbua.pro/media1/content/stream/films/the_beekeeper_2024_amzn_webdl_1080p_94580/hls/1080/index.m3u8"
-      },
-      {
-         "title": "Праведник 3: Остання глава",
-         "titleFooter": "2023",
-         "badge": "{col:msx-white}7.1",
-         "badgeColor": "msx-blue",
-         "imageFiller": "cover",
-         "image": "https://image.tmdb.org/t/p/w500/ivbvEjV09WYIJyOHsUc34FrVNxL.jpg",
-         "playerLabel": "Праведник 3: Остання глава",
-         "action": "video:https://s1.hdvbua.pro/media/content/stream/films/the_equalizer_3_2023_bdrip_1080p_92893/hls/1080/index.m3u8"
-      },
-      {
          "title": "Без образ",
          "titleFooter": "2023",
          "badge": "{col:msx-white}6.5",
          "badgeColor": "msx-blue",
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/T8C9m2OOTv1QXOnlxN4QIFhxdg.jpg",
-         "playerLabel": "Μαθήματα Αποπλάνησης",
+         "playerLabel": "Без образ",
          "action": "video:https://s1.hdvbua.pro/media1/content/stream/films/no_hard_feelings_2023_bdrip_1080p_90784/hls/1080/index.m3u8"
+      },
+      {
+         "title": "Спеціаліст",
+         "titleFooter": "1994",
+         "badge": "{col:msx-white}6.5",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/2oQ0fyX4TvSSqEe0o2YH1IyZ83X.jpg",
+         "playerLabel": "Спеціаліст",
+         "action": "video:https://s1.hdvbua.pro/media/content/stream/films/the.specialist.1994.bdrip.1080p_16459/hls/1080/index.m3u8"
+      },
+      {
+         "title": "Красуня",
+         "titleFooter": "1990",
+         "badge": "{col:msx-white}7.1",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/2wtNGijWJqPTcAPZZRy5jLE4ClC.jpg",
+         "playerLabel": "Красуня",
+         "action": "video:https://s1.hdvbua.pro/media1/content/stream/new/pretty_woman_1990_bdrip_1080p_h.265_55570/hls/1080/index.m3u8"
+      },
+      {
+         "title": "Вам лист»",
+         "titleFooter": "1998",
+         "badge": "{col:msx-white}6.7",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/8N6mWuxKtGu8bbOHZFyR1Iww7WD.jpg",
+         "playerLabel": "Вам лист»",
+         "action": "video:https://s1.hdvbua.pro/media/content/stream/films/youve_got_mail_1998_bdrip_1080p_39534/hls/1080/index.m3u8"
+      },
+      {
+         "title": "Французький поцілунок»",
+         "titleFooter": "1995",
+         "badge": "{col:msx-white}6.6",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/odG0qfyK2SIc6vfGYIiH8aLASqL.jpg",
+         "playerLabel": "Французький поцілунок»",
+         "action": "video:https://s1.hdvbua.pro/media/content/stream/films/french_kiss_1995_bdrip_1080p_h.265_85427/hls/1080/index.m3u8"
+      },
+      {
+         "title": "Диявол носить «Прада»",
+         "titleFooter": "2006",
+         "badge": "{col:msx-white}7.1",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/5dsamjlhtPx676JiKbEh2AcxCZQ.jpg",
+         "playerLabel": "Диявол носить «Прада»",
+         "action": "video:https://s1.hdvbua.pro/media/content/stream/films/the_devil_wears_prada_2006_webdlrip720p_open_matte_16954/hls/720/index.m3u8"
+      },
+      {
+         "title": "Як позбутися хлопця за 10 днів»",
+         "titleFooter": "2003",
+         "badge": "{col:msx-white}6.5",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/xtVwfKYrFWBki6lJB4V5nuDgXaF.jpg",
+         "playerLabel": "Як позбутися хлопця за 10 днів»",
+         "action": "video:https://s1.hdvbua.pro/media1/content/stream/films/how_to_lose_a_guy_in_10_days_2003_bdrip_1080p_18931/hls/1080/index.m3u8"
+      },
+      {
+         "title": "Круті дівчата",
+         "titleFooter": "2004",
+         "badge": "{col:msx-white}7.1",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/zOpq2o5UaPtSKn4YnkRKzqW0GuN.jpg",
+         "playerLabel": "Круті дівчата",
+         "action": "video:https://s1.hdvbua.pro/media1/content/stream/films/mean_girls_2004_bdrip_1080p_75758/hls/1080/index.m3u8"
+      },
+      {
+         "title": "Білявка в законі»",
+         "titleFooter": "2001",
+         "badge": "{col:msx-white}7.1",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/pyHesTCpDxh0r2jbV7jRpBEXHej.jpg",
+         "playerLabel": "Білявка в законі»",
+         "action": "video:https://s1.hdvbua.pro/media/content/stream/films/legally_blonde_2001_bdrip_720p_74287/hls/720/index.m3u8"
+      },
+      {
+         "title": "Це все вона»",
+         "titleFooter": "1999",
+         "badge": "{col:msx-white}5.9",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/w500/vZNPuKS6XHVJa6zXYzF4ziIfs5c.jpg",
+         "playerLabel": "Це все вона»",
+         "action": "video:https://s1.hdvbua.pro/media1/content/stream/chest/shes_all_that_1999_bdrip_1080p_65769/hls/1080/index.m3u8"
       }
    ]
 }
