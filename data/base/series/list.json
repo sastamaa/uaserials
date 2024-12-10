@@ -1,11 +1,20 @@
 {
    "type": "list",
-   "headline": "Series",
+   "headline": "Movies",
    "template": {
       "type": "separate",
       "layout": "0,0,2,4",
       "color": "msx-glass",
-      "title": "Title"
+      "title": "Title",
+      "progress": -1,
+      "live": {
+         "type": "playback",
+         "titleFooter": "{progress:time:hh:mm:ss}",
+         "action": "player:show"
+      },
+      "properties": {
+         "resume:key": "url"
+      }
    },
    "items": [
       {
