@@ -9,6 +9,15 @@
    },
    "items": [
       {
+         "title": "Високий потенціал",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}7.7",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://uakino.me/uploads/posts/2024-11/1731256903_1731256178_27.jpg",
+         "action": "content:https://sastamaa.github.io/uaserials/data/base/series/se_all/high_potential.json"
+      },
+      {
          "title": "Голота",
          "titleFooter": "2019",
          "badge": "{col:msx-white}8.4",
