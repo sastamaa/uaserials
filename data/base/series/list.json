@@ -9,6 +9,24 @@
    },
    "items": [
       {
+         "title": "День Шакала",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}8.1",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://uakino.me/uploads/posts/2024-11/1731224098_672fe09dec44c.jpg",
+         "action": "content:https://sastamaa.github.io/uaserials/data/base/series/se_all/jackal.json"
+      },
+      {
+         "title": "Чорні голуби",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}8.1",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://uakino.me/uploads/posts/2024-12/1733423097_6751eb84f23d4.jpg",
+         "action": "content:https://sastamaa.github.io/uaserials/data/base/series/se_all/black_doves.json"
+      },
+      {
          "title": "Високий потенціал",
          "titleFooter": "2024",
          "badge": "{col:msx-white}7.7",
