@@ -18,6 +18,16 @@
    },
    "items": [
       {
+         "title": "Неприємності",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}7.7",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://uakino.me/uploads/posts/2024-10/mv5botmwzmfkzjctogjhmi00zmqyltk4odatytm0otflnjkyztvlxkeyxkfqcgc__v1_.jpg",
+         "playerLabel": "Неприємності",
+         "action": "video:https://ashdi.vip/video11/2/new/trouble.strul.2024.ua_144718/hls/1080/AqaXi3WGjuRekxH2AQ==/index.m3u8"
+      },
+      {
          "title": "Граф Монте-Крісто",
          "titleFooter": "2024",
          "badge": "{col:msx-white}7.7",
