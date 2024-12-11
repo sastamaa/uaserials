@@ -18,6 +18,36 @@
    },
    "items": [
       {
+         "title": "Присяжний №2",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}7.2",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://uakino.me/uploads/posts/2024-12/1733466478_675219d8b9bfa.jpg",
+         "playerLabel": "Присяжний №2",
+         "action": "video:https://ashdi.vip/video11/1/new/juror__2_2024_webdl_1080p_h264_ukr_eng_hurtom_154191/hls/1080/AqaXi3WGjuRekxH2AQ==/index.m3u8"
+      },
+      {
+         "title": "Сплячі Собаки",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}6.1",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://image.tmdb.org/t/p/original/wVHPG5krLV441n09wKdNP4sGVIT.jpg",
+         "playerLabel": "Сплячі Собаки",
+         "action": "video:https://ashdi.vip/video11/2/serials/sleeping_dogs_125338/hls/1080/AqaXi3WGjuRekxH2AQ==/index.m3u8"
+      },
+      {
+         "title": "Кліпни двічі",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}6.9",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://uakino.me/uploads/posts/2024-09/1726817146_1725666972_fpqgrzyj8bnvvcia2ql9jn8ojub.jpg",
+         "playerLabel": "Кліпни двічі",
+         "action": "video:https://ashdi.vip/video11/2/new/blink.twice.2024.ua_142368/hls/1080/AqaXi3WGjuRekxH2AQ==/index.m3u8"
+      },
+      {
          "title": "Збирач кісток",
          "titleFooter": "2024",
          "badge": "{col:msx-white}4.1",
