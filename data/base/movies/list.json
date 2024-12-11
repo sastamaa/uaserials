@@ -18,6 +18,86 @@
    },
    "items": [
       {
+         "title": "Граф Монте-Крісто",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}7.7",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://uakino.me/uploads/posts/2024-12/1733652009_1729449212_10247386.jpg",
+         "playerLabel": "Граф Монте-Крісто",
+         "action": "video:https://ashdi.vip/video11/1/new/le.comte.de.montecristo.2024.bdrip.1080p.renatohd_154608/hls/480/AqaXi3WGjuRekxH2AQ==/index.m3u8"
+      },
+      {
+         "title": "Веном: Останній танець",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}6.2",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://uakino.me/uploads/posts/2024-10/5d34c9238f_44.jpg",
+         "playerLabel": "Веном: Останній танець",
+         "action": "video:https://ashdi.vip/video11/1/new/venom.the.last.dance.2024.1080p.amzn.webdl.ddp5.1.h.264.ultra.multivenomrgb_154745/hls/1080/AqaXi3WGjuRekxH2AQ==/index.m3u8"
+      },
+      {
+         "title": "Вона мертва",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}6.4",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://uakino.me/uploads/posts/2024-12/vona-mertva.png",
+         "playerLabel": "Вона мертва",
+         "action": "video:https://ashdi.vip/video11/1/new/following.2024_153805/hls/1080/AqaXi3WGjuRekxH2AQ==/index.m3u8"
+      },
+      {
+         "title": "Тиха година",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}6.0",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://uakino.me/uploads/posts/2024-11/2411171553331062356_f0_0.jpg",
+         "playerLabel": "Тиха година",
+         "action": "video:https://ashdi.vip/video11/2/films/the.silent.hour.2024_151650/hls/480/AqaXi3WGjuRekxH2AQ==/index.m3u8"
+      },
+      {
+         "title": "Код «Чорна канарка",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}5.3",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://uakino.me/uploads/posts/2024-11/xjhyfrfy.jpg",
+         "playerLabel": "Код «Чорна канарка",
+         "action": "video:https://ashdi.vip/video11/2/new/canary.black.2024.ua.mvo.dniprofilm_151502/hls/1080/AqaXi3WGjuRekxH2AQ==/index.m3u8"
+      },
+      {
+         "title": "Емілія Перес",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}7.2",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://uakino.me/uploads/posts/2024-11/1731691487_673523b864df2.jpg",
+         "playerLabel": "Емілія Перес",
+         "action": "video:https://ashdi.vip/video11/2/new/emilia.perez.2024.1080p.nf.webdl.ddp5.1.atmos.h.264.uafluxrgb_151017/hls/1080/AqaXi3WGjuRekxH2AQ==/index.m3u8"
+      },
+      {
+         "title": "Культовий убивця",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}4.7",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://uakino.me/uploads/posts/2024-05/1717080602_1717071876_jsr06fpv1h36omw0jfemvg73l2r.jpg",
+         "playerLabel": "Культовий убивця",
+         "action": "video:https://ashdi.vip/video11/2/films/cult_killer_2024_bdrip_1080p_149335/hls/1080/AqaXi3WGjuRekxH2AQ==/index.m3u8"
+      },
+      {
+         "title": "Американська зірка",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}5.4",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://uakino.me/uploads/posts/2024-02/1708270876_1708270713_55.jpg",
+         "playerLabel": "Американська зірка",
+         "action": "video:https://ashdi.vip/video11/2/films/american.star.2024.1080p_knoklab_118998/hls/1080/AqaXi3WGjuRekxH2AQ==/index.m3u8"
+      },
+      {
          "title": "Присяжний №2",
          "titleFooter": "2024",
          "badge": "{col:msx-white}7.2",
