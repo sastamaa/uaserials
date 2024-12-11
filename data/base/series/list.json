@@ -9,13 +9,13 @@
    },
    "items": [
       {
-         "title": "День Шакала",
+         "title": "Кросc",
          "titleFooter": "2024",
-         "badge": "{col:msx-white}8.1",
+         "badge": "{col:msx-white}7.0",
          "badgeColor": "msx-blue",
          "imageFiller": "cover",
-         "image": "https://uakino.me/uploads/posts/2024-11/1731224098_672fe09dec44c.jpg",
-         "action": "content:https://sastamaa.github.io/uaserials/data/base/series/se_all/jackal.json"
+         "image": "https://uakino.me/uploads/posts/2024-11/zowusxbacgbhhwsgq1gkgb9awgi.jpg",
+         "action": "content:https://sastamaa.github.io/uaserials/data/base/series/se_all/kross.json"
       },
       {
          "title": "Чорні голуби",
