@@ -8,6 +8,15 @@
       "title": "Title"
    },
    "items": [
+       {
+         "title": "Презумпція невинуватості",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}7.5",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://uakino.me/uploads/posts/2024-06/1718374014_1718369067_umbhv9ltybcerpgwxll4crlxmzt.jpg",
+         "action": "content:https://sastamaa.github.io/uaserials/data/base/series/se_all/prezumpcia.json"
+      },
       {
          "title": "Кросc",
          "titleFooter": "2024",
