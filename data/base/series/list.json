@@ -9,6 +9,15 @@
    },
    "items": [
        {
+         "title": "Бодкін",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}7.0",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://uakino.me/uploads/posts/2024-05/1715503338_1715501686_qcb7jdlkhknaxnlboxxxljajz3y.jpg",
+         "action": "content:https://sastamaa.github.io/uaserials/data/base/series/se_all/bodkin.json"
+      },
+       {
          "title": "Презумпція невинуватості",
          "titleFooter": "2024",
          "badge": "{col:msx-white}7.5",
