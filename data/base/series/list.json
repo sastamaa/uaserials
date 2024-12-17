@@ -44,6 +44,15 @@
          "image": "https://uakino.me/uploads/posts/2024-11/1731256903_1731256178_27.jpg",
          "action": "content:https://sastamaa.github.io/uaserials/data/base/series/se_all/high_potential.json"
       },
+       {
+         "title": "Пацієнт",
+         "titleFooter": "2022",
+         "badge": "{col:msx-white}7.0",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://uakino.me/uploads/posts/2023-12/1701782382_1701707182_axag9ky0aq0fnaasvyg0vu3xdb3.jpg",
+         "action": "content:https://sastamaa.github.io/uaserials/data/base/series/se_all/the_patient.json"
+      },
       {
          "title": "Голота",
          "titleFooter": "2019",
