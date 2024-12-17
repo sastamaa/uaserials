@@ -18,6 +18,36 @@
    },
    "items": [
       {
+         "title": "Оса",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}5.1",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://uakino.me/uploads/posts/2024-10/cover6d28a6fb75b7c467_md.jpg",
+         "playerLabel": "Оса",
+         "action": "video:https://ashdi.vip/video17/1/new/the.wasp.2024.ua.mvo.megogo.voice_155425/hls/1080/DaqXjXWRkeBYhA37BA==/index.m3u8"
+      },
+      {
+         "title": "Відступна тінь",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}7.9",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://uakino.me/uploads/posts/2024-10/n5ekwwaprzuzewmx3r8qdrtfhhu.jpg",
+         "playerLabel": "Відступна тінь",
+         "action": "video:https://ashdi.vip/video17/2/new/the.shadow.strays.2024.ua.dub.tak.treba.prodakshn_146773/hls/1080/DaqXjXWRkeBYhA37BA==/index.m3u8"
+      },
+      {
+         "title": "Вбивча спека",
+         "titleFooter": "2024",
+         "badge": "{col:msx-white}5.6",
+         "badgeColor": "msx-blue",
+         "imageFiller": "cover",
+         "image": "https://uakino.me/uploads/posts/2024-09/coveraa4533bbb5974de5_md.jpg",
+         "playerLabel": "Вбивча спека",
+         "action": "video:https://ashdi.vip/video17/2/new/killer.heat.2024.1080p.amzn.webdl.aac2.0.h.264utopia_145019/hls/480/DaqXjXWRkeBYhA37BA==/index.m3u8"
+      },
+      {
          "title": "Неприємності",
          "titleFooter": "2024",
          "badge": "{col:msx-white}7.7",
@@ -228,14 +258,14 @@
          "action": "video:https://s1.hdvbua.pro/media1/content/stream/films/mean_girls_2004_bdrip_1080p_75758/hls/1080/index.m3u8"
       },
       {
-         "title": "Білявка в законі»",
+         "title": "Білявка в законі",
          "titleFooter": "2001",
          "badge": "{col:msx-white}7.1",
          "badgeColor": "msx-blue",
          "imageFiller": "cover",
          "image": "https://image.tmdb.org/t/p/w500/pyHesTCpDxh0r2jbV7jRpBEXHej.jpg",
-         "playerLabel": "Білявка в законі»",
-         "action": "video:https://s1.hdvbua.pro/media/content/stream/films/legally_blonde_2001_bdrip_720p_74287/hls/720/index.m3u8"
+         "playerLabel": "Білявка в законі",
+         "action": "video:https://ashdi.vip/video17/2/films/legally_blonde_2001_bdrip_1080p_4xukr_eng_hurtom_99178/hls/480/DaqXjXWRkeBYhA37BA==/index.m3u8"
       },
       {
          "title": "Це все вона»",
