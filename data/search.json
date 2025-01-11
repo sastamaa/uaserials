@@ -1,0 +1,7 @@
+{
+   "type": "input",
+   "headline": "Search",
+   "description": "Type to search for movies or series",
+   "placeholder": "Search UaSerials",
+   "action": "https://sastamaa.github.io/uaserials/api/search.php?query={query}"
+}
