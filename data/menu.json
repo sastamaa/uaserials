@@ -12,16 +12,21 @@
          "icon": "movie",
          "label": "Movies",
          "data": "https://sastamaa.github.io/uaserials/data/base/movies/list.json"
-          },
+      },
       {
          "icon": "subscriptions",
          "label": "Series",
          "data": "https://sastamaa.github.io/uaserials/data/base/series/list.json"
-          },
+      },
       {
          "icon": "sentiment-satisfied-alt",
          "label": "Kids",
          "data": "https://sastamaa.github.io/uaserials/data/base/kids/list.json"
+      },
+      {
+         "icon": "search",
+         "label": "Search",
+         "data": "https://sastamaa.github.io/uaserials/data/search.json"
       }
    ]
 }
